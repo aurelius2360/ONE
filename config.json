@@ -1,0 +1,5 @@
+{
+    "embedding_model": "all-MiniLM-L6-v2",
+    "llm_model_reformulate": "llama3-70b-8192",
+    "llm_model_answer": "mistral-saba-24b"
+}
