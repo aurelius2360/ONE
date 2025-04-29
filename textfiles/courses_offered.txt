@@ -1,0 +1,163 @@
+SRM Institute of Science and Technology - Key Information about Courses  offered at different Campus
+ SRMIST, Kattankulathur (Main Campus, Kattankulathur,chennai - Headquarters of SRM) : 
+  B.Tech Courses:
+    - Aerospace Engineering  
+    - Artificial Intelligence  
+    - Automation and Robotics  
+    - Automobile Engineering 
+       - With Specialization in Automotive Electronics
+       - With Specialization in Vehicle Testing
+    - Automotive Engineering  
+    - Biomedical Engineering 
+       - With Specialization in Machine Intelligence  
+    - Biotechnology 
+       - With Specialization in Computational Biology
+       - With Specialization in Food Technology
+       - With Specialization in Genetic Engineering 
+      - With Specialization in Regenerative Medicine  
+    - Chemical Engineering  
+    - Civil Engineering 
+       With Specialization in Computer Application
+    - Computer Science and Business System  
+    - Computer Science and Engineering (CSE)  
+        - With Specialization in Artificial Intelligence & Machine Learning  
+        - With Specialization in Big Data Analytics  
+        - With Specialization in Blockchain Technology  
+        - With Specialization in Cloud Computing  
+        - With Specialization in Computer Networking  
+        - With Specialization in Cyber Security  
+        - With Specialization in Data Science  
+        - With Specialization in Gaming Technology  
+        - With Specialization in Information Technology  
+        - With Specialization in Internet of Things (IoT)  
+        - With Specialization in Software Engineering  
+        - With Specialization in DevSecOps  
+    - Electric Vehicle Technology  
+    - Electrical and Electronics Engineering  
+    - Electronics and Communication Engineering (ECE)  
+        - With Specialization in Cyber Physical Systems  
+        - With Specialization in Data Science  
+    - Electronics and Computer Engineering  
+    - Electronics and Instrumentation Engineering  
+    - Electronics Engineering (VLSI Design and Technology)  
+    - Mathematics and Computing  
+    - Mechanical Engineering  
+        - With Specialization in AI & Machine Learning  
+        - With Specialization in Automation and Robotics  
+    - Mechatronics Engineering 
+       - With Specialization in Autonomous Driving Technology, 
+       - With Specialization in Immersive Technologies, 
+       - With Specialization in Industrial IoT & Systems Engineering, 
+       - With Specialization in Robotics
+    - Nanotechnology  
+  M.Tech (Integrated) Courses : 
+    - Artificial Intelligence  
+    - Computer Science and Engineering (CSE) With Specialization in Cognitive Computing  
+    - Computer Science and Engineering (CSE) With Specialization in Cyber Security & Digital Forensics  
+    - Computer Science and Engineering (CSE) With Specialization in Data Science  
+    - Electronics and Communication Engineering w/s Microelectronics System Design  
+    - Mechanical Engineering  
+    - Material Science and Engineering  
+
+ SRMIST, Ramapuram Campus : 
+  B.Tech Courses:
+   - Biomedical Engineering  
+   - Biotechnology  
+   - Civil Engineering  
+   - Computer Science and Business System  
+   - Computer Science and Engineering (CSE)
+       - With Specialization in AI & ML, 
+       - With Specialization in Big Data Analytics
+       - With Specialization in Cloud Computing
+       - With Specialization in Cyber Security
+       - With Specialization in Gaming Technology
+       - With Specialization in IoT  
+   - Electrical and Electronics Engineering  
+   - Electronics and Communication Engineering 
+       With Specialization in Data Science  
+   - Information Technology  
+   - Mechanical Engineering  
+   - Artificial Intelligence  
+
+ SRMIST, Delhi NCR Campus (Ghaziabad) : 
+ B.Tech Courses:
+   - Automobile Engineering  
+   - Computer Science and Engineering (CSE) 
+     - With Specialization in AI & ML 
+     - With Specialization in Cloud Computing 
+     - With Specialization in Cyber Security
+     - With Specialization in Data Science  
+  - Electronics and Communication Engineering 
+     - With Specialization in Data Science 
+  - Mechanical Engineering 
+      - With Specialization in  AI & ML  
+
+ SRMIST, Vadapalani Campus : 
+ B.Tech Courses: 
+   - Computer Science and Business System  
+   - Computer Science and Engineering (CSE)
+       - With Specialization in AI & ML 
+       - With Specialization in Big Data Analytics
+       - With Specialization in Cyber Security
+   - Electronics and Communication Engineering 
+       - With Specialization in Data Science
+   -  Electronics Engineering (VLSI Design and Technology)  
+   - Mechanical Engineering 
+       - With Specialization in AI & ML
+
+ SRMIST, Tiruchirappalli Campus : 
+ B.Tech Courses:
+  - Biotechnology With Specialization in Food Technology
+  - Computer Science and Engineering (CSE) 
+     - With Specialization in AI & ML 
+     - With Specialization in Big Data Analytics, 
+     - With Specialization in Cyber Security, 
+     - With Specialization in Blockchain, 
+     - With Specialization in Medical Engineering, 
+     - With Specialization in IoT 
+  - Electrical and Electronics Engineering  
+  - Electronics and Communication Engineering 
+     - With Specialization in Data Science
+  - Information Technology  
+  - Software Product Engineering  
+  - Mechanical Engineering  
+  - Artificial Intelligence  
+  - Artificial Engineering & Future Technologies  
+  - Computer Science and Business Systems (TCS)  
+
+ SRM University, Delhi-NCR, Sonepat (Haryana) :
+  B.Tech Courses:
+     - Biomedical Engineering  
+     - Civil Engineering  
+     - Computer Science and Engineering (CSE) 
+           - With Specialization in Cyber Security
+           - With Specialization in Cloud Engineering & DevOps Automation
+           - With Specialization in  Data Science & AI
+           - With Specialization in AI & ML 
+     - Electrical and Electronics Engineering  
+     - Electronics and Communication Engineering  
+     - Mechanical Engineering  
+
+ SRM University, Andhra Pradesh : 
+  B.Tech Courses:
+   - Civil Engineering 
+       - With Specialization in Computer Aided Structural Engineering
+   - Computer Science and Engineering (CSE) 
+        - With Specialization in AI & ML
+        - With Specialization in Big Data Analytics
+        - With Specialization in Cyber Security
+        - With Specialization in Distributed & Cloud Computing
+        - With Specialization in IoT
+   - Electrical and Electronics Engineering 
+       - With Specialization in Renewable Energy
+   - Electronics and Communication Engineering 
+       - With Specialization in Advanced Communication Systems 
+       - With Specialization in Signal Processing using AI
+       - With Specialization in VLSI & Embedded Systems
+   - Mechanical Engineering 
+       - With Specialization in Additive Manufacturing
+       - With Specialization in Robotics & Automation  
+  M.Tech (Integrated) Courses:
+   - Computer Science and Engineering (CSE) w/s AI & ML  
+   - Computer Science and Engineering (CSE) w/s Data Science  
+
