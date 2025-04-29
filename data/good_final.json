@@ -1,0 +1,167 @@
+[
+  {
+    "question": "What B.Tech courses are offered at SRMIST, Kattankulathur?",
+    "answer": "Aerospace Engineering, Artificial Intelligence, Automation and Robotics, Automobile Engineering, Automotive Engineering, Biomedical Engineering, Biotechnology, Chemical Engineering, Civil Engineering, Computer Science and Business System, Computer Science and Engineering (CSE), Electric Vehicle Technology, Electrical and Electronics Engineering, Electronics and Communication Engineering (ECE), Electronics and Computer Engineering, Electronics and Instrumentation Engineering, Electronics Engineering (VLSI Design and Technology), Mathematics and Computing, Mechanical Engineering, Mechatronics Engineering, Nanotechnology.",
+    "intent": "courses.list.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Automobile Engineering at Kattankulathur?",
+    "answer": "With Specialization in Automotive Electronics, With Specialization in Vehicle Testing.",
+    "intent": "specialization.query.automobileengineering.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Biomedical Engineering at Kattankulathur?",
+    "answer": "With Specialization in Machine Intelligence.",
+    "intent": "specialization.query.biomedicalengineering.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Biotechnology at Kattankulathur?",
+    "answer": "With Specialization in Computational Biology, With Specialization in Food Technology, With Specialization in Genetic Engineering, With Specialization in Regenerative Medicine.",
+    "intent": "specialization.query.biotechnology.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Civil Engineering at Kattankulathur?",
+    "answer": "With Specialization in Computer Application.",
+    "intent": "specialization.query.civilengineering.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Computer Science and Engineering (CSE) at Kattankulathur?",
+    "answer": "With Specialization in Artificial Intelligence & Machine Learning, With Specialization in Big Data Analytics, With Specialization in Blockchain Technology, With Specialization in Cloud Computing, With Specialization in Computer Networking, With Specialization in Cyber Security, With Specialization in Data Science, With Specialization in Gaming Technology, With Specialization in Information Technology, With Specialization in Internet of Things (IoT), With Specialization in Software Engineering, With Specialization in DevSecOps.",
+    "intent": "specialization.query.cse.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Electronics and Communication Engineering (ECE) at Kattankulathur?",
+    "answer": "With Specialization in Cyber Physical Systems, With Specialization in Data Science.",
+    "intent": "specialization.query.ece.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Mechanical Engineering at Kattankulathur?",
+    "answer": "With Specialization in AI & Machine Learning, With Specialization in Automation and Robotics.",
+    "intent": "specialization.query.mechanicalengineering.kattankulathur"
+  },
+  {
+    "question": "What specializations are available in B.Tech Mechatronics Engineering at Kattankulathur?",
+    "answer": "With Specialization in Autonomous Driving Technology, With Specialization in Immersive Technologies, With Specialization in Industrial IoT & Systems Engineering, With Specialization in Robotics.",
+    "intent": "specialization.query.mechatronicsengineering.kattankulathur"
+  },
+  {
+    "question": "What M.Tech (Integrated) courses are offered at Kattankulathur?",
+    "answer": "Artificial Intelligence, Computer Science and Engineering (CSE) With Specialization in Cognitive Computing, Computer Science and Engineering (CSE) With Specialization in Cyber Security & Digital Forensics, Computer Science and Engineering (CSE) With Specialization in Data Science, Electronics and Communication Engineering with Microelectronics System Design, Mechanical Engineering, Material Science and Engineering.",
+    "intent": "program.type.mtech.kattankulathur"
+  },
+  {
+    "question": "What B.Tech courses are offered at SRMIST, Ramapuram?",
+    "answer": "Biomedical Engineering, Biotechnology, Civil Engineering, Computer Science and Business System, Computer Science and Engineering (CSE), Electrical and Electronics Engineering, Electronics and Communication Engineering, Information Technology, Mechanical Engineering, Artificial Intelligence.",
+    "intent": "campus.course_list.ramapuram.ramapuram"
+  },
+  {
+    "question": "What specializations are available in B.Tech Computer Science and Engineering (CSE) at Ramapuram?",
+    "answer": "With Specialization in AI & ML, With Specialization in Big Data Analytics, With Specialization in Cloud Computing, With Specialization in Cyber Security, With Specialization in Gaming Technology, With Specialization in IoT.",
+    "intent": "specialization.query.cse.ramapuram"
+  },
+  {
+    "question": "What specializations are available in B.Tech Electronics and Communication Engineering at Ramapuram?",
+    "answer": "With Specialization in Data Science.",
+    "intent": "specialization.query.ece.ramapuram"
+  },
+  {
+    "question": "What B.Tech courses are offered at SRMIST, Delhi NCR Campus (Ghaziabad)?",
+    "answer": "Automobile Engineering, Computer Science and Engineering (CSE), Electronics and Communication Engineering, Mechanical Engineering.",
+    "intent": "campus.course_list.delhi_nrc.ghaziabad"
+  },
+  {
+    "question": "What specializations are available in B.Tech Computer Science and Engineering (CSE) at Delhi NCR Campus (Ghaziabad)?",
+    "answer": "With Specialization in AI & ML, With Specialization in Cloud Computing, With Specialization in Cyber Security, With Specialization in Data Science.",
+    "intent": "specialization.query.cse.delhi_nrc.Ghaziabad"
+  },
+  {
+    "question": "What specializations are available in B.Tech Electronics and Communication Engineering at Delhi NCR Campus (Ghaziabad)?",
+    "answer": "With Specialization in Data Science.",
+    "intent": "specialization.query.ece.delhi_nrc.Ghaziabad"
+  },
+  {
+    "question": "What specializations are available in B.Tech Mechanical Engineering at Delhi NCR Campus (Ghaziabad)?",
+    "answer": "With Specialization in AI & ML.",
+    "intent": "specialization.query.mechanicalengineering.delhi_nrc.Ghaziabad"
+  },
+  {
+    "question": "What B.Tech courses are offered at SRMIST, Vadapalani Campus?",
+    "answer": "Computer Science and Business System, Computer Science and Engineering (CSE), Electronics and Communication Engineering, Electronics Engineering (VLSI Design and Technology), Mechanical Engineering.",
+    "intent": "campus.course_list.vadapalani"
+  },
+  {
+    "question": "What specializations are available in B.Tech Computer Science and Engineering (CSE) at Vadapalani?",
+    "answer": "With Specialization in AI & ML, With Specialization in Big Data Analytics, With Specialization in Cyber Security.",
+    "intent": "specialization.query.cse.vadapalani"
+  },
+  {
+    "question": "What specializations are available in B.Tech Electronics and Communication Engineering at Vadapalani?",
+    "answer": "With Specialization in Data Science.",
+    "intent": "specialization.query.ece.vadapalani"
+  },
+  {
+    "question": "What specializations are available in B.Tech Mechanical Engineering at Vadapalani?",
+    "answer": "With Specialization in AI & ML.",
+    "intent": "specialization.query.mechanicalengineering.vadapalani"
+  },
+  {
+    "question": "What B.Tech courses are offered at SRMIST, Tiruchirappalli Campus?",
+    "answer": "Biotechnology With Specialization in Food Technology, Computer Science and Engineering (CSE), Electrical and Electronics Engineering, Electronics and Communication Engineering, Information Technology, Software Product Engineering, Mechanical Engineering, Artificial Intelligence, Artificial Engineering & Future Technologies, Computer Science and Business Systems (TCS).",
+    "intent": "campus.course_list.tiruchirappalli.trichirappalli"
+  },
+  {
+    "question": "What specializations are available in B.Tech Computer Science and Engineering (CSE) at Tiruchirappalli?",
+    "answer": "With Specialization in AI & ML, With Specialization in Big Data Analytics, With Specialization in Cyber Security, With Specialization in Blockchain, With Specialization in Medical Engineering, With Specialization in IoT.",
+    "intent": "specialization.query.cse.trichirappalli"
+  },
+  {
+    "question": "What specializations are available in B.Tech Electronics and Communication Engineering at Tiruchirappalli?",
+    "answer": "With Specialization in Data Science.",
+    "intent": "specialization.query.ece.trichirappalli"
+  },
+  {
+    "question": "What B.Tech courses are offered at SRM University, Sonepat (Haryana)?",
+    "answer": "Biomedical Engineering, Civil Engineering, Computer Science and Engineering (CSE), Electrical and Electronics Engineering, Electronics and Communication Engineering, Mechanical Engineering.",
+    "intent": "campus.course_list.sonepat"
+  },
+  {
+    "question": "What specializations are available in B.Tech Computer Science and Engineering (CSE) at Sonepat?",
+    "answer": "With Specialization in Cyber Security, With Specialization in Cloud Engineering & DevOps Automation, With Specialization in Data Science & AI, With Specialization in AI & ML.",
+    "intent": "specialization.query.cse.sonepat"
+  },
+  {
+    "question": "What B.Tech courses are offered at SRM University, Andhra Pradesh?",
+    "answer": "Civil Engineering, Computer Science and Engineering (CSE), Electrical and Electronics Engineering, Electronics and Communication Engineering, Mechanical Engineering.",
+    "intent": "campus.course_list.andhra_pradesh"
+  },
+  {
+    "question": "What specializations are available in B.Tech Civil Engineering at Andhra Pradesh?",
+    "answer": "With Specialization in Computer Aided Structural Engineering.",
+    "intent": "specialization.query.civilengineering.andhra_pradesh"
+  },
+  {
+    "question": "What specializations are available in B.Tech Computer Science and Engineering (CSE) at Andhra Pradesh?",
+    "answer": "With Specialization in AI & ML, With Specialization in Big Data Analytics, With Specialization in Cyber Security, With Specialization in Distributed & Cloud Computing, With Specialization in IoT.",
+    "intent": "specialization.query.cse.andhra_pradesh"
+  },
+  {
+    "question": "What specializations are available in B.Tech Electrical and Electronics Engineering at Andhra Pradesh?",
+    "answer": "With Specialization in Renewable Energy.",
+    "intent": "specialization.query.electricalandelectronicsengineering.andhra_pradesh"
+  },
+  {
+    "question": "What specializations are available in B.Tech Electronics and Communication Engineering at Andhra Pradesh?",
+    "answer": "With Specialization in Advanced Communication Systems, With Specialization in Signal Processing using AI, With Specialization in VLSI & Embedded Systems.",
+    "intent": "specialization.query.ece.andhra_pradesh"
+  },
+  {
+    "question": "What specializations are available in B.Tech Mechanical Engineering at Andhra Pradesh?",
+    "answer": "With Specialization in Additive Manufacturing, With Specialization in Robotics & Automation.",
+    "intent": "specialization.query.mechanicalengineering.andhra_pradesh"
+  },
+  {
+    "question": "What M.Tech (Integrated) courses are offered at Andhra Pradesh?",
+    "answer": "Computer Science and Engineering (CSE) with AI & ML, Computer Science and Engineering (CSE) with Data Science.",
+    "intent": "program.type.mtech.andhra_pradesh"
+  }
+]

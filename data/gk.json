@@ -1,0 +1,397 @@
+[
+  {
+    "question": "Who oversees the admission process at SRM Institute of Science and Technology?",
+    "answer": "The SRM Joint Counselling Committee for Admissions (SRMJCCA) manages joint counselling for all SRMIST campuses.",
+    "intent": "admission_authority"
+  },
+  {
+    "question": "Where can I find the list of programs offered by SRMIST?",
+    "answer": "All programs are listed on the SRMIST website at www.srmist.edu.in.",
+    "intent": "program_list"
+  },
+  {
+    "question": "What is the application fee for non-Engineering programs at SRMIST?",
+    "answer": "The application fee for non-Engineering programs is Rs.1200/- for domestic candidates.",
+    "intent": "application_fee_non_engineering"
+  },
+  {
+    "question": "What are the eligibility criteria for SRMIST programs?",
+    "answer": "Eligibility criteria vary by program and are detailed in the regulations on www.srmist.edu.in.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Which regulatory bodies does SRMIST follow for admissions?",
+    "answer": "SRMIST adheres to guidelines from UGC, AICTE, COA, NMC, DCI, PCI, INC, RCI, and ICAR.",
+    "intent": "regulatory_compliance"
+  },
+  {
+    "question": "How often are SRMIST eligibility requirements updated?",
+    "answer": "Eligibility requirements are reviewed and approved by the Academic Council for each academic session.",
+    "intent": "eligibility_updates"
+  },
+  {
+    "question": "Where can I apply for SRMIST admissions?",
+    "answer": "Applications are submitted online via https://applications.srmist.edu.in/.",
+    "intent": "application_portal"
+  },
+  {
+    "question": "Which faculties are covered under SRMIST admissions?",
+    "answer": "Faculties include Engineering, Medicine, Management, Science and Humanities, Agriculture, Law, Distance Education, and Online Education.",
+    "intent": "faculties_covered"
+  },
+  {
+    "question": "What is the basis for admission to SRMIST programs?",
+    "answer": "Admission is based on SRM Joint Entrance Examination or qualifying exam marks, as per program requirements.",
+    "intent": "admission_basis"
+  },
+  {
+    "question": "What is the mode of the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "SRMJEE is conducted in Remote Proctored Online Mode (RPOM) or Physical Mode.",
+    "intent": "exam_mode"
+  },
+  {
+    "question": "Where can I find the SRMJEE syllabus?",
+    "answer": "The SRMJEE syllabus is available on the SRMIST official website.",
+    "intent": "exam_syllabus"
+  },
+  {
+    "question": "Can I change my SRMJEE test slot after booking?",
+    "answer": "No, the allotted date and slot cannot be changed under any circumstances.",
+    "intent": "test_slot_change"
+  },
+  {
+    "question": "What is the structure of SRMJEEE (PG)?",
+    "answer": "SRMJEEE (PG) is a 2.5-hour MCQ exam with 100 questions, covering program-specific topics and Mathematics (except for Biotechnology and Food Processing).",
+    "intent": "pg_exam_pattern"
+  },
+  {
+    "question": "What is the scoring method for SRM Health Science (UG) exam?",
+    "answer": "Each correct answer carries 1 mark, with no negative marking, for a total of 100 marks.",
+    "intent": "health_science_ug_scoring"
+  },
+  {
+    "question": "How is remote proctoring conducted for SRMJEE?",
+    "answer": "Remote proctoring uses a webcam to monitor candidates, ensuring smooth conduct without mobile phone usage.",
+    "intent": "remote_proctoring"
+  },
+  {
+    "question": "Who monitors candidates during SRMJEE remote proctoring?",
+    "answer": "Each candidate is assigned a proctor who monitors them continuously via webcam.",
+    "intent": "proctor_assignment"
+  },
+  {
+    "question": "How is the SRMJEE hall ticket issued?",
+    "answer": "The e-hall ticket is issued to eligible candidates who submit complete applications by the deadline, downloadable from the OAP.",
+    "intent": "hall_ticket_issuance"
+  },
+  {
+    "question": "What should I do if there’s a discrepancy in my SRMJEE hall ticket?",
+    "answer": "Notify the Director, Admissions immediately if any discrepancy is found in the hall ticket.",
+    "intent": "hall_ticket_discrepancy"
+  },
+  {
+    "question": "Is the SRMJEE hall ticket transferable?",
+    "answer": "No, the hall ticket is non-transferable, and impersonation is a punishable offense.",
+    "intent": "hall_ticket_transfer"
+  },
+  {
+    "question": "When is SRMJEEE (PG) Phase II scheduled?",
+    "answer": "SRMJEEE (PG) Phase II is tentatively scheduled for May.",
+    "intent": "pg_exam_schedule"
+  },
+  {
+    "question": "How is the SRMJEE merit list prepared?",
+    "answer": "The merit list is based on total marks secured in the SRMJEE.",
+    "intent": "merit_list_preparation"
+  },
+  {
+    "question": "Where are SRMJEE results published?",
+    "answer": "Results and counseling details are available on the SRM Online Admission Portal (OAP).",
+    "intent": "results_publication"
+  },
+  {
+    "question": "How are candidates selected through qualifying exams?",
+    "answer": "A merit list is prepared based on qualifying exam marks, followed by counseling for program and campus selection.",
+    "intent": "qualifying_exam_selection"
+  },
+  {
+    "question": "What is the process for department-level selection at SRMIST?",
+    "answer": "Applications are scrutinized, followed by a department-level exam or interview, and a merit list is prepared for counseling.",
+    "intent": "department_selection"
+  },
+  {
+    "question": "What exams are required for B.Arch and M.Arch admissions?",
+    "answer": "Admissions are based on qualifying exam marks and NATA or IITJEE Mains – Paper II, PGETA scores.",
+    "intent": "architecture_admission"
+  },
+  {
+    "question": "What is the minimum GMAT score for MBA admission?",
+    "answer": "A minimum GMAT score of 640 is required for MBA admission.",
+    "intent": "mba_gmat_cutoff"
+  },
+  {
+    "question": "Are candidates without SRMJEEM (PG) scores eligible for MBA?",
+    "answer": "Candidates must appear for SRMJEEM (PG) or other accepted entrance tests like CAT, MAT, etc., to be eligible.",
+    "intent": "mba_eligibility"
+  },
+  {
+    "question": "How does SRMIST use CUET scores for admissions?",
+    "answer": "Candidates with valid CUET scores are encouraged to apply for Faculty of Science and Humanities programs.",
+    "intent": "cuet_admission"
+  },
+  {
+    "question": "What is required for admission to the five-year integrated law program?",
+    "answer": "A valid CLAT score is required for admission to B.A LLB, B.Com LLB, and BBA LLB programs.",
+    "intent": "law_admission"
+  },
+  {
+    "question": "How are NEET scores used for medical program admissions?",
+    "answer": "NEET (UG & PG) scores are used for MBBS, BDS, MD, MS, MDS, DM, and M.Ch admissions through DGHS counseling.",
+    "intent": "neet_admission"
+  },
+  {
+    "question": "What is the mode of SRMIST counseling?",
+    "answer": "Counseling is conducted online via the SRM Admission Portal.",
+    "intent": "counseling_mode"
+  },
+  {
+    "question": "How are campus and program allotments made during counseling?",
+    "answer": "Allotments are based on SRMJEE rank, qualifying exam marks, and candidate preferences, published on the OAP.",
+    "intent": "allotment_process"
+  },
+  {
+    "question": "What fees are required after SRMIST counseling allotment?",
+    "answer": "Candidates must pay a non-refundable registration fee and counseling fee (part of tuition fee) online.",
+    "intent": "counseling_fees"
+  },
+  {
+    "question": "What happens if the counseling fee is not paid on time?",
+    "answer": "Failure to pay the counseling fee within the stipulated time leads to cancellation of the allotment.",
+    "intent": "counseling_fee_deadline"
+  },
+  {
+    "question": "What documents are required during SRMIST enrollment?",
+    "answer": "Original documents like mark statements, transfer certificate, and conduct certificate are required during enrollment.",
+    "intent": "enrollment_documents"
+  },
+  {
+    "question": "Can SRMIST cancel an admission after enrollment?",
+    "answer": "Yes, admission can be canceled if discrepancies are found in certificates or documents during verification.",
+    "intent": "admission_cancellation"
+  },
+  {
+    "question": "How is hostel accommodation allocated at SRMIST?",
+    "answer": "Hostel allocation is subject to availability and done after full tuition fee payment and enrollment.",
+    "intent": "hostel_allocation"
+  },
+  {
+    "question": "Which courts have jurisdiction over SRMIST admission disputes?",
+    "answer": "All disputes are subject to the jurisdiction of courts in Chennai only.",
+    "intent": "legal_jurisdiction"
+  },
+  {
+    "question": "When are SRMIST scholarship applications open?",
+    "answer": "Scholarship applications are typically open in June/July each year.",
+    "intent": "scholarship_application_timeline"
+  },
+  {
+    "question": "Which programs are excluded from SRMIST scholarships?",
+    "answer": "Scholarships are not applicable for MBBS, BDS, PG Medicine, and Allied Health Sciences programs.",
+    "intent": "scholarship_exclusions"
+  },
+  {
+    "question": "What can lead to the revocation of an SRMIST scholarship?",
+    "answer": "Scholarships can be revoked for misbehavior, indiscipline, malpractice, or actions harming the institute’s reputation.",
+    "intent": "scholarship_revocation"
+  },
+  {
+    "question": "How must admission cancellation requests be submitted at SRMIST?",
+    "answer": "Cancellation requests must be submitted online; email, post, or letter requests are not entertained.",
+    "intent": "cancellation_process"
+  },
+  {
+    "question": "How is the refund processed at SRMIST?",
+    "answer": "Refunds are transferred via RTGS/NEFT to the bank account provided, within 30 working days.",
+    "intent": "refund_process"
+  },
+  {
+    "question": "Who handles refunds after SRMIST enrollment?",
+    "answer": "After enrollment, refunds are handled by the respective college/school, not the Directorate of Admissions.",
+    "intent": "post_enrollment_refund"
+  },
+  {
+    "question": "What is the application fee for international candidates at SRMIST?",
+    "answer": "International candidates pay USD 50 or INR 3000 for the application.",
+    "intent": "international_application_fee"
+  },
+  {
+    "question": "What should international candidates do if results are not available during application?",
+    "answer": "Indicate 'Results are awaited' or submit predicted/term results endorsed by the school head.",
+    "intent": "international_results_pending"
+  },
+  {
+    "question": "What documents must international candidates submit for MBBS/BDS admission?",
+    "answer": "An eligibility certificate from the Association of Indian Universities (AIU) is required for MBBS, BDS, and B.Sc Nursing.",
+    "intent": "international_medical_documents"
+  },
+  {
+    "question": "When is the deadline for submitting documents for international admissions?",
+    "answer": "The deadline for most programs is August, except for PhD, which is April and October.",
+    "intent": "international_document_deadline"
+  },
+  {
+    "question": "How is provisional admission granted to international candidates?",
+    "answer": "Provisional admission is based on predicted or final scores meeting eligibility, with a letter detailing fees.",
+    "intent": "international_provisional_admission"
+  },
+  {
+    "question": "How must international candidates pay fees at SRMIST?",
+    "answer": "Fees must be paid in US Dollars via electronic transfer within 10 days of the provisional admission letter.",
+    "intent": "international_fee_payment"
+  },
+  {
+    "question": "What is required after international fee payment?",
+    "answer": "Candidates must send the Electronic Wire Transfer (EWT) form details to ir.accounts@srmist.edu.in.",
+    "intent": "international_payment_intimation"
+  },
+  {
+    "question": "When is confirmed admission issued for international candidates?",
+    "answer": "Confirmed admission is issued after full fee payment and submission of final mark sheets and mandatory documents.",
+    "intent": "international_confirmed_admission"
+  },
+  {
+    "question": "What is the pre-enrollment process for international students?",
+    "answer": "Pre-enrollment involves verifying academic transcripts and obtaining declarations from parents/students upon campus arrival.",
+    "intent": "international_pre_enrollment"
+  },
+  {
+    "question": "What documents are verified during international student registration?",
+    "answer": "Original degree/pass certificates, mark sheets, passport with student visa, and AIU/INC approvals are verified.",
+    "intent": "international_registration_documents"
+  },
+  {
+    "question": "Are international students required to have medical insurance?",
+    "answer": "Yes, international candidates are advised to carry valid medical insurance during their tenure at SRMIST.",
+    "intent": "international_medical_insurance"
+  },
+  {
+    "question": "What is the Foreigner’s Registration Office (FRO) requirement for international students?",
+    "answer": "Foreign students must register with the FRO/FRRO within 24 hours to 14 days of arrival, depending on their country.",
+    "intent": "international_fro_registration"
+  },
+  {
+    "question": "Can international students change their course after confirmed admission?",
+    "answer": "No, course changes are not allowed after the confirmed admission letter is issued.",
+    "intent": "international_course_change"
+  },
+  {
+    "question": "How does SRMIST-DDE support distance learners?",
+    "answer": "SRMIST-DDE offers personalized support, career advice, and access to NPTEL and MOOC for extensive learning.",
+    "intent": "distance_education_support"
+  },
+  {
+    "question": "What is the application fee for SRMIST-DDE programs?",
+    "answer": "The application fee for SRMIST-DDE programs is Rs.500/-, paid online.",
+    "intent": "distance_education_fee"
+  },
+  {
+    "question": "How is pre-admission counseling provided for SRMIST-DDE?",
+    "answer": "Counseling is provided via website content, FAQs, e-brochures, videos, and program project reports.",
+    "intent": "distance_education_counseling"
+  },
+  {
+    "question": "What is the eligibility for SRMIST-DDE M.A./M.Com programs?",
+    "answer": "Candidates must have a relevant undergraduate degree from a recognized institution, per UGC criteria.",
+    "intent": "distance_education_pg_eligibility"
+  },
+  {
+    "question": "How are SRMIST-DDE candidates formally enrolled?",
+    "answer": "After document verification, a Provisional Allotment Letter is sent, and candidates pay tuition fees within the stipulated time.",
+    "intent": "distance_education_enrollment"
+  },
+  {
+    "question": "What is the duration of the B.C.A. program at SRMIST-DDE?",
+    "answer": "The B.C.A. program takes a minimum of 3 years to complete.",
+    "intent": "distance_education_bca_duration"
+  },
+  {
+    "question": "What is the recognition status of SRMIST Online Education programs?",
+    "answer": "SRMIST Online programs are recognized by UGC and equivalent to regular programs per UGC ODL & Online regulations.",
+    "intent": "online_education_recognition"
+  },
+  {
+    "question": "What documents are required for SRMIST Online Education applications?",
+    "answer": "Documents include 10th, 12th, and degree grade sheets, passport-sized photo, and identity proof.",
+    "intent": "online_education_documents"
+  },
+  {
+    "question": "What is the eligibility for the BBA Digital Marketing program at SRMIST Online?",
+    "answer": "Candidates need 10+2 or a 3-year diploma with 50% marks from a recognized board.",
+    "intent": "online_education_bba_eligibility"
+  },
+  {
+    "question": "What mandatory subject is required for BCA Data Science at SRMIST Online?",
+    "answer": "At least one of Mathematics, Business Mathematics, Statistics, or Allied Mathematics is required.",
+    "intent": "online_education_bca_requirement"
+  },
+  {
+    "question": "How are candidates selected for SRMIST Online Education programs?",
+    "answer": "Selection is based on meeting minimum eligibility marks in the qualifying examination, followed by fee payment.",
+    "intent": "online_education_selection"
+  },
+  {
+    "question": "What is the refund policy for SRMIST Online Education?",
+    "answer": "Refunds follow UGC guidelines with a strict turnaround time, as prescribed by governing bodies.",
+    "intent": "online_education_refund"
+  },
+  {
+    "question": "What are the conditions for lateral entry at SRMIST?",
+    "answer": "Lateral entry depends on seat availability and meeting eligibility criteria for Engineering, Architecture, or Health Sciences.",
+    "intent": "lateral_entry_conditions"
+  },
+  {
+    "question": "What is required for readmission of former SRMIST students?",
+    "answer": "Former students must submit a formal application, approved by department heads, per SRMIST norms.",
+    "intent": "readmission_requirements"
+  },
+  {
+    "question": "How are transfer credits handled for SRMIST students?",
+    "answer": "Students from other universities must submit official transcripts, with credits accepted per SRMIST regulations.",
+    "intent": "transfer_credits"
+  },
+  {
+    "question": "What is the official website for SRMIST admissions?",
+    "answer": "The official website is www.srmist.edu.in, the only recognized platform for admissions.",
+    "intent": "official_website"
+  },
+  {
+    "question": "What is the official email for SRMIST admission queries?",
+    "answer": "The official email is admissions.india@srmist.edu.in for admission-related communications.",
+    "intent": "official_email"
+  },
+  {
+    "question": "Does SRMIST allow intermediaries for admissions?",
+    "answer": "No, SRMIST does not authorize consultants or agents; admissions are handled directly by the Directorate of Admissions.",
+    "intent": "no_intermediaries"
+  },
+  {
+    "question": "What should I do if I encounter a fake SRMIST admission website?",
+    "answer": "Report suspicious websites or demands for cash to cyberwatchdog@srmist.edu.in for legal action.",
+    "intent": "fake_website_reporting"
+  },
+  {
+    "question": "Does SRMIST accept cash transactions for admissions?",
+    "answer": "No, SRMIST does not accept cash transactions for any services, including admissions.",
+    "intent": "cash_transactions"
+  },
+  {
+    "question": "what is the full form of srm?",
+    "answer": "srm stands for sri ramaswamy memorial",
+    "intent": "full_form_srm"
+  },
+    {"question": "What is SRMIST?", 
+    "answer": "SRMIST is a private university offering engineering, medicine, and more.", 
+    "intent": "university_info"
+  }
+]
+

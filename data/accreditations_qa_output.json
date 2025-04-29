@@ -1,0 +1,197 @@
+[
+  {
+    "question": "What is SRM Institute of Science and Technology's NAAC accreditation grade?",
+    "answer": "SRM Institute of Science and Technology is accredited with an A++ grade by NAAC.",
+    "intent": "accreditation.naac"
+  },
+  {
+    "question": "Does SRM Institute of Science and Technology have UGC recognition?",
+    "answer": "Yes, SRM Institute of Science and Technology is recognized as a Category I University with 12B status by UGC.",
+    "intent": "accreditation.ugc"
+  },
+  {
+    "question": "Is SRM Institute of Science and Technology accredited by the Institution of Engineering and Technology (IET)?",
+    "answer": "Yes, SRM Institute of Science and Technology is accredited by the Institution of Engineering and Technology (IET).",
+    "intent": "accreditation.iet"
+  },
+  {
+    "question": "Does SRM Institute of Science and Technology have ABET accreditation?",
+    "answer": "Yes, SRM Institute of Science and Technology has ABET accreditation for its Engineering and Computing programs.",
+    "intent": "accreditation.abet"
+  },
+  {
+    "question": "Is SRM Institute of Science and Technology accredited by the National Board of Accreditation (NBA)?",
+    "answer": "Yes, SRM Institute of Science and Technology is accredited by the National Board of Accreditation (NBA) for multiple programs.",
+    "intent": "accreditation.nba"
+  },
+  {
+    "question": "Does SRM Institute of Science and Technology have ICAR accreditation?",
+    "answer": "Yes, SRM Institute of Science and Technology is accredited by the Indian Council of Agricultural Research (ICAR).",
+    "intent": "accreditation.icar"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the QS World University Rankings?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 1001-1200 band in the QS World University Rankings.",
+    "intent": "ranking.qs"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the QS Asia Rankings?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 301-350 band in the QS Asia Rankings.",
+    "intent": "ranking.qs"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the QS Sustainability Rankings in India?",
+    "answer": "SRM Institute of Science and Technology is ranked 17th in India in the QS Sustainability Rankings.",
+    "intent": "ranking.qs"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the QS Sustainability Rankings in Asia?",
+    "answer": "SRM Institute of Science and Technology is ranked 162nd in Asia in the QS Sustainability Rankings.",
+    "intent": "ranking.qs"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the QS Sustainability Rankings globally?",
+    "answer": "SRM Institute of Science and Technology is ranked 629th globally in the QS Sustainability Rankings.",
+    "intent": "ranking.qs"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the Times Higher Education (THE) World Rankings?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 1201-1500 band in the Times Higher Education (THE) World Rankings.",
+    "intent": "ranking.the"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the THE Asia Rankings?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 401-500 band in the THE Asia Rankings.",
+    "intent": "ranking.the"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the THE Subject Rankings for Engineering & Technology?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 601-800 band in the THE Subject Rankings for Engineering & Technology.",
+    "intent": "ranking.the_subject"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the THE Subject Rankings for Computer Science?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 601-800 band in the THE Subject Rankings for Computer Science.",
+    "intent": "ranking.the_subject"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the THE Subject Rankings for Clinical & Health Sciences?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 601-800 band in the THE Subject Rankings for Clinical & Health Sciences.",
+    "intent": "ranking.the_subject"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's NIRF ranking in the University category for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 12th in the University category in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's NIRF ranking in the Engineering category for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 13th in the Engineering category in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's NIRF ranking in the Dental category for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 7th in the Dental category in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's NIRF ranking in the Architecture category for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 11th in the Architecture category in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's NIRF ranking in the Pharmacy category for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 11th in the Pharmacy category in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's NIRF ranking in the Medical category for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 18th in the Medical category in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's overall NIRF ranking for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 21st overall in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's NIRF ranking in the Research category for 2024?",
+    "answer": "SRM Institute of Science and Technology is ranked 24th in the Research category in the NIRF India Rankings 2024.",
+    "intent": "ranking.nirf"
+  },
+  {
+    "question": "How many scientists from SRM Institute of Science and Technology are in the top 2 percent globally?",
+    "answer": "SRM Institute of Science and Technology has scientists ranked among the top 2 percent globally.",
+    "intent": "research.output"
+  },
+  {
+    "question": "How many patents has SRM Institute of Science and Technology filed?",
+    "answer": "SRM Institute of Science and Technology has filed over 920 patents.",
+    "intent": "research.output"
+  },
+  {
+    "question": "How many publications does SRM Institute of Science and Technology have?",
+    "answer": "SRM Institute of Science and Technology has over 47,000 publications.",
+    "intent": "research.output"
+  },
+  {
+    "question": "How many Scopus Indexed Papers does SRM Institute of Science and Technology have?",
+    "answer": "SRM Institute of Science and Technology has over 33,000 Scopus Indexed Papers.",
+    "intent": "research.output"
+  },
+  {
+    "question": "How much external funding has SRM Institute of Science and Technology received for projects?",
+    "answer": "SRM Institute of Science and Technology has received over ₹250 crores in external funded projects.",
+    "intent": "research.output"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the Nature Index among private universities?",
+    "answer": "SRM Institute of Science and Technology is ranked 2nd among private universities in the Nature Index.",
+    "intent": "research.output"
+  },
+  {
+    "question": "What was SRM Institute of Science and Technology's rank in the Swachh Campus Rankings 2019?",
+    "answer": "SRM Institute of Science and Technology was ranked 1st in the Swachh Campus Rankings 2019 for AICTE Residential Universities.",
+    "intent": "recognition.awards"
+  },
+  {
+    "question": "What award did SRM Institute of Science and Technology receive for its campus?",
+    "answer": "SRM Institute of Science and Technology received the Clean and Smart Campus Award, ranked 1st among AICTE Universities.",
+    "intent": "recognition.awards"
+  },
+  {
+    "question": "What was SRM Institute of Science and Technology's rank in the ARIIA Innovation Ranking 2020?",
+    "answer": "SRM Institute of Science and Technology was ranked 2nd in the ARIIA Innovation Ranking 2020.",
+    "intent": "recognition.awards"
+  },
+  {
+    "question": "Where is the main campus of SRM Institute of Science and Technology located?",
+    "answer": "The main campus of SRM Institute of Science and Technology is located in Kattankulathur, Chennai.",
+    "intent": "campus.locations"
+  },
+  {
+    "question": "What are the other locations of SRM Institute of Science and Technology in Chennai?",
+    "answer": "SRM Institute of Science and Technology has other locations in Chennai at Ramapuram and Vadapalani.",
+    "intent": "campus.locations"
+  },
+  {
+    "question": "Where are SRM Institute of Science and Technology's other locations in India?",
+    "answer": "SRM Institute of Science and Technology has campuses in Tiruchirappalli, SRM University - AP, SRM University - Haryana, SRM University - Sikkim, and SRM University - Delhi-NCR.",
+    "intent": "campus.locations"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's overall reputation?",
+    "answer": "SRM Institute of Science and Technology is a top-ranked private university in India with A++ NAAC Accreditation, high NIRF & QS rankings, and strong research & innovation output.",
+    "intent": "recognition.awards"
+  },
+  {
+    "question": "What international recognitions does SRM Institute of Science and Technology have?",
+    "answer": "SRM Institute of Science and Technology has ABET, NBA, IET, and ICAR accreditations, making it a globally competitive institution.",
+    "intent": "accreditation.abet"
+  },
+  {
+    "question": "What is SRM Institute of Science and Technology's rank in the QS World University Rankings?",
+    "answer": "SRM Institute of Science and Technology is ranked in the 1001-1200 band in the QS World University Rankings.",
+    "intent": "ranking.qs"
+  }
+]

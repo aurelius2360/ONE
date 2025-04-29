@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What are the important points students must adhere to in the hostel?",
+    "answer": "Students must adhere to the hostel rules and code of conduct. Hostel fees once paid are non-refundable. Hostel reopening dates will be announced later. Students can only keep belongings in the cloakroom if they have booked rooms for the academic year 2025-26. Issues related to booking can be resolved at the respective hostel reception desks.",
+    "intent": "hostel.rules"
+  },
+  {
+    "question": "What should I do if I face issues related to hostel booking?",
+    "answer": "Issues related to booking can be resolved at the respective hostel reception desks.",
+    "intent": "hostel.booking.issues"
+  },
+  {
+    "question": "How can I book my hostel?",
+    "answer": "Hostel booking can be done through https://sp.srmist.edu.in/srmiststudentportal.",
+    "intent": "hostel.booking.portal"
+  },
+  {
+    "question": "What should I check before booking my hostel?",
+    "answer": "Before booking, check your bank account's single transaction limit, read the hostel rules and Code of Conduct, and ensure a stable internet connection.",
+    "intent": "hostel.booking.checklist.pre"
+  },
+  {
+    "question": "What should I do during hostel booking?",
+    "answer": "Log in to the student portal on a single device. Check the payment transaction log in case of any issues. Select the hostel block and room type but do not wait for a specific room number.",
+    "intent": "hostel.booking.checklist.during"
+  },
+  {
+    "question": "What documents do I need to bring while checking in?",
+    "answer": "Bring the hostel room allocation order, 2 passport-sized photos, and a filled Undertaking and Declaration form (sent to the registered email a week before reopening).",
+    "intent": "hostel.booking.checklist.post"
+  },
+  {
+    "question": "What is the hostel booking schedule for Second-Year Boys?",
+    "answer": "11.02.2025, Tuesday @ 10.00 AM",
+    "intent": "hostel.booking.schedule"
+  },
+  {
+    "question": "What is the hostel booking schedule for Third-Year Boys?",
+    "answer": "12.02.2025, Wednesday @ 5.00 PM",
+    "intent": "hostel.booking.schedule"
+  },
+  {
+    "question": "What is the hostel booking schedule for Fourth & Fifth-Year Boys?",
+    "answer": "17.02.2025, Monday @ 5.00 PM",
+    "intent": "hostel.booking.schedule"
+  },
+  {
+    "question": "What is the different types of hostels avialable ?",
+    "answer": "There are 3 types of hostels available: AC with attached washroom, AC with common washroom, and Non-AC with common washroom.",
+    "intent": "hostel.room.types"
+  },
+  {
+    "question": "What is the different types of sharing avaiable in hostels ?",
+    "answer": "There are 3 types of hostels available: 2 sharing, 3 sharing, and 4 & 5 sharing.Though they varray based on the type of hostel and the year you are studying.",
+    "intent": "hostel.sharing.room.types"
+  },
+  {
+    "question": "What is the different types of sharing avaiable for first year students in hostels ?",
+    "answer": " for first year students mostly 3 sharing and 4 & 5 sharing are available.",
+    "intent": "hostel.sharing.firstyear.room.types"
+  },
+  {
+    "question": "What is the different types of sharing avaiable for second year students in hostels ?",
+    "answer": " for second year students mostly 3 sharing and 4 & 5 sharing are available.",
+    "intent": "hostel.sharing.secondyear.room.types"
+  },
+  {
+    "question": "What is the different types of sharing avaiable for third year students in hostels ?",
+    "answer": " for third year students mostly 3 sharing and 4 & 5 sharing are available.",
+    "intent": "hostel.sharing.thirdyear.room.types"
+  },
+  {
+    "question": "What is the different types of sharing avaiable for fourth and fifth year students in hostels ?",
+    "answer": " for fourth and fifth year students mostly 2 sharing and 1 sharing are available.",
+    "intent": "hostel.sharing.fourthandfifthyear.room.types"
+  },
+  {
+    "question": "What is the fee structure for First-Year Boys Hostel (AC with attached washroom, 3 sharing)?",
+    "answer": "Rs. 1,60,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 2,33,000 (excluding laundry).",
+    "intent": "hostel.fees.firstyear.ac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for First-Year Boys Hostel (AC with common washroom, 4 & 5 sharing)?",
+    "answer": "Rs. 1,15,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,88,000 (excluding laundry).",
+    "intent": "hostel.fees.firstyear.ac.4&5sharing"
+  },
+  {
+    "question": "What is the fee structure for First-Year Boys Hostel (Non-AC with attached washroom, 3 sharing)?",
+    "answer": "Rs. 80,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,53,000 (excluding laundry).",
+    "intent": "hostel.fees.firstyear.nonac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for First-Year Boys Hostel (Non-AC with common washroom, 3 sharing)?",
+    "answer": "Rs. 50,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,23,000 (excluding laundry).",
+    "intent": "hostel.fees.firstyear.nonac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for First-Year Boys Hostel (Non-AC with common washroom, 4 & 5 sharing)?",
+    "answer": "Rs. 45,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,18,000 (excluding laundry).",
+    "intent": "hostel.fees.firstyear.nonac.4&5sharing"
+  },
+  {
+    "question": "What is the fee structure for Second-Year Boys Hostel (AC with attached washroom, 3 sharing)?",
+    "answer": "Rs. 1,60,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 2,33,000 (excluding laundry).",
+    "intent": "hostel.fees.secondyear.ac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for Second-Year Boys Hostel (AC with common washroom, 4 & 5 sharing)?",
+    "answer": "Rs. 1,15,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,88,000 (excluding laundry).",
+    "intent": "hostel.fees.secondyear.ac.4&5sharing"
+  },
+  {
+    "question": "What is the fee structure for Second-Year Boys Hostel (Non-AC with attached washroom, 3 sharing)?",
+    "answer": "Rs. 80,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,53,000 (excluding laundry).",
+    "intent": "hostel.fees.secondyear.nonac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for Second-Year Boys Hostel (Non-AC with common washroom, 3 sharing)?",
+    "answer": "Rs. 50,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,23,000 (excluding laundry).",
+    "intent": "hostel.fees.secondyear.nonac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for Second-Year Boys Hostel (Non-AC with common washroom, 4 & 5 sharing)?",
+    "answer": "Rs. 45,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,18,000 (excluding laundry).",
+    "intent": "hostel.fees.secondyear.nonac.4&5sharing"
+  },
+  {
+    "question": "What is the fee structure for Third-Year Boys Hostel (AC with attached washroom, 3 sharing)?",
+    "answer": "Rs. 1,60,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 2,33,000 (excluding laundry).",
+    "intent": "hostel.fees.thirdyear.ac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for Third-Year Boys Hostel (AC with common washroom, 4 & 5 sharing)?",
+    "answer": "Rs. 1,15,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,88,000 (excluding laundry).",
+    "intent": "hostel.fees.thirdyear.ac.4&5sharing"
+  },
+  {
+    "question": "What is the fee structure for Third-Year Boys Hostel (Non-AC with attached washroom, 3 sharing)?",
+    "answer": "Rs. 80,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,53,000 (excluding laundry).",
+    "intent": "hostel.fees.thirdyear.nonac.3sharing"
+  },
+  {
+    "question": "What is the fee structure for Third-Year Boys Hostel (Non-AC with common washroom, 4 & 5 sharing)?",
+    "answer": "Rs. 45,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,18,000 (excluding laundry).",
+    "intent": "hostel.fees.thirdyear.nonac.4&5sharing"
+  },
+  {
+    "question": "What is the fee structure for Fourth & Fifth-Year Boys Hostel (Non-AC with attached washroom, 2 sharing)?",
+    "answer": "Rs. 62,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,35,000 (excluding laundry).",
+    "intent": "hostel.fees.fourthandfifthyear.nonac.2sharing"
+  },
+  {
+    "question": "What is the fee structure for Fourth & Fifth-Year Boys Hostel (Non-AC with common washroom, 2 sharing)?",
+    "answer": "Rs. 52,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,25,000 (excluding laundry).",
+    "intent": "hostel.fees.fourthandfifthyear.nonac.2sharing"
+  },
+  {
+    "question": "What is the fee structure for Fourth & Fifth-Year Boys Hostel (Non-AC with common washroom, 1 sharing)?",
+    "answer": "Rs. 52,000 (hostel) + Rs. 73,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 1,25,000 (excluding laundry).",
+    "intent": "hostel.fees.fourthandfifthyear.nonac.1sharing"
+  },
+  {
+    "question": "What is the fee structure for Fourth & Fifth-Year Boys Hostel (AC with attached washroom, 3 sharing)?",
+    "answer": "Rs. 1,45,000 (hostel) + Rs. 1,25,000 (mess) + Rs. 7500 (laundry, optional) = Rs. 2,70,000 (excluding laundry).",
+    "intent": "hostel.fees.fourthandfifthyear.ac.3sharing"
+  },
+  {
+    "question": "Where can I find more details about hostel rules?",
+    "answer": "Hostel rules can be found at https://webstor.srmist.edu.in/web_assets/downloads/2024/srm-hostel-rules-2025.pdf.",
+    "intent": "hostel.rules.link"
+  },
+  {
+    "question": "Where can I find the code of conduct for students?",
+    "answer": "The code of conduct for students can be found at https://www.srmist.edu.in/policies/code-of-conduct-for-students/.",
+    "intent": "hostel.code.of.conduct.link"
+  }
+]

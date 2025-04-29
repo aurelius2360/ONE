@@ -1,0 +1,2772 @@
+[
+  {
+    "question": "Who handles joint counselling for admissions at SRM Institute of Science and Technology?",
+    "answer": "SRM Joint Counselling Committee for Admissions (SRMJCCA) handles joint counselling for admissions at SRM Institute of Science and Technology.",
+    "intent": "admission.counselling"
+  },
+  {
+    "question": "Where can I find the list of programmes offered by SRM Institute of Science and Technology?",
+    "answer": "The list of programmes offered by SRM Institute of Science and Technology can be found on the university website, [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "programmes"
+  },
+  {
+    "question": "How can I apply to SRM Institute of Science and Technology?",
+    "answer": "You can apply online with e-payment.",
+    "intent": "application.process"
+  },
+  {
+    "question": "What is the application fee for Engineering & Technology Programmes at SRM Institute of Science and Technology?",
+    "answer": "The application fee for Engineering & Technology Programmes is Rs.1400/-.",
+    "intent": "application_fee"
+  },
+  {
+    "question": "What is the application fee for other programmes at SRM Institute of Science and Technology?",
+    "answer": "The application fee for all other Programmes is Rs.1200/-.",
+    "intent": "application_fee"
+  },
+  {
+    "question": "Where can I find the last date for submission of the application?",
+    "answer": "You can find the last date for submission of the application on the SRM Institute of Science and Technology website, [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "application_deadline"
+  },
+  {
+    "question": "Who is eligible to apply for SRM Institute of Science and Technology?",
+    "answer": "Resident Indians, Non-Resident Indians (NRIs), and holders of Person of Indian Origin (PIO) or Overseas Citizen of India (OCI) cards are eligible to apply.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Where can I find the eligibility criteria for different programmes at SRMIST?",
+    "answer": "The eligibility criteria for different programmes are available in the respective regulations on the Institution website (www.srmist.edu.in).",
+    "intent": "website_info"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the University Grant Commission (UGC)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the University Grant Commission (UGC).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the All India Council for Technical Education (AICTE)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the All India Council for Technical Education (AICTE).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the Council of Architecture (COA)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the Council of Architecture (COA).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the National Medical Commission (NMC)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the National Medical Commission (NMC).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the Dental Council of India (DCI)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the Dental Council of India (DCI).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the Pharmacy Council of India (PCI)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the Pharmacy Council of India (PCI).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the Indian Nursing Council (INC)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the Indian Nursing Council (INC).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the Rehabilitation Council of India (RCI)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the Rehabilitation Council of India (RCI).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the Council for Technical Education?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the Council for Technical Education.",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Does SRMIST follow the guidelines of the Indian Council of Agricultural Research (ICAR)?",
+    "answer": "Yes, SRMIST follows the guidelines and regulations of the Indian Council of Agricultural Research (ICAR).",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "Are Non-Resident Indians (NRIs) eligible to apply for SRM Institute of Science and Technology?",
+    "answer": "Yes, Non-Resident Indians (NRIs) are eligible to apply.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Are holders of Overseas Citizen of India (OCI) cards eligible to apply for SRM Institute of Science and Technology?",
+    "answer": "Yes, holders of Overseas Citizen of India (OCI) cards are eligible to apply.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Are holders of Person of Indian Origin (PIO) cards eligible to apply for SRM Institute of Science and Technology?",
+    "answer": "Yes, holders of Person of Indian Origin (PIO) cards are eligible to apply.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What statutory bodies does SRMIST adhere to for admission guidelines?",
+    "answer": "SRMIST adheres to the guidelines of UGC, AICTE, COA, NMC, DCI, PCI, INC, RCI, and ICAR.",
+    "intent": "statutory_bodies"
+  },
+  {
+    "question": "What is the process for determining eligibility requirements for programs at SRMIST?",
+    "answer": "The eligibility requirements are decided by the Academic Council and are subject to change.",
+    "intent": "eligibility_requirements"
+  },
+  {
+    "question": "Where can applications for admissions to SRMIST be submitted?",
+    "answer": "Applications for admissions can be submitted on the Admission page at https://applications.srmist.edu.in/.",
+    "intent": "application_submission"
+  },
+  {
+    "question": "What faculties are available for admission at SRMIST?",
+    "answer": "The faculties available for admission at SRMIST include Faculty of Engineering and Technology, Faculty of Medicine and Health Sciences, Faculty of Management, Faculty of Science and Humanities, Faculty of Agricultural Sciences, Faculty of Law, Directorate of Distance Education, and Directorate of Online Education.",
+    "intent": "available_faculties"
+  },
+  {
+    "question": "How are the eligibility requirements for programs at SRMIST finalized?",
+    "answer": "The eligibility requirements are considered and approved by the Academic Council while finalizing the admission policy for each academic session.",
+    "intent": "eligibility_finalization"
+  },
+  {
+    "question": "What is the role of the Academic Council in admission policies at SRMIST?",
+    "answer": "The Academic Council decides the eligibility requirements for various programs and finalizes the admission policy for each academic session.",
+    "intent": "academic_council_role"
+  },
+  {
+    "question": "What is the admission process at SRM Institute of Science and Technology?",
+    "answer": "The admission process is based on a Joint Entrance Examination conducted by SRM Institute of Science and Technology or through qualifying examination marks.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "Where can I find the detailed admission process  for SRM Institute of Science and Technology?",
+    "answer": "The admission process  can be found at the provided link: [Admission Process Table:1- Click Here](https://webstor.srmist.edu.in/web_assets/downloads/2025/admission-process-policy-srmist.pdf).",
+    "intent": "admission.process"
+  },
+  {
+    "question": "What is the detailed admission process for SRM Institute of Science and Technology?",
+    "answer": "The admission process will be varrying as the courses vary so i advice you to refer this document : [Admission Process Table:1- Click Here](https://webstor.srmist.edu.in/web_assets/downloads/2025/admission-process-policy-srmist.pdf).",
+    "intent": "admission.process"
+  },
+  {
+    "question": "What happens if the Common Entrance Examination is not conducted?",
+    "answer": "If the Common Entrance Examination is not conducted, admission will be based on the qualifying examination marks.",
+    "intent": "entrance_exam"
+  },
+  {
+    "question": "Is being called for the entrance exam and counseling a guarantee of eligibility?",
+    "answer": "No, being called for the entrance exam and counseling does not necessarily mean acceptance of eligibility. It is the responsibility of the candidates to ascertain whether they possess the requisite eligibility for admission.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the mode of the SRM Joint Entrance Examination?",
+    "answer": "The SRM Joint Entrance Examination (SRMJEE) will be conducted in Remote Proctored Online Mode (RPOM).",
+    "intent": "exam_mode"
+  },
+  {
+    "question": "How can I book the test slots for SRMJEE?",
+    "answer": "Candidates have to book the test slots of their convenience through the SRM Online Admission Portal (OAP), subject to the availability of slots on a particular date.",
+    "intent": "slot_booking"
+  },
+  {
+    "question": "Can I change my allotted date or slot for SRMJEE?",
+    "answer": "The date and slot, once allotted to the candidate, shall not be changed under any circumstances.",
+    "intent": "slot_change"
+  },
+  {
+    "question": "What is the purpose of conducting SRMJEE?",
+    "answer": "SRM Joint Entrance Examination is conducted to meet the rising competition amongst various universities and to maintain standards both nationally and internationally.",
+    "intent": "purpose_of_exam"
+  },
+  {
+    "question": "What is the duration of SRMJEEE for Engineering under graduate program(UG)?",
+    "answer": "2.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEE  for Engineering under graduate program (UG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "exam_type"
+  },
+  {
+    "question": "What is the syallabus for SRMJEE ?",
+    "answer": "As the program you are applying varies the syallabus also varies so be specific about the program you are applying for(eg: engineering under graduate or engineering post graduate).",
+    "intent": "admission.process"
+  },
+  {
+    "question": "What subjects are covered in SRMJEEE for Engineering under graduate program (UG)?",
+    "answer": "Physics, Chemistry, Mathematics (or) Biology, English, and Aptitude",
+    "intent": "exam_subjects"
+  },
+  {
+    "question": "What is the marks distribution for SRMJEEE  for Engineering under graduate program(UG)?",
+    "answer": "35(physics)+35(chemistry)+40(mathematics or biology)+20(english and aptitude), total of 130 marks",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "How is the marking scheme for SRMJEEE  for Engineering under graduate program (UG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "marking_scheme"
+  },
+  {
+    "question": "What is the total number of marks for SRMJEEE for Engineering under graduate program (UG)?",
+    "answer": "130",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of SRMJEEE for Engineering post graduate program(PG)?",
+    "answer": "2.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEE for Engineering post graduate program(PG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "exam_type"
+  },
+  {
+    "question": "What subjects are covered in SRMJEEE for Engineering post graduate program(PG)?",
+    "answer": "Mathematics + Syllabus specific to the Programme. For Bio Technology and Food Processing \u2013 there will be no mathematics component",
+    "intent": "exam_subjects"
+  },
+  {
+    "question": "What is the total number of marks for SRMJEEE for Engineering post graduate program(PG)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "How is the marking scheme for SRMJEEE for  Engineering post graduate program(PG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "marking_scheme"
+  },
+  {
+    "question": "What is the duration of SRM Health Science for under graduate program(UG)?",
+    "answer": "2.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRM Health Science  for under graduate program (UG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "exam_type"
+  },
+  {
+    "question": "What subjects are covered in SRM Health Science for under graduate program (UG)?",
+    "answer": "Physics, Chemistry, Biology, English, and Health Science Aptitude",
+    "intent": "exam_subjects"
+  },
+  {
+    "question": "What is the marks distribution for SRM Health Science for under graduate program (UG)?",
+    "answer": "20+20+20+20+20",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "How is the marking scheme for SRM Health Science for under graduate program(UG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "marking_scheme"
+  },
+  {
+    "question": "What is the total number of marks for SRM Health Science (UG)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of SRM Health Science (PG)?",
+    "answer": "1.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRM Health Science (PG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "exam_type"
+  },
+  {
+    "question": "What subjects are covered in SRM Health Science (PG)?",
+    "answer": "Pharmacy, Physiotherapy, Occupational Therapy, Nursing, and Allied Health Sciences (Specific to the programmes)",
+    "intent": "exam_subjects"
+  },
+  {
+    "question": "What is the total number of marks for SRM Health Science (PG)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "How is the marking scheme for SRM Health Science (PG)?",
+    "answer": "Each right answer carries 2 marks; No negative marking",
+    "intent": "marking_scheme"
+  },
+  {
+    "question": "Is there negative marking in SRMJEEE (UG)?",
+    "answer": "No",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "Is there negative marking in SRMJEEE (PG)?",
+    "answer": "No",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "Is there negative marking in SRM Health Science (UG)?",
+    "answer": "No",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "Is there negative marking in SRM Health Science (PG)?",
+    "answer": "No",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "What is the duration of the SRMJEEM (PG) entrance examination?",
+    "answer": "2.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in the SRMJEEM (PG) entrance examination?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What sections are covered in the SRMJEEM (PG) entrance examination?",
+    "answer": "Data Interpretation, Quantitative, Reasoning, English & GK/CA/BA",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How are the marks distributed in the SRMJEEM (PG) entrance examination?",
+    "answer": "20+20+20+20+20",
+    "intent": "mark_distribution"
+  },
+  {
+    "question": "What is the scoring pattern for the SRMJEEM (PG) entrance examination?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring_pattern"
+  },
+  {
+    "question": "What is the total number of marks for the SRMJEEM (PG) entrance examination?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of the SRMJEEL (5 year Integrated) entrance examination?",
+    "answer": "2.00 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in the SRMJEEL (5 year Integrated) entrance examination?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What sections are covered in the SRMJEEL (5 year Integrated) entrance examination?",
+    "answer": "English, Legal Aptitude, Logical Reasoning, G.K and current affairs, Elementary Maths",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How are the marks distributed in the SRMJEEL (5 year Integrated) entrance examination?",
+    "answer": "20+20+20+20+20",
+    "intent": "mark_distribution"
+  },
+  {
+    "question": "What is the scoring pattern for the SRMJEEL (5 year Integrated) entrance examination?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring_pattern"
+  },
+  {
+    "question": "What is the total number of marks for the SRMJEEL (5 year Integrated) entrance examination?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of the SRMJEEL (3 year) entrance examination?",
+    "answer": "2.00 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in the SRMJEEL (3 year) entrance examination?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What sections are covered in the SRMJEEL (3 year) entrance examination?",
+    "answer": "English, Legal Aptitude, Logical Reasoning, G.K and current affairs, Elementary Maths",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How are the marks distributed in the SRMJEEL (3 year) entrance examination?",
+    "answer": "20+20+20+20+20",
+    "intent": "mark_distribution"
+  },
+  {
+    "question": "What is the scoring pattern for the SRMJEEL (3 year) entrance examination?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring_pattern"
+  },
+  {
+    "question": "What is the total number of marks for the SRMJEEL (3 year) entrance examination?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What should I do if my marks are unknown when filling out the application?",
+    "answer": "Indicate Results are awaited in the marks/grade column.",
+    "intent": "handling_unknown_marks"
+  },
+  {
+    "question": "Can I submit forecast or predicted results if my results are not available?",
+    "answer": "Yes, if your results are generally released after June, you can send forecast/predicted results endorsed by your school head.",
+    "intent": "submitting_forecast_results"
+  },
+  {
+    "question": "What happens if I don't submit my mark sheets by the deadline?",
+    "answer": "The application will not be considered, and SRM cannot be held responsible for lost opportunities.",
+    "intent": "late_submission_consequences"
+  },
+  {
+    "question": "How do I submit my marks once they are available?",
+    "answer": "Send the marks to the university by submitting the grade sheet online thriugh the portal.",
+    "intent": "submitting_marks"
+  },
+  {
+    "question": "What is my responsibility regarding submitting my mark sheets?",
+    "answer": "You must send the marks to the university as soon as they are available to ascertain eligibility, and submit the mark sheets within the stipulated date.",
+    "intent": "candidate_responsibility"
+  },
+  {
+    "question": "What happens if I don't send my marks as soon as they are available?",
+    "answer": "Your application will not be considered eligible until the marks are submitted within the deadline.",
+    "intent": "consequence_of_delay"
+  },
+  {
+    "question": "Why is it important to submit mark sheets within the stipulated date?",
+    "answer": "Because the application will only be considered if the marks are made available within the stipulated date.",
+    "intent": "importance_of_deadline"
+  },
+  {
+    "question": "What should I do after submitting my application if my results are awaited?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "post_application_submission"
+  },
+  {
+    "question": "What documents are required for admission to SRM Institute of Science and Technology for engineering under graduate?",
+    "answer": "10th and 12th certificates along with mark sheet/transcript.",
+    "intent": "admission_documents"
+  },
+  {
+    "question": "What documents are required for admission to SRM Institute of Science and Technology for engineering post graduate?",
+    "answer": "10th and 12th and Bachelor degree certificate along with mark sheet/transcript.",
+    "intent": "admission_documents"
+  },
+  {
+    "question": "Do I need to submit both sides of the mark sheet?",
+    "answer": "Yes, both the front and back sides of the mark sheet are to be copied and sent.",
+    "intent": "mark_sheet_requirements"
+  },
+  {
+    "question": "What if the content in the mark sheet is not in English?",
+    "answer": "A certified English-translated version must also be submitted in addition to the native language certificate.",
+    "intent": "translation_requirements"
+  },
+  {
+    "question": "What if my results have not been released yet?",
+    "answer": "You must submit predicted marks/grades or the term result of the qualifying examination.",
+    "intent": "pending_results"
+  },
+  {
+    "question": "Do I need to provide proof of NRI status?",
+    "answer": "Yes, proof of NRI status of the student/parent/sponsor is required.",
+    "intent": "nri_status"
+  },
+  {
+    "question": "Do I need to submit a copy of my passport?",
+    "answer": "Yes, a copy of the passport of the applicant (personal details page) is required to submit for NRI students alone.",
+    "intent": "passport_requirement"
+  },
+  {
+    "question": "Do I need to submit a copy of my parents or sponsors passport?",
+    "answer": "Yes, a copy of the passport of the parent/sponsor (personal details page) is required.",
+    "intent": "parent.sponsor.passport"
+  },
+  {
+    "question": "Do I need to submit an eligibility certificate from the Association of Indian Universities (AIU)?",
+    "answer": "Yes, if applicable (for MBBS, BDS, and B. Sc Nursing programs).",
+    "intent": "aiu_eligibility"
+  },
+  {
+    "question": "Do I need to submit a migration certificate?",
+    "answer": "Yes, if available at the time of application.",
+    "intent": "migration_certificate"
+  },
+  {
+    "question": "Do I need to submit approval from the Indian Nursing Council (INC)?",
+    "answer": "Yes, if applicable (for Nursing programs).",
+    "intent": "inc_approval"
+  },
+  {
+    "question": "Do I need to submit a NATA score card?",
+    "answer": "Yes, if applicable (for B Arch Program).",
+    "intent": "nata_score"
+  },
+  {
+    "question": "Do I need to submit any additional documents for B. Sc Nursing?",
+    "answer": "Yes, eligibility certificate obtained from Association of Indian Universities (AIU).",
+    "intent": "bsc_nursing_requirements"
+  },
+  {
+    "question": "Do I need to submit any additional documents for BDS?",
+    "answer": "Yes, eligibility certificate obtained from Association of Indian Universities (AIU).",
+    "intent": "bds_requirements"
+  },
+  {
+    "question": "Do I need to submit any additional documents for MBBS?",
+    "answer": "Yes, eligibility certificate obtained from Association of Indian Universities (AIU).",
+    "intent": "mbbs_requirements"
+  },
+  {
+    "question": "Do I need to submit any additional documents for B Arch Program?",
+    "answer": "Yes, NATA score card.",
+    "intent": "b_arch_requirements"
+  },
+  {
+    "question": "Do I need to submit any additional documents for Nursing programs?",
+    "answer": "Yes, approval from Indian Nursing Council (INC).",
+    "intent": "nursing_program_requirements"
+  },
+  {
+    "question": "When will I receive an application number after submitting my application?",
+    "answer": "On receipt of the completed application along with the prescribed application fee, an application number will be allotted and emailed to the applicant.",
+    "intent": "application_number"
+  },
+  {
+    "question": "What should I do if additional or missing information is requested after submitting my application?",
+    "answer": "Then you need to provide the requested certificates or documents. Incase of missing information, you will be informed through email and if documents are not received, it may affect your application.",
+    "intent": "additional_information"
+  },
+  {
+    "question": "What is the last date for submitting all necessary documents for programs in the Faculty of Engineering and Technology?",
+    "answer": "The last date for receipt of all necessary documents is August.",
+    "intent": "document_submission"
+  },
+  {
+    "question": "What is the last date for submitting all necessary documents for programs in the Faculty of Medicine and Health Sciences?",
+    "answer": "The last date for receipt of all necessary documents is August.",
+    "intent": "document_submission"
+  },
+  {
+    "question": "What is the last date for submitting all necessary documents for admission to PhD in June intake?",
+    "answer": "The last date for submission is April.",
+    "intent": "phd_admission"
+  },
+  {
+    "question": "What is the last date for submitting all necessary documents for admission to PhD in January intake?",
+    "answer": "The last date for submission is October.",
+    "intent": "phd_admission"
+  },
+  {
+    "question": "What happens after I submit my application and the prescribed fee?",
+    "answer": "An application number will be allotted and emailed to you, and you may be requested to provide additional or missing information if needed.",
+    "intent": "application_process"
+  },
+  {
+    "question": "Why is it important to quote the application number in all correspondences?",
+    "answer": "To ensure proper tracking and processing of your application.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is provisional admission?",
+    "answer": "Provisional admission is a type of admission status granted under specific conditions.",
+    "intent": "provisional_admission"
+  },
+  {
+    "question": "What is the basis for provisional admission at SRM Institute of Science and Technology?",
+    "answer": "Provisional admission is based on predicted scores, term results, or final scores.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Is the provisional admission letter valid for visa purposes?",
+    "answer": "No, the provisional admission letter is not valid for visa purposes.",
+    "intent": "visa"
+  },
+  {
+    "question": "What must students who submitted predicted/forecasted/term results do?",
+    "answer": "They must submit the actual marks/grade sheet of the qualifying examination as soon as it is available.",
+    "intent": "documentation"
+  },
+  {
+    "question": "What is required for students from non-CBSE schools applying for MBBS/BDS/B.Sc Nursing?",
+    "answer": "They must produce an equivalence certificate obtained from the Association of Indian Universities (AIU), New Delhi.",
+    "intent": "documentation"
+  },
+  {
+    "question": "What approval is needed for candidates applying for nursing courses?",
+    "answer": "Candidates applying for nursing courses must submit approval from the Indian Nursing Council (INC).",
+    "intent": "approval"
+  },
+  {
+    "question": "What happens after the actual marks/grade sheet is submitted?",
+    "answer": "The student must meet the eligibility requirements for the program.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Where can candidates find information about the equivalence certificate?",
+    "answer": "The equivalence certificate can be obtained from the Association of Indian Universities (AIU), New Delhi (https://aiu.ac.in/).",
+    "intent": "documentation"
+  },
+  {
+    "question": "What is required before the confirmed admission letter is issued for nursing courses?",
+    "answer": "Approval from the Indian Nursing Council (INC) must be submitted.",
+    "intent": "approval"
+  },
+  {
+    "question": "What is the process for fee payment at SRM Institute of Science and Technology?",
+    "answer": "The provisional admission letter will include details of tuition fees and other fees payable.",
+    "intent": "fees"
+  },
+  {
+    "question": "What are the general requirements for admission to SRM Institute of Science and Technology?",
+    "answer": "Candidates must meet the eligibility requirements for the program applied for, and submit necessary documents like actual marks/grade sheets, equivalence certificates, and approvals as required.",
+    "intent": "admission"
+  },
+  {
+    "question": "How are eligibility requirements checked for admission?",
+    "answer": "Eligibility requirements are checked based on predicted scores/term results/final scores, and actual marks/grade sheets must be submitted later.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the preferred method of paying tuition and other fees at SRM Institute of Science and Technology?",
+    "answer": "The preferred method is electronic transfer in US Dollars.",
+    "intent": "payment_method"
+  },
+  {
+    "question": "What is the deadline for paying tuition and other fees after receiving the provisional admission letter?",
+    "answer": "The fees must be paid within 10 days from the date of issue of the provisional admission letter.",
+    "intent": "payment_deadline"
+  },
+  {
+    "question": "Are bank charges included in the fee payment?",
+    "answer": "No, fees remitted must be exclusive of bank charges.",
+    "intent": "bank_charges"
+  },
+  {
+    "question": "Who is responsible if the provisional admission letter email is not delivered?",
+    "answer": "The university is not responsible for the non-delivery of the email.",
+    "intent": "email_delivery"
+  },
+  {
+    "question": "Where can I find the bank details for electronic transfer?",
+    "answer": "The bank details will be provided in the provisional admission letter.",
+    "intent": "bank_details"
+  },
+  {
+    "question": "What should I do immediately after making the wire transfer?",
+    "answer": "Fill up all details in the DETAILS OF THE ELECTRONIC WIRE TRANSFER (EWT) form, scan it, and send it to ir.accounts@srmist.edu.in by email.",
+    "intent": "payment_intimation"
+  },
+  {
+    "question": "Why is it important to send the EWT form after the wire transfer?",
+    "answer": "It is mandatory and very important to effect proper and timely credit.",
+    "intent": "ewt_form"
+  },
+  {
+    "question": "What is the email address to send the EWT form?",
+    "answer": "The EWT form should be sent to ir.accounts@srmist.edu.in.",
+    "intent": "ewt_email"
+  },
+  {
+    "question": "What happens after paying the fees and submitting the EWT form?",
+    "answer": "The admission is confirmed after proper and timely credit of the payment.",
+    "intent": "confirmed_admission"
+  },
+  {
+    "question": "What fees need to be paid for the first year?",
+    "answer": "The annual tuition fees, registration fees, and examination fees for the first year.",
+    "intent": "admission_fees"
+  },
+  {
+    "question": "What happens if I don't pay the fees on time?",
+    "answer": "You will lose the admission opportunity.",
+    "intent": "fee_deadline"
+  },
+  {
+    "question": "What is the basis for confirming admission?",
+    "answer": "Admission is confirmed on a \"Merit-cum-First Come First serve\" basis.",
+    "intent": "admission_criteria"
+  },
+  {
+    "question": "What happens if I fail to pay the full tuition fees?",
+    "answer": "You will automatically lose the admission opportunity.",
+    "intent": "fee_consequences"
+  },
+  {
+    "question": "Is the university liable for lost opportunities due to non-payment?",
+    "answer": "No, the university is not responsible for any lost opportunities or damages arising from non-payment.",
+    "intent": "university_liability"
+  },
+  {
+    "question": "Can the admission letter be used for visa applications?",
+    "answer": "Yes, foreign students can use the confirmed admission letter for student visas.",
+    "intent": "admission_letter_use"
+  },
+  {
+    "question": "What documents are required after paying the fees?",
+    "answer": "Final mark sheets and all other mandatory documents.",
+    "intent": "required_documents"
+  },
+  {
+    "question": "When is the admission confirmed?",
+    "answer": "After the fees are received and all mandatory documents are submitted.",
+    "intent": "admission_confirmation"
+  },
+  {
+    "question": "How is the admission letter sent?",
+    "answer": "The admission letter is sent via email.",
+    "intent": "admission_letter_delivery"
+  },
+  {
+    "question": "What is the admission policy at SRMIST?",
+    "answer": "It is based on merit and first come, first serve.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "Can the admission letter be used for ticketing and insurance?",
+    "answer": "Yes, it can be used for ticketing, insurance, and other purposes.",
+    "intent": "admission_letter_purposes"
+  },
+  {
+    "question": "What are the required qualifications for BBA Digital Marketing?",
+    "answer": "Students must have a 10+2 or 10+3-year diploma from a recognized board, including NIOS, with a 50% pass.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Which boards are recognized for BBA Digital Marketing?",
+    "answer": "Any recognized board including NIOS.",
+    "intent": "recognized_boards"
+  },
+  {
+    "question": "What is the minimum percentage needed for BBA Digital Marketing?",
+    "answer": "50% in the qualifying examination.",
+    "intent": "minimum_percentage"
+  },
+  {
+    "question": "What is the NCrF level required for BBA Digital Marketing?",
+    "answer": "NCrF 4.0 Level (minimum).",
+    "intent": "ncfr_level"
+  },
+  {
+    "question": "Do I need to have passed the higher secondary exams for BBA Digital Marketing?",
+    "answer": "Yes, the candidate must have appeared in or passed the qualifying higher secondary examinations.",
+    "intent": "exam_requirement"
+  },
+  {
+    "question": "Is English proficiency required for BBA Digital Marketing?",
+    "answer": "Yes, applicants must possess enough knowledge and understanding of the English Language.",
+    "intent": "english_proficiency"
+  },
+  {
+    "question": "What qualifications are needed for BCA Data Science?",
+    "answer": "A pass in 10+2 from a recognized board or a diploma in Engineering with 50%.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What are the two possible qualifications for BCA Data Science?",
+    "answer": "10+2 Higher secondary or a diploma in Engineering.",
+    "intent": "qualification_routes"
+  },
+  {
+    "question": "What is the minimum percentage for BCA Data Science?",
+    "answer": "50% in the qualifying examination.",
+    "intent": "minimum_percentage"
+  },
+  {
+    "question": "Are diplomas from any institution accepted for BCA Data Science?",
+    "answer": "Diplomas must be from a recognized institution or competent authority.",
+    "intent": "recognized_institutions"
+  },
+  {
+    "question": "What patterns of diploma are accepted for BCA Data Science?",
+    "answer": "10+3 or 10+2+2 patterns.",
+    "intent": "diploma_patterns"
+  },
+  {
+    "question": "What is SRMIST-DDE?",
+    "answer": "SRMIST-DDE is a division of SRMIST, the top-ranked university in India, offering distance education programs.",
+    "intent": "about_division"
+  },
+  {
+    "question": "What type of learning experience does SRMIST-DDE provide?",
+    "answer": "SRMIST-DDE provides a unique and vibrant learning experience with personalised support.",
+    "intent": "learning_experience"
+  },
+  {
+    "question": "What programs does SRMIST-DDE offer?",
+    "answer": "SRMIST-DDE offers Diploma, Undergraduate, and Postgraduate programs.",
+    "intent": "program_details"
+  },
+  {
+    "question": "Is SRMIST-DDE a recognised institution?",
+    "answer": "Yes, SRMIST-DDE is a nationally recognised institution.",
+    "intent": "recognition"
+  },
+  {
+    "question": "What advantage does an accredited degree from SRMIST-DDE provide?",
+    "answer": "An accredited degree from SRMIST-DDE can be a great advantage in your career and on the job market.",
+    "intent": "degree_advantage"
+  },
+  {
+    "question": "What kind of support does SRMIST-DDE offer to students?",
+    "answer": "SRMIST-DDE offers a student-centric approach and consistent support for the progress of the students.",
+    "intent": "student_support"
+  },
+  {
+    "question": "Does SRMIST-DDE provide career advice to students?",
+    "answer": "Yes, SRMIST-DDE provides career advice to help ambitious students set study goals throughout their studies.",
+    "intent": "career_advice"
+  },
+  {
+    "question": "What is the focus of SRMIST-DDE's distance education?",
+    "answer": "SRMIST-DDE focuses on high-quality distance education with a student-centric approach.",
+    "intent": "distance_education"
+  },
+  {
+    "question": "How is SRMIST-DDE connected to research activities?",
+    "answer": "SRMIST-DDE is connected with powerful research activities.",
+    "intent": "research_activities"
+  },
+  {
+    "question": "What highlights does SRMIST-DDE offer?",
+    "answer": "SRMIST-DDE highlights include personalised support, student-centric approach, career advice, and high-quality distance education.",
+    "intent": "highlights"
+  },
+  {
+    "question": "What is the aim of distance education at SRM Institute of Science and Technology?",
+    "answer": "The aim of distance education is to provide an effective alternative path to wider opportunities in education.",
+    "intent": "purpose"
+  },
+  {
+    "question": "Who can enroll in distance education programs at SRM Institute of Science and Technology?",
+    "answer": "Candidates who desire to pursue a full-time degree program but are unable to enroll in full-time courses can participate in distance learning programs. This includes fresh school releases, working professionals, or anyone willing to pursue education.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the objective of distance education courses?",
+    "answer": "The objective of distance education courses is to provide education facilities to all qualified and willing persons.",
+    "intent": "objective"
+  },
+  {
+    "question": "What is required to enroll in undergraduate (UG) programs at SRM Institute of Science and Technology?",
+    "answer": "Students must have completed the 12th grade to enroll in UG programs.",
+    "intent": "admission_requirements"
+  },
+  {
+    "question": "What is required to enroll in postgraduate (PG) programs at SRM Institute of Science and Technology?",
+    "answer": "A graduation degree is required for PG programs, and some require entrance exams.",
+    "intent": "admission_requirements"
+  },
+  {
+    "question": "Who can benefit from distance education at SRM Institute of Science and Technology?",
+    "answer": "Those who are unable to join regular universities due to various reasons can also enroll in distance education.",
+    "intent": "benefits"
+  },
+  {
+    "question": "What type of programs are available for candidates who cannot pursue full-time courses?",
+    "answer": "Candidates who cannot pursue full-time courses can participate in various distance learning programs.",
+    "intent": "program_options"
+  },
+  {
+    "question": "What is the target audience for distance education at SRM Institute of Science and Technology?",
+    "answer": "The target audience includes fresh school releases, working professionals, or anyone willing to pursue education.",
+    "intent": "target_audience"
+  },
+  {
+    "question": "Can working professionals enroll in distance education programs at SRM Institute of Science and Technology?",
+    "answer": "Yes, working professionals can enroll in distance education programs.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the primary goal of SRMIST-DDE's distance learning programs?",
+    "answer": "The primary goal is to provide education facilities to all qualified and willing persons.",
+    "intent": "purpose"
+  },
+  {
+    "question": "Are entrance exams required for all postgraduate programs at SRM Institute of Science and Technology?",
+    "answer": "No, some PG programs require entrance exams, but not all.",
+    "intent": "admission_requirements"
+  },
+  {
+    "question": "Can students who cannot attend regular universities enroll in distance education at SRM Institute of Science and Technology?",
+    "answer": "Yes, those who are unable to join regular universities due to various reasons can enroll in distance education.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the minimum educational requirement for enrolling in undergraduate programs at SRM Institute of Science and Technology?",
+    "answer": "Students must have completed the 12th grade to enroll in UG programs.",
+    "intent": "admission_requirements"
+  },
+  {
+    "question": "What is the minimum educational requirement for enrolling in postgraduate programs at SRM Institute of Science and Technology?",
+    "answer": "A graduation degree is required for PG programs, and some require entrance exams.",
+    "intent": "admission_requirements"
+  },
+  {
+    "question": "What is the benefit of SRMIST-DDE for working professionals?",
+    "answer": "It benefits the people who are working and want to pursue higher education along with their careers.",
+    "intent": "benefits_for_working_professionals"
+  },
+  {
+    "question": "What is the purpose of SRMIST-DDE?",
+    "answer": "To give educated persons who want to raise their level of knowledge access to academic possibilities.",
+    "intent": "purpose_of_SRMIST_DDE"
+  },
+  {
+    "question": "What kind of educational resources does SRMIST-DDE provide?",
+    "answer": "To provide educational resources for people who consider learning to be a lifetime.",
+    "intent": "educational_resources"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure increased student engagement?",
+    "answer": "Technology-based delivery system guaranteeing increased student engagement.",
+    "intent": "technology_based_delivery"
+  },
+  {
+    "question": "How does SRMIST-DDE create an interactive learning environment?",
+    "answer": "Creating interactive learning environment through learner-centric approaches.",
+    "intent": "interactive_learning_environment"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure the legitimacy and standing of its degrees, diplomas, and certificates?",
+    "answer": "A scientific and objective evaluation method is used to create a dynamic learning environment.",
+    "intent": "evaluation_method"
+  },
+  {
+    "question": "What kind of inputs are included in SRMIST-DDE programs?",
+    "answer": "Inputs from the industry experts and corporate.",
+    "intent": "industry_inputs"
+  },
+  {
+    "question": "What techniques are used to create content for self-directed learning?",
+    "answer": "The finest techniques currently in use are employed to support learners' self-directed learning.",
+    "intent": "content_creation_techniques"
+  },
+  {
+    "question": "What are the benefits of the program?",
+    "answer": "The program reduces cost, saves time, and helps to be more productive.",
+    "intent": "program_benefits"
+  },
+  {
+    "question": "Can students learn at their own pace?",
+    "answer": "Yes, students can learn at their own pace.",
+    "intent": "learning_pace"
+  },
+  {
+    "question": "What additional support does SRMIST-DDE provide to students?",
+    "answer": "SRMIST-DDE provides additional support by guiding students through NPTEL and MOOC for extensive learning.",
+    "intent": "additional_support"
+  },
+  {
+    "question": "How does the program help students save time?",
+    "answer": "The program helps students save time by reducing costs and increasing productivity.",
+    "intent": "time_saving"
+  },
+  {
+    "question": "What is the purpose of NPTEL and MOOC in SRMIST-DDE?",
+    "answer": "NPTEL and MOOC are used to provide extensive learning support to students.",
+    "intent": "nptel_mooc_purpose"
+  },
+  {
+    "question": "How does the program enhance productivity?",
+    "answer": "The program enhances productivity by reducing costs and allowing students to learn at their own pace.",
+    "intent": "productivity_enhancement"
+  },
+  {
+    "question": "What is the role of SRMIST-DDE in student learning?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "srmist_role"
+  },
+  {
+    "question": "How does the program support self-directed learning?",
+    "answer": "The program supports self-directed learning by using the finest techniques and allowing students to learn at their own pace.",
+    "intent": "self_directed_learning_support"
+  },
+  {
+    "question": "What resources are available for extensive learning?",
+    "answer": "NPTEL and MOOC are available for extensive learning.",
+    "intent": "extensive_learning_resources"
+  },
+  {
+    "question": "How does the program reduce costs?",
+    "answer": "The program reduces costs, which helps students save time and be more productive.",
+    "intent": "cost_reduction"
+  },
+  {
+    "question": "What is the significance of MOOC in the program?",
+    "answer": "MOOC is used to provide additional support to students for extensive learning.",
+    "intent": "mooc_significance"
+  },
+  {
+    "question": "How does the program accommodate different learning paces?",
+    "answer": "The program allows students to learn at their own pace.",
+    "intent": "learning_pace_accommodation"
+  },
+  {
+    "question": "What is the purpose of NPTEL in SRMIST-DDE?",
+    "answer": "NPTEL is used to provide additional support to students for extensive learning.",
+    "intent": "nptel_purpose"
+  },
+  {
+    "question": "How does the program improve productivity?",
+    "answer": "The program improves productivity by reducing costs and allowing students to learn at their own pace.",
+    "intent": "productivity_improvement"
+  },
+  {
+    "question": "What is the role of SRMIST-DDE in providing support?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "support_role"
+  },
+  {
+    "question": "What resources are used for extensive learning support?",
+    "answer": "NPTEL and MOOC are used for extensive learning support.",
+    "intent": "extensive_learning_resources"
+  },
+  {
+    "question": "How does the program help with time management?",
+    "answer": "The program saves time, which helps students be more productive.",
+    "intent": "time_management"
+  },
+  {
+    "question": "What is the significance of NPTEL and MOOC?",
+    "answer": "NPTEL and MOOC are used to provide additional support to students for extensive learning.",
+    "intent": "nptel_mooc_significance"
+  },
+  {
+    "question": "How does the program support student productivity?",
+    "answer": "The program supports productivity by reducing costs and allowing students to learn at their own pace.",
+    "intent": "productivity_support"
+  },
+  {
+    "question": "How does the program accommodate self-directed learning?",
+    "answer": "The program accommodates self-directed learning by using the finest techniques and allowing students to learn at their own pace.",
+    "intent": "self_directed_learning_accommodation"
+  },
+  {
+    "question": "What resources are available for learning support?",
+    "answer": "NPTEL and MOOC are available for extensive learning support.",
+    "intent": "learning_support_resources"
+  },
+  {
+    "question": "How does the program reduce expenses?",
+    "answer": "The program reduces expenses, which helps students save time and be more productive.",
+    "intent": "expense_reduction"
+  },
+  {
+    "question": "What is the role of MOOC in student support?",
+    "answer": "MOOC is used to provide additional support to students for extensive learning.",
+    "intent": "mooc_support_role"
+  },
+  {
+    "question": "How does the program help with cost management?",
+    "answer": "The program helps with cost management by reducing costs.",
+    "intent": "cost_management"
+  },
+  {
+    "question": "What is the significance of SRMIST-DDE?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "srmist_significance"
+  },
+  {
+    "question": "How does the program enhance learning?",
+    "answer": "The program enhances learning by providing additional support through NPTEL and MOOC.",
+    "intent": "learning_enhancement"
+  },
+  {
+    "question": "What resources are used for productivity improvement?",
+    "answer": "The program reduces costs and allows students to learn at their own pace, improving productivity.",
+    "intent": "productivity_resources"
+  },
+  {
+    "question": "How does the program support extensive learning?",
+    "answer": "The program supports extensive learning through NPTEL and MOOC.",
+    "intent": "extensive_learning_support"
+  },
+  {
+    "question": "What is the role of NPTEL in productivity?",
+    "answer": "NPTEL is used to provide additional support to students for extensive learning.",
+    "intent": "nptel_productivity_role"
+  },
+  {
+    "question": "How does the program manage learning pace?",
+    "answer": "The program allows students to learn at their own pace.",
+    "intent": "learning_pace_management"
+  },
+  {
+    "question": "What is the purpose of MOOC in SRMIST-DDE?",
+    "answer": "MOOC is used to provide additional support to students for extensive learning.",
+    "intent": "mooc_purpose"
+  },
+  {
+    "question": "How does the program help with expense reduction?",
+    "answer": "The program reduces expenses, which helps students save time and be more productive.",
+    "intent": "expense_reduction"
+  },
+  {
+    "question": "What is the significance of SRMIST-DDE in learning?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "srmist_learning_significance"
+  },
+  {
+    "question": "How does the program improve learning outcomes?",
+    "answer": "The program improves learning outcomes by providing additional support through NPTEL and MOOC.",
+    "intent": "learning_outcomes_improvement"
+  },
+  {
+    "question": "What resources are available for time management?",
+    "answer": "The program saves time, which helps students be more productive.",
+    "intent": "time_management_resources"
+  },
+  {
+    "question": "How does the program enhance student support?",
+    "answer": "The program enhances student support by providing additional resources like NPTEL and MOOC.",
+    "intent": "student_support_enhancement"
+  },
+  {
+    "question": "What is the role of SRMIST-DDE in education?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "srmist_education_role"
+  },
+  {
+    "question": "How does the program accommodate different learning styles?",
+    "answer": "The program accommodates different learning styles by allowing students to learn at their own pace.",
+    "intent": "learning_style_accommodation"
+  },
+  {
+    "question": "What is the significance of NPTEL and MOOC in education?",
+    "answer": "NPTEL and MOOC are used to provide additional support to students for extensive learning.",
+    "intent": "nptel_mooc_education_significance"
+  },
+  {
+    "question": "How does the program help with learning productivity?",
+    "answer": "The program helps with learning productivity by reducing costs and allowing students to learn at their own pace.",
+    "intent": "learning_productivity"
+  },
+  {
+    "question": "What is the purpose of SRMIST-DDE in learning?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "srmist_learning_purpose"
+  },
+  {
+    "question": "How does the program manage expenses?",
+    "answer": "The program reduces expenses, which helps students save time and be more productive.",
+    "intent": "expense_management"
+  },
+  {
+    "question": "What resources are available for learning enhancement?",
+    "answer": "NPTEL and MOOC are available for extensive learning support.",
+    "intent": "learning_enhancement_resources"
+  },
+  {
+    "question": "How does the program support self-directed learners?",
+    "answer": "The program supports self-directed learners by using the finest techniques and allowing them to learn at their own pace.",
+    "intent": "self_directed_learning_support"
+  },
+  {
+    "question": "What is the role of MOOC in education?",
+    "answer": "MOOC is used to provide additional support to students for extensive learning.",
+    "intent": "mooc_education_role"
+  },
+  {
+    "question": "How does the program help with learning outcomes?",
+    "answer": "The program helps with learning outcomes by providing additional support through NPTEL and MOOC.",
+    "intent": "learning_outcomes"
+  },
+  {
+    "question": "What is the significance of SRMIST-DDE in education?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "srmist_education_significance"
+  },
+  {
+    "question": "How does the program accommodate different learning needs?",
+    "answer": "The program accommodates different learning needs by allowing students to learn at their own pace.",
+    "intent": "learning_need_accommodation"
+  },
+  {
+    "question": "What is the purpose of NPTEL in education?",
+    "answer": "NPTEL is used to provide additional support to students for extensive learning.",
+    "intent": "nptel_education_purpose"
+  },
+  {
+    "question": "How does the program enhance learning support?",
+    "answer": "The program enhances learning support by providing additional resources like NPTEL and MOOC.",
+    "intent": "learning_support_enhancement"
+  },
+  {
+    "question": "What resources are available for productivity?",
+    "answer": "The program reduces costs and allows students to learn at their own pace, improving productivity.",
+    "intent": "productivity_resources"
+  },
+  {
+    "question": "How does the program manage learning productivity?",
+    "answer": "The program manages learning productivity by reducing costs and allowing students to learn at their own pace.",
+    "intent": "learning_productivity_management"
+  },
+  {
+    "question": "How does the program help with expense management?",
+    "answer": "The program helps with expense management by reducing costs.",
+    "intent": "expense_management"
+  },
+  {
+    "question": "What is the role of NPTEL and MOOC in learning?",
+    "answer": "NPTEL and MOOC are used to provide additional support to students for extensive learning.",
+    "intent": "nptel_mooc_learning_role"
+  },
+  {
+    "question": "What is the purpose of SRMIST-DDE in education?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC for extensive learning.",
+    "intent": "srmist_education_purpose"
+  },
+  {
+    "question": "How is the admission process for SRMIST DDE programmes conducted?",
+    "answer": "The admission process is entirely digital and done through online applications.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "Where can I find information about the courses offered by SRMIST DDE?",
+    "answer": "The official website provides all the information related to any programme.",
+    "intent": "course_information"
+  },
+  {
+    "question": "What documents are required for the SRMIST DDE application?",
+    "answer": "Marksheet, provisional certificate, and degree certificate.",
+    "intent": "required_documents"
+  },
+  {
+    "question": "What is the application fee for SRMIST DDE programmes?",
+    "answer": "Rs 500/-",
+    "intent": "application_fee"
+  },
+  {
+    "question": "How do I submit the application fee for SRMIST DDE?",
+    "answer": "After uploading documents, candidates remit Rs 500/- to complete the application.",
+    "intent": "fee_submission"
+  },
+  {
+    "question": "Do I need to upload my documents online for SRMIST DDE application?",
+    "answer": "Yes, candidates need to upload essential documents.",
+    "intent": "document_upload"
+  },
+  {
+    "question": "Can I apply for SRMIST DDE programmes offline?",
+    "answer": "No, the entire process is digitised and carried through online applications.",
+    "intent": "application_mode"
+  },
+  {
+    "question": "What sections should I visit on the SRMIST website for DDE admissions?",
+    "answer": "\"Admission India\" and then \"Directorate of Distance Education.\"",
+    "intent": "website_sections"
+  },
+  {
+    "question": "Is there a pre-admission counseling process for SRMIST DDE programmes?",
+    "answer": "Yes, but details are not provided in the document.",
+    "intent": "pre_admission_counseling"
+  },
+  {
+    "question": "What are the accepted methods for fee payment for selected candidates?",
+    "answer": "The fee payment shall be only by way of online transfer, bank draft or pay order directly in favour of the directorate.",
+    "intent": "fee_payment_methods"
+  },
+  {
+    "question": "How can I access my fee receipt?",
+    "answer": "The learner can access their fee receipts through their user logins.",
+    "intent": "fee_receipt_access"
+  },
+  {
+    "question": "Is there any capitation fee or donation required for admission?",
+    "answer": "No, there is no capitation fee or any donation by way of cash or kind for obtaining admission.",
+    "intent": "capitation_fee"
+  },
+  {
+    "question": "Is it mandatory for the directorate to upload payment details of learners?",
+    "answer": "Yes, it shall be mandatory for the directorate to upload the details of all kinds of payment details of the learner.",
+    "intent": "payment_details_upload"
+  },
+  {
+    "question": "Where can I find detailed information about the programmes?",
+    "answer": "Relevant information is available on the website in the form of textual content, FAQ, E-Brochures, Video and detailed programme project reports.",
+    "intent": "programme_information_sources"
+  },
+  {
+    "question": "What is the process for formal enrolment of the program?",
+    "answer": "The document does not provide specific details about the formal enrolment process.",
+    "intent": "enrolment_process"
+  },
+  {
+    "question": "How is the Provisional Allotment Letter dispatched to candidates?",
+    "answer": "The Provisional Allotment Letter is dispatched to the candidates' personal email in a quick time after verification of documents and criteria.",
+    "intent": "admission_letter_process"
+  },
+  {
+    "question": "What is the process for verifying uploaded documents for admission?",
+    "answer": "The Directorate of Distance Education verifies the uploaded documents and checks the required criteria for the applied programme.",
+    "intent": "document_verification"
+  },
+  {
+    "question": "How are candidates notified about pending documents?",
+    "answer": "The support team communicates any pending documents required by the enrolment team to the students.",
+    "intent": "pending_documents"
+  },
+  {
+    "question": "What is the timeline for making payment towards tuition fees?",
+    "answer": "Candidates are required to make payment towards the tuition fees within a stipulated time.",
+    "intent": "fee_payment"
+  },
+  {
+    "question": "What programmes are offered under SRMIST Distance Education?",
+    "answer": "SRMIST Distance Education offers B.A., B.Com., B.C.A., and B.B.A. programmes.",
+    "intent": "available_programmes"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to SRMIST-DDE programmes?",
+    "answer": "Applicants must fulfil the eligibility criteria as prescribed by the UGC.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Can students from any stream apply for SRMIST-DDE programmes?",
+    "answer": "Yes, students from any stream who have passed the intermediate class from any acknowledged board of education can apply.",
+    "intent": "eligibility_requirements"
+  },
+  {
+    "question": "What is the minimum duration required to complete a B.A. or B.Com degree?",
+    "answer": "The minimum time required to complete the degree of B.A. / B.Com is three years.",
+    "intent": "duration"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to B.A. or B.Com courses?",
+    "answer": "The candidate must have passed 10+2 qualifying exams from a recognised institution.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the minimum duration required to complete an M.A. or M.Com degree?",
+    "answer": "The minimum time required to complete the degree of M.A. / M.Com is 2 years.",
+    "intent": "duration"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to M.A. or M.Com courses?",
+    "answer": "The candidate must have passed the undergraduate course from any recognised institution in the relevant stream.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What does SRMIST Distance Education offer for students pursuing post-graduation in Computer Applications or Business?",
+    "answer": "SRMIST Distance Education provides education to students who want to complete their post-graduation in the field of Computer Applications / Business.",
+    "intent": "program_details"
+  },
+  {
+    "question": "What are the eligibility criteria for admission?",
+    "answer": "Applicants must fulfill the prescribed criteria and have a relevant undergraduate degree from a recognized institution.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the minimum duration to complete an M.C.A. or M.B.A.?",
+    "answer": "The minimum duration is 2 years.",
+    "intent": "duration"
+  },
+  {
+    "question": "What is the official website for admissions?",
+    "answer": "The official website is www.srmist.edu.in.",
+    "intent": "official_website"
+  },
+  {
+    "question": "What is the official email for admission communications?",
+    "answer": "The official email is admissions.india@srmist.edu.in.",
+    "intent": "official_email"
+  },
+  {
+    "question": "Are there authorized agents for admissions?",
+    "answer": "No, SRM IST does not authorize any agents or intermediaries.",
+    "intent": "authorized_agents"
+  },
+  {
+    "question": "Are other websites or messages claiming to represent SRM IST legitimate?",
+    "answer": "No, they are fake and not authorized by SRM IST.",
+    "intent": "legitimacy"
+  },
+  {
+    "question": "What is the official channel for admission into SRM IST?",
+    "answer": "The Directorate of Admissions is the ONLY NODAL OFFICE for all admissions.",
+    "intent": "admission_channel"
+  },
+  {
+    "question": "Can I seek admission through non-official channels?",
+    "answer": "No, the public is cautioned not to approach anybody or entertain other methods to seek admission apart from the official channel.",
+    "intent": "non_official_methods"
+  },
+  {
+    "question": "Are admissions at SRM IST based on merit?",
+    "answer": "Yes, admissions to all programmes are done only on merit.",
+    "intent": "merit_based_admission"
+  },
+  {
+    "question": "What happens if I involve in cash transactions through non-official channels?",
+    "answer": "This is at the individual\u2019s own risk, and SRM IST or any of its authorities are NOT responsible for any consequences arising thereof.",
+    "intent": "cash_transactions_risk"
+  },
+  {
+    "question": "Does SRM IST accept cash transactions for its services?",
+    "answer": "No, SRM IST does not accept cash transactions for any of its services.",
+    "intent": "cash_transactions_policy"
+  },
+  {
+    "question": "Where can I get information about admissions?",
+    "answer": "You can directly approach the Directorate of Admissions at Kattankulathur (Near Chennai), Tamil Nadu or visit [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "admission_information"
+  },
+  {
+    "question": "What is the contact point for all admissions at SRM IST?",
+    "answer": "The Directorate of Admissions is the ONLY NODAL OFFICE for all admissions.",
+    "intent": "admission_contact_point"
+  },
+  {
+    "question": "How can I apply for admission to SRM IST?",
+    "answer": "You can directly approach the Directorate of Admissions or visit [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "application_process"
+  },
+  {
+    "question": "Is it safe to use non-official channels for admission?",
+    "answer": "No, using non-official channels is at the individual\u2019s own risk, and SRM IST is not responsible for any consequences.",
+    "intent": "non_official_risk"
+  },
+  {
+    "question": "What is SRM IST's policy on cash transactions?",
+    "answer": "SRM IST does not accept cash transactions for any of its services.",
+    "intent": "cash_policy"
+  },
+  {
+    "question": "Where is the Directorate of Admissions located?",
+    "answer": "The Directorate of Admissions is located at Kattankulathur (Near Chennai), Tamil Nadu.",
+    "intent": "admission_location"
+  },
+  {
+    "question": "What should I do if I find a website that looks like SRM IST's official website but promises admission?",
+    "answer": "You should immediately bring it to the attention of SRM IST by writing to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "reporting_fraud"
+  },
+  {
+    "question": "How can I report fraudulent websites promising admission to SRM IST?",
+    "answer": "You can report such websites by writing to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "reporting_fraud"
+  },
+  {
+    "question": "What should I do if someone demands cash in exchange for admission to SRM IST?",
+    "answer": "You should immediately inform SRM IST by writing to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "reporting_fraud"
+  },
+  {
+    "question": "How can I verify if a website is officially associated with SRM IST?",
+    "answer": "You can verify by checking the official website [www.srmist.edu.in](https://www.srmist.edu.in) and reporting any suspicious websites to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "avoiding_scams"
+  },
+  {
+    "question": "What is the official email to report fraudulent admission activities?",
+    "answer": "The official email to report fraudulent activities is [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "contact_information"
+  },
+  {
+    "question": "What steps does SRM IST take to address fraudulent websites?",
+    "answer": "SRM IST takes legal action to weed out such websites and persons.",
+    "intent": "legal_action"
+  },
+  {
+    "question": "How can I protect myself from admission fraud?",
+    "answer": "You can protect yourself by verifying the authenticity of websites and reporting any suspicious activities to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "avoiding_scams"
+  },
+  {
+    "question": "What should I do if I suspect someone is impersonating SRM IST for admission?",
+    "answer": "You should immediately report it to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "reporting_impersonation"
+  },
+  {
+    "question": "How does SRM IST handle fraudulent admission promises?",
+    "answer": "SRM IST takes legal action to address such fraudulent activities.",
+    "intent": "legal_action"
+  },
+  {
+    "question": "What is the official website of SRM IST?",
+    "answer": "The official website of SRM IST is [www.srmist.edu.in](https://www.srmist.edu.in).",
+    "intent": "official_website"
+  },
+  {
+    "question": "Can I report admission fraud to SRM IST?",
+    "answer": "Yes, you can report admission fraud by writing to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "reporting_fraud"
+  },
+  {
+    "question": "What happens if someone demands cash for admission to SRM IST?",
+    "answer": "You should report it immediately to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in) so SRM IST can take legal action.",
+    "intent": "reporting_fraud"
+  },
+  {
+    "question": "What is the application fee for SRM Institute of Science and Technology?",
+    "answer": "The application fee is Rs. 1400/- for Engineering & Technology Programmes and Rs. 1200/- for all other Programmes.",
+    "intent": "application_fees"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to SRM Institute of Science and Technology?",
+    "answer": "Eligibility criteria vary by programme and can be found on the university website.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the last date to submit the application for admission?",
+    "answer": "The last date for submission of the application is in month of june.",
+    "intent": "application_deadline"
+  },
+  {
+    "question": "Who is eligible to apply to SRMIST?",
+    "answer": "Resident Indians, Non-Resident Indians (NRIs), holders of Person of Indian Origin (PIO), and Overseas Citizen of India (OCI) cards are eligible to apply.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Which regulatory bodies does SRMIST follow for admissions?",
+    "answer": "SRMIST adheres to the guidelines and regulations of statutory bodies such as the University Grant Commission (UGC), All India Council for Technical Education (AICTE), Council of Architecture (COA), National Medical Commission (NMC), Dental Council of India (DCI), Pharmacy Council of India (PCI), Indian Nursing Council (INC), The Rehabilitation Council of India (RCI), and the Indian Council of Agricultural Research (ICAR).",
+    "intent": "regulatory_bodies"
+  },
+  {
+    "question": "What determines the eligibility requirements for programs at SRM Institute of Science and Technology?",
+    "answer": "The eligibility requirements for programs are decided by the Academic Council and are subject to change. They are finalized during the admission policy formulation for each academic session.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "How can prospective students apply for admissions to SRM Institute of Science and Technology?",
+    "answer": "Applications for admissions can be submitted through the Admission \u2013 India page at [https://applications.srmist.edu.in/](https://applications.srmist.edu.in/).",
+    "intent": "application_process"
+  },
+  {
+    "question": "What faculties and programs are available for admission at SRM Institute of Science and Technology?",
+    "answer": "The institute offers programs under the following faculties: Engineering and Technology, Medicine and Health Sciences, Management, Science and Humanities, Agricultural Sciences, Law, and through the Directorate of Distance Education and Directorate of Online Education.",
+    "intent": "program_offering"
+  },
+  {
+    "question": "Does SRM Institute of Science and Technology offer distance education programs?",
+    "answer": "Yes, distance education programs are available through the Directorate of Distance Education.",
+    "intent": "distance_education"
+  },
+  {
+    "question": "Are online education programs available at SRM Institute of Science and Technology?",
+    "answer": "Yes, online education programs are offered through the Directorate of Online Education.",
+    "intent": "online_education"
+  },
+  {
+    "question": "What is the role of counseling in the admission process?",
+    "answer": "Counseling is conducted as per UGC, AICTE, and government notifications, and it is part of the admission process after the entrance examination.",
+    "intent": "counseling_process"
+  },
+  {
+    "question": "Is being called for the entrance exam or counseling a guarantee of admission?",
+    "answer": "No, being called for the entrance exam or counseling does not guarantee admission. Candidates must ensure they meet the eligibility criteria.",
+    "intent": "admission_guarantee"
+  },
+  {
+    "question": "Who is responsible for verifying eligibility for admission?",
+    "answer": "It is the responsibility of the candidates to ascertain whether they possess the requisite eligibility for admission.",
+    "intent": "eligibility_verification"
+  },
+  {
+    "question": "What is the eligibility criteria for SRMJEE ?",
+    "answer": "the eligibility is student should pass 10th and intermediate with 50% marks in Physics, Chemistry and Mathematics or Biology.",
+    "intent": "eligibility_verification"
+  },
+  {
+    "question": "What is the SRMJEE exam?",
+    "answer": "The SRMJEE is an entrance examination for admission to various undergraduate and postgraduate programs at SRM Institute of Science and Technology.",
+    "intent": "exam_overview"
+  },
+  {
+    "question": "What is the syllabus for the SRMJEE?",
+    "answer": "The syllabus for the SRMJEE is based on the NCERT syllabus for classes 11 and 12.",
+    "intent": "syllabus"
+  },
+  {
+    "question": "What is the syllabus for the SRM Health Science entrance exam?",
+    "answer": "The syllabus for the SRM Health Science entrance exam is based on the NCERT syllabus for classes 11 and 12.",
+    "intent": "syllabus"
+  },
+  {
+    "question": "What is the syllabus for the SRMJEEM (PG) entrance exam?",
+    "answer": "The syllabus for the SRMJEEM (PG) entrance exam includes Data Interpretation, Quantitative, Reasoning, English, and General Knowledge/Current Affairs/Business Affairs.",
+    "intent": "syllabus"
+  },
+  {
+    "question": "What is the syllabus for the SRMJEEL (5-year Integrated) entrance exam?",
+    "answer": "The syllabus for the SRMJEEL (5-year Integrated) entrance exam includes English, Legal Aptitude, Logical Reasoning, General Knowledge, and Elementary Maths.",
+    "intent": "syllabus"
+  },
+  {
+    "question": "What is the syllabus for the SRMJEEL (3-year) entrance exam?",
+    "answer": "The syllabus for the SRMJEEL (3-year) entrance exam includes English, Legal Aptitude, Logical Reasoning, General Knowledge, and Elementary Maths.",
+    "intent": "syllabus"
+  },
+  {
+    "question": "What is the mode of the SRMJEE exam?",
+    "answer": "The SRMJEE is conducted in Remote Proctored Online Mode (RPOM).",
+    "intent": "exam_mode"
+  },
+  {
+    "question": "How is the SRMJEE conducted?",
+    "answer": "The SRMJEE is conducted in Remote Proctored Online Mode (RPOM).",
+    "intent": "exam_mode"
+  },
+  {
+    "question": "How do I book my test slot for SRMJEE?",
+    "answer": "Candidates can book their test slots through the SRM Online Admission Portal (OAP), subject to availability.",
+    "intent": "slot_booking"
+  },
+  {
+    "question": "Can I change my allotted test slot?",
+    "answer": "No, the date and slot once allotted to the candidate cannot be changed under any circumstances.",
+    "intent": "slot_change_policy"
+  },
+  {
+    "question": "What is the exam pattern of SRMJEE?",
+    "answer": "The exam pattern varies based on the program ug or pg so be specific please",
+    "intent": "exam_pattern"
+  },
+  {
+    "question": "How is the SRMJEE scored?",
+    "answer": "The scoring method for SRMJEE is specified in the exam pattern.",
+    "intent": "scoring_method"
+  },
+  {
+    "question": "What is the total marks for SRMJEE?",
+    "answer": "The total marks for SRMJEE are detailed in the exam pattern.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the format of the SRMJEEE (UG or enginerring or btech) exam?",
+    "answer": "The SRMJEEE (UG) is a 2.30-hour MCQ exam covering Physics, Chemistry, Mathematics (or Biology), English and Aptitude, with 35+35+40+20 marks respectively. Each correct answer carries 1 mark, with no negative marking, totaling 130 questions.",
+    "intent": "exam_pattern"
+  },
+  {
+    "question": "What subjects are covered in the SRMJEEE (PG) exam?",
+    "answer": "The SRMJEEE (PG) covers Mathematics and syllabus-specific topics for the respective program. For Bio Technology and Food Processing, Mathematics is not included.",
+    "intent": "subjects"
+  },
+  {
+    "question": "How is the SRMJEEE (PG) exam structured?",
+    "answer": "The SRMJEEE (PG) is a 2.30-hour MCQ exam with 100 questions, each carrying 1 mark and no negative marking.",
+    "intent": "exam_pattern"
+  },
+  {
+    "question": "What is the format of the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) is a 2.30-hour MCQ exam covering Physics, Chemistry, Biology, English, and Health Science Aptitude, with 20+20+20+20+20 marks respectively. Each correct answer carries 1 mark, with no negative marking, totaling 100 questions.",
+    "intent": "exam_pattern"
+  },
+  {
+    "question": "What subjects are covered in the SRM Health Science (PG) exam?",
+    "answer": "The SRM Health Science (PG) covers Pharmacy, Physiotherapy, Occupational Therapy, Nursing, and Allied Health Sciences, specific to the respective programs.",
+    "intent": "subjects"
+  },
+  {
+    "question": "How is the SRM Health Science (PG) exam structured?",
+    "answer": "The SRM Health Science (PG) is a 1.30-hour MCQ exam with 50 questions, each carrying 2 marks and no negative marking, totaling 100 marks.",
+    "intent": "exam_pattern"
+  },
+  {
+    "question": "How long does the SRMJEEE (UG) exam take?",
+    "answer": "The SRMJEEE (UG) exam is 2.30 hours long.",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "How long does the SRMJEEE (PG) exam take?",
+    "answer": "The SRMJEEE (PG) exam is 2.30 hours long.",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "How long does the SRM Health Science (UG) exam take?",
+    "answer": "The SRM Health Science (UG) exam is 2.30 hours long.",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "How long does the SRM Health Science (PG) exam take?",
+    "answer": "The SRM Health Science (PG) exam is 1.30 hours long.",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "How are marks allocated in the SRMJEEE (UG) exam?",
+    "answer": "Each correct answer in the SRMJEEE (UG) carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "How are marks allocated in the SRMJEEE (PG) exam?",
+    "answer": "Each correct answer in the SRMJEEE (PG) carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "How are marks allocated in the SRM Health Science (UG) exam?",
+    "answer": "Each correct answer in the SRM Health Science (UG) carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "How are marks allocated in the SRM Health Science (PG) exam?",
+    "answer": "Each correct answer in the SRM Health Science (PG) carries 2 marks, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "How many questions are in the SRMJEEE (UG or btech or engineering) exam?",
+    "answer": "The SRMJEEE (UG) exam has 130 questions.",
+    "intent": "total_questions"
+  },
+  {
+    "question": "How many questions are in the SRMJEEE (PG) exam?",
+    "answer": "The SRMJEEE (PG) exam has 100 questions.",
+    "intent": "total_questions"
+  },
+  {
+    "question": "How many questions are in the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) exam has 100 questions.",
+    "intent": "total_questions"
+  },
+  {
+    "question": "How many questions are in the SRM Health Science (PG) exam?",
+    "answer": "The SRM Health Science (PG) exam has 50 questions.",
+    "intent": "total_questions"
+  },
+  {
+    "question": "What is the total marks for the SRMJEEE (UG) exam?",
+    "answer": "The SRMJEEE (UG) exam has a total of 130 marks.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the total marks for the SRMJEEE (PG) exam?",
+    "answer": "The SRMJEEE (PG) exam has a total of 100 marks.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the total marks for the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) exam has a total of 100 marks.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the total marks for the SRM Health Science (PG) exam?",
+    "answer": "The SRM Health Science (PG) exam has a total of 100 marks.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "Does the SRMJEEE (UG) exam have negative marking?",
+    "answer": "No, the SRMJEEE (UG) exam does not have negative marking.",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "Does the SRMJEEE (PG) exam have negative marking?",
+    "answer": "No, the SRMJEEE (PG) exam does not have negative marking.",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "Does the SRM Health Science (UG) exam have negative marking?",
+    "answer": "No, the SRM Health Science (UG) exam does not have negative marking.",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "Does the SRM Health Science (PG) exam have negative marking?",
+    "answer": "No, the SRM Health Science (PG) exam does not have negative marking.",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "What is the question type for the SRMJEEE (UG) exam?",
+    "answer": "The SRMJEEE (UG) exam consists of Multiple Choice Questions (MCQs).",
+    "intent": "question_type"
+  },
+  {
+    "question": "What is the question type for the SRMJEEE (PG) exam?",
+    "answer": "The SRMJEEE (PG) exam consists of Multiple Choice Questions (MCQs).",
+    "intent": "question_type"
+  },
+  {
+    "question": "What is the question type for the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) exam consists of Multiple Choice Questions (MCQs).",
+    "intent": "question_type"
+  },
+  {
+    "question": "What is the question type for the SRM Health Science (PG) exam?",
+    "answer": "The SRM Health Science (PG) exam consists of Multiple Choice Questions (MCQs).",
+    "intent": "question_type"
+  },
+  {
+    "question": "What is the SRMJEEE (UG) exam?",
+    "answer": "The SRMJEEE (UG) is an entrance exam for undergraduate programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What is the SRMJEEE (PG) exam?",
+    "answer": "The SRMJEEE (PG) is an entrance exam for postgraduate programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What is the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) is an entrance exam for undergraduate health science programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What is the SRM Health Science (PG) exam?",
+    "answer": "The SRM Health Science (PG) is an entrance exam for postgraduate health science programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What is the purpose of the SRMJEEE (UG) exam?",
+    "answer": "The SRMJEEE (UG) exam is an entrance exam for undergraduate programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What is the purpose of the SRMJEEE (PG) exam?",
+    "answer": "The SRMJEEE (PG) exam is an entrance exam for postgraduate programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What is the purpose of the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) exam is an entrance exam for undergraduate health science programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What is the purpose of the SRM Health Science (PG) exam?",
+    "answer": "The SRM Health Science (PG) exam is an entrance exam for postgraduate health science programs at SRM Institute of Science and Technology.",
+    "intent": "exam_purpose"
+  },
+  {
+    "question": "What subjects are covered in the SRMJEEE (UG) exam?",
+    "answer": "The SRMJEEE (UG) exam covers Physics, Chemistry, Mathematics (or Biology), English, and Aptitude.",
+    "intent": "subjects"
+  },
+  {
+    "question": "What subjects are covered in the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) exam covers Physics, Chemistry, Biology, English, and Health Science Aptitude.",
+    "intent": "subjects"
+  },
+  {
+    "question": "What is the exam pattern for the SRMJEEE (PG)?",
+    "answer": "The SRMJEEE (PG) is a 2.30-hour MCQ exam covering Mathematics and syllabus-specific topics for the respective program. For Bio Technology and Food Processing, Mathematics is not included. The exam has 100 questions, each carrying 1 mark, with no negative marking.",
+    "intent": "exam_pattern"
+  },
+  {
+    "question": "What is the exam pattern for the SRM Health Science (PG)?",
+    "answer": "The SRM Health Science (PG) is a 1.30-hour MCQ exam covering Pharmacy, Physiotherapy, Occupational Therapy, Nursing, and Allied Health Sciences, specific to the respective programs. The exam has 50 questions, each carrying 2 marks, with no negative marking, totaling 100 marks.",
+    "intent": "exam_pattern"
+  },
+  {
+    "question": "What is the marking scheme for the SRMJEEE (UG) exam?",
+    "answer": "Each correct answer in the SRMJEEE (UG) exam carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "What is the marking scheme for the SRMJEEE (PG) exam?",
+    "answer": "Each correct answer in the SRMJEEE (PG) exam carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "What is the marking scheme for the SRM Health Science (UG) exam?",
+    "answer": "Each correct answer in the SRM Health Science (UG) exam carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "What is the marking scheme for the SRM Health Science (PG) exam?",
+    "answer": "Each correct answer in the SRM Health Science (PG) exam carries 2 marks, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "How many sections are in the SRMJEEE (UG) exam?",
+    "answer": "The SRMJEEE (UG) exam has five sections: Physics, Chemistry, Mathematics (or Biology), English, and Aptitude.",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How many sections are in the SRMJEEE (PG) exam?",
+    "answer": "The SRMJEEE (PG) exam has two sections: Mathematics and syllabus-specific topics for the respective program. For Bio Technology and Food Processing, Mathematics is not included.",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How many sections are in the SRM Health Science (UG) exam?",
+    "answer": "The SRM Health Science (UG) exam has five sections: Physics, Chemistry, Biology, English, and Health Science Aptitude.",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How many sections are in the SRM Health Science (PG) exam?",
+    "answer": "The SRM Health Science (PG) exam has five sections: Pharmacy, Physiotherapy, Occupational Therapy, Nursing, and Allied Health Sciences, specific to the respective programs.",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "What sections are included in the SRMJEEM (PG) entrance examination?",
+    "answer": "The SRMJEEM (PG) entrance examination includes Data Interpretation, Quantitative, Reasoning, English, and General Knowledge/Current Affairs/Business Affairs sections.",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How many questions are there in each section of the SRMJEEM (PG) entrance examination?",
+    "answer": "Each section of the SRMJEEM (PG) entrance examination contains 20 questions.",
+    "intent": "exam_questions_per_section"
+  },
+  {
+    "question": "What is the scoring system for the SRMJEEM (PG) entrance examination?",
+    "answer": "Each correct answer in the SRMJEEM (PG) entrance examination carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "What is the duration of the SRMJEEL (5-year Integrated) entrance examination?",
+    "answer": "The SRMJEEL (5-year Integrated) entrance examination is 2.00 hours long.",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What sections are included in the SRMJEEL (5-year Integrated) entrance examination?",
+    "answer": "The SRMJEEL (5-year Integrated) entrance examination includes English, Legal Aptitude, Logical Reasoning, General Knowledge, and Elementary Maths sections.",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How many questions are there in each section of the SRMJEEL (5-year Integrated) entrance examination?",
+    "answer": "Each section of the SRMJEEL (5-year Integrated) entrance examination contains 20 questions.",
+    "intent": "exam_questions_per_section"
+  },
+  {
+    "question": "What is the scoring system for the SRMJEEL (5-year Integrated) entrance examination?",
+    "answer": "Each correct answer in the SRMJEEL (5-year Integrated) entrance examination carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "What is the total number of marks for the SRMJEEL (5-year Integrated) entrance examination?",
+    "answer": "The SRMJEEL (5-year Integrated) entrance examination has a total of 100 marks.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of the SRMJEEL (3-year) entrance examination?",
+    "answer": "The SRMJEEL (3-year) entrance examination is 2.00 hours long.",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What sections are included in the SRMJEEL (3-year) entrance examination?",
+    "answer": "The SRMJEEL (3-year) entrance examination includes English, Legal Aptitude, Logical Reasoning, General Knowledge, and Elementary Maths sections.",
+    "intent": "exam_sections"
+  },
+  {
+    "question": "How many questions are there in each section of the SRMJEEL (3-year) entrance examination?",
+    "answer": "Each section of the SRMJEEL (3-year) entrance examination contains 20 questions.",
+    "intent": "exam_questions_per_section"
+  },
+  {
+    "question": "What is the scoring system for the SRMJEEL (3-year) entrance examination?",
+    "answer": "Each correct answer in the SRMJEEL (3-year) entrance examination carries 1 mark, with no negative marking.",
+    "intent": "scoring_criteria"
+  },
+  {
+    "question": "What is the total number of marks for the SRMJEEL (3-year) entrance examination?",
+    "answer": "The SRMJEEL (3-year) entrance examination has a total of 100 marks.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "Is there negative marking in the SRMJEEM (PG) entrance examination?",
+    "answer": "No, there is no negative marking in the SRMJEEM (PG) entrance examination.",
+    "intent": "negative_marking_policy"
+  },
+  {
+    "question": "Is there negative marking in the SRMJEEL (5-year Integrated) entrance examination?",
+    "answer": "No, there is no negative marking in the SRMJEEL (5-year Integrated) entrance examination.",
+    "intent": "negative_marking_policy"
+  },
+  {
+    "question": "Is there negative marking in the SRMJEEL (3-year) entrance examination?",
+    "answer": "No, there is no negative marking in the SRMJEEL (3-year) entrance examination.",
+    "intent": "negative_marking_policy"
+  },
+  {
+    "question": "Which entrance examination is for the 5-year Integrated program?",
+    "answer": "The SRMJEEL (5-year Integrated) entrance examination is for the 5-year Integrated program.",
+    "intent": "exam_for_program"
+  },
+  {
+    "question": "Which entrance examination is for the 3-year program?",
+    "answer": "The SRMJEEL (3-year) entrance examination is for the 3-year program.",
+    "intent": "exam_for_program"
+  },
+  {
+    "question": "What is the format of the SRMJEEM (PG) entrance examination?",
+    "answer": "The SRMJEEM (PG) entrance examination is a multiple-choice question (MCQ) format.",
+    "intent": "exam_format"
+  },
+  {
+    "question": "What is the format of the SRMJEEL (5-year Integrated) entrance examination?",
+    "answer": "The SRMJEEL (5-year Integrated) entrance examination is a multiple-choice question (MCQ) format.",
+    "intent": "exam_format"
+  },
+  {
+    "question": "What is the format of the SRMJEEL (3-year) entrance examination?",
+    "answer": "The SRMJEEL (3-year) entrance examination is a multiple-choice question (MCQ) format.",
+    "intent": "exam_format"
+  },
+  {
+    "question": "How do candidates book their test slots for the examination?",
+    "answer": "Candidates book their test slots through SRMIST's system through admission portal , and each is assigned a proctor.",
+    "intent": "test_slot_booking"
+  },
+  {
+    "question": "What happens during the remote proctoring examination?",
+    "answer": "Candidates are monitored continuously via webcam by a proctor.",
+    "intent": "proctoring_process"
+  },
+  {
+    "question": "When is the e-hall ticket issued to candidates?",
+    "answer": "The e-hall ticket is issued to eligible candidates who submitted their complete application on time.",
+    "intent": "hall_ticket_issuance"
+  },
+  {
+    "question": "What information is included on the hall ticket?",
+    "answer": "The hall ticket contains the candidate's name, photograph, address, and test schedule.",
+    "intent": "hall_ticket_contents"
+  },
+  {
+    "question": "How do candidates download their hall ticket?",
+    "answer": "Candidates download their hall ticket from their login/dashboard on the OAP.",
+    "intent": "hall_ticket_download"
+  },
+  {
+    "question": "What should candidates do if they find discrepancies in their hall ticket?",
+    "answer": "Candidates should immediately contact the Director of Admissions, if they notice any discrepancies.",
+    "intent": "discrepancy_resolution"
+  },
+  {
+    "question": "What is the schedule for SRMJEEE (UG) phases?",
+    "answer": "SRMJEEE (UG) has three phases: Phase I in April, Phase II in June, and Phase III in July.",
+    "intent": "srmjee_ug_schedule"
+  },
+  {
+    "question": "What are the phases and schedule for SRMJEEE (PG)?",
+    "answer": "SRMJEEE (PG) has three phases: Phase I in March, Phase II in May, and Phase III in July.",
+    "intent": "srmjee_pg_schedule"
+  },
+  {
+    "question": "What are the phases and schedule for SRM Health Science (UG)?",
+    "answer": "SRM Health Science (UG) has two phases: Phase I in April and Phase II in June.",
+    "intent": "health_science_ug_schedule"
+  },
+  {
+    "question": "What are the phases and schedule for SRM Health Science (PG)?",
+    "answer": "SRM Health Science (PG) has two phases: Phase I in April and Phase II in June.",
+    "intent": "health_science_pg_schedule"
+  },
+  {
+    "question": "What are the phases and schedule for SRM Health Science (Post PG)?",
+    "answer": "SRM Health Science (Post PG) has one phase in April.",
+    "intent": "health_science_post_pg_schedule"
+  },
+  {
+    "question": "What are the phases and schedule for SRMJEEM (PG)?",
+    "answer": "SRMJEEM (PG) has three phases: Phase I in February, Phase II in April, and Phase III in June.",
+    "intent": "srmjeem_pg_schedule"
+  },
+  {
+    "question": "What are the phases and schedule for SRMJEEL (UG) 5-year Integrated Programme?",
+    "answer": "SRMJEEL (UG) 5-year Integrated Programme has two phases: Phase I in April and Phase II in June.",
+    "intent": "srmjeel_ug_5yr_schedule"
+  },
+  {
+    "question": "What are the phases and schedule for SRMJEEL (UG) 3-year Programme?",
+    "answer": "SRMJEEL (UG) 3-year Programme has two phases: Phase I in April and Phase II in June.",
+    "intent": "srmjeel_ug_3yr_schedule"
+  },
+  {
+    "question": "What programmes are offered by SRMIST and how can I find out about them?",
+    "answer": "SRMIST offers various programmes, which are listed on the official website. The programmes are indicative and subject to change as per the Institute's discretion.",
+    "intent": "programmes_offered"
+  },
+  {
+    "question": "What is the basis for admission to SRMIST?",
+    "answer": "Admission to SRMIST is purely based on the admission criteria mentioned in the selection process table.",
+    "intent": "admission_basis"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to SRMIST?",
+    "answer": "The eligibility criteria, including minimum percentage of marks in PCM/PCB or CGPA, are prescribed by SRMJCCA and may change from time to time.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "How should I calculate the aggregate percentage of marks for admission?",
+    "answer": "The aggregate percentage of marks should be calculated up to three decimal points and not rounded off to the nearest integer.",
+    "intent": "aggregate_calculation"
+  },
+  {
+    "question": "What is the mode of counseling for shortlisted candidates?",
+    "answer": "The counseling for shortlisted candidates is conducted online.",
+    "intent": "counseling_mode"
+  },
+  {
+    "question": "What happens if I meet the eligibility criteria with my predicted scores?",
+    "answer": "You will receive a provisional admission letter via email, but it is not valid for visa purposes.",
+    "intent": "provisional_admission"
+  },
+  {
+    "question": "Do I need to submit my actual results after receiving provisional admission?",
+    "answer": "Yes, you must submit your actual marks/grade sheet once available and ensure you meet the program's eligibility requirements.",
+    "intent": "document_submission"
+  },
+  {
+    "question": "Are there additional requirements for non-CBSE students applying to MBBS/BDS/B.Sc Nursing?",
+    "answer": "Yes, non-CBSE students must provide an equivalence certificate from the Association of Indian Universities (AIU). Additionally, nursing applicants need approval from the Indian Nursing Council (INC).",
+    "intent": "additional_requirements"
+  },
+  {
+    "question": "What methods are available for paying fees at SRM Institute?",
+    "answer": "Fees must be paid via electronic transfer only.",
+    "intent": "payment_methods"
+  },
+  {
+    "question": "What currency is required for fee payments at SRM Institute?",
+    "answer": "Payments must be made in US Dollars.",
+    "intent": "payment_currency"
+  },
+  {
+    "question": "What is the deadline for paying fees after receiving the provisional admission letter?",
+    "answer": "Fees must be paid within 10 days of the provisional admission letter issuance.",
+    "intent": "payment_deadline"
+  },
+  {
+    "question": "What if the provisional admission letter email doesn't arrive?",
+    "answer": "The university is not responsible for non-delivery of the email.",
+    "intent": "email_non_delivery"
+  },
+  {
+    "question": "Where should the completed EWT form be sent after payment?",
+    "answer": "The EWT form should be emailed to ir.accounts@srmist.edu.in.",
+    "intent": "ewt_submission"
+  },
+  {
+    "question": "Why is submitting the EWT form important?",
+    "answer": "It ensures proper and timely credit of the payment.",
+    "intent": "ewt_importance"
+  },
+  {
+    "question": "What is the process to confirm admission after paying the fees?",
+    "answer": "After paying the full annual tuition fees, registration fees, and examination fees, and submitting all mandatory documents, the admission letter will be sent via email. Admission is confirmed on a \"Merit-cum-First Come First Serve\" basis.",
+    "intent": "admission_confirmation_process"
+  },
+  {
+    "question": "Can I apply for a student visa with the confirmed admission letter?",
+    "answer": "Yes, foreign students can use the confirmed admission letter to apply for a student visa, book tickets, and purchase insurance.",
+    "intent": "visa_application"
+  },
+  {
+    "question": "What happens if I fail to pay the full tuition fees on time?",
+    "answer": "Failure to pay the full tuition fees on time will result in losing the admission opportunity, and the university may admit other eligible applicants without further notice.",
+    "intent": "fee_payment_deadline"
+  },
+  {
+    "question": "Is the admission letter sent by email?",
+    "answer": "Yes, the confirmed admission letter will be sent to you by email once the fees and documents are received.",
+    "intent": "admission_letter_delivery"
+  },
+  {
+    "question": "What is the basis for confirming admissions?",
+    "answer": "Admissions are confirmed on a \"Merit-cum-First Come First Serve\" basis.",
+    "intent": "admission_criteria"
+  },
+  {
+    "question": "What fees need to be paid to confirm admission?",
+    "answer": "You need to pay the full annual tuition fees, registration fees, and examination fees for the first year to confirm your admission.",
+    "intent": "fee_payment_process"
+  },
+  {
+    "question": "Can I hold the university responsible if I lose my admission opportunity due to late payment?",
+    "answer": "No, SRM Institute of Science and Technology cannot be held responsible for any lost opportunities or damages arising from late payment of fees.",
+    "intent": "liability_for_lost_opportunities"
+  },
+  {
+    "question": "What documents are required to confirm admission?",
+    "answer": "Final mark sheets and all other mandatory documents must be submitted along with the payment of fees to confirm admission.",
+    "intent": "required_documents"
+  },
+  {
+    "question": "How long do I have to pay the fees after receiving the admission offer?",
+    "answer": "The fee must be paid within the stipulated date mentioned in the admission offer.",
+    "intent": "fee_payment_timeline"
+  },
+  {
+    "question": "What happens if I miss the fee payment deadline?",
+    "answer": "Missing the fee payment deadline will automatically result in the loss of your admission opportunity.",
+    "intent": "fee_payment_deadline_consequences"
+  },
+  {
+    "question": "What is the pre-enrolment process at SRM Institute of Science and Technology?",
+    "answer": "The pre-enrolment process involves verifying academic transcripts and obtaining declarations from parents or students upon arrival at the campus. The university will provide detailed communication about the procedure, class commencement, and other admission formalities.",
+    "intent": "pre_enrolment_process"
+  },
+  {
+    "question": "How can I find out the exact date for the commencement of first-year classes?",
+    "answer": "Candidates are advised to check the university's website for the actual date of commencement of first-year classes.",
+    "intent": "class_commencement_date"
+  },
+  {
+    "question": "What documents are required for verification at the time of registration?",
+    "answer": "The required documents include the degree or pass certificate, grade/mark sheet, translated versions if not in English, passport with a valid student visa, equivalence certificate from AIU, approval from INC for Nursing, NATA score card for B.Arch, and migration/transfer certificates.",
+    "intent": "document_verification"
+  },
+  {
+    "question": "Are there any additional fees to be paid at the time of admission?",
+    "answer": "Yes, additional fees may be required for items such as first-year books, clinical or laboratory materials, and transport, to be remitted as per norms.",
+    "intent": "additional_fees"
+  },
+  {
+    "question": "Is there a specific fee for PhD thesis?",
+    "answer": "Yes, a thesis fee is applicable for PhD students as per the Directorate of Research norms.",
+    "intent": "phd_thesis_fee"
+  },
+  {
+    "question": "When will hostel allocation be provided?",
+    "answer": "Hostel allocation is permitted only after completing all admission formalities.",
+    "intent": "hostel_allocation"
+  },
+  {
+    "question": "What medical insurance requirements apply to international candidates at SRMIST?",
+    "answer": "International candidates are advised to carry valid medical insurance during their tenure at SRMIST.",
+    "intent": "medical_insurance"
+  },
+  {
+    "question": "What is the security registration process for international students at SRMIST?",
+    "answer": "International students must register with the Foreigner\u2019s Registration Office (FRO) or Foreigner\u2019s Regional Registration Office (FRRO) within 24 hours to 14 days of arrival in India, depending on their country of origin. PIO/OCI card holders are exempt. SRMIST provides assistance, but students must bear the applicable fees. Nepal and Bhutan students are exempt from FRRO registration but must maintain an FSIS ID.",
+    "intent": "security_registration"
+  },
+  {
+    "question": "Can I change my course after receiving the confirmed admission letter?",
+    "answer": "No, change of course is not allowed after the issue of the confirmed admission letter.",
+    "intent": "course_change_policy"
+  },
+  {
+    "question": "How is the examination process conducted, and are there any additional fees?",
+    "answer": "The examination process, grading, and award of the degree are the same for all students, including international students. Each semester, students are required to pay the applicable examination fees as announced.",
+    "intent": "examination_process"
+  },
+  {
+    "question": "What is unique about SRMIST-DDE's learning experience?",
+    "answer": "SRMIST-DDE provides a unique and vibrant learning experience with personalized support and a student-centric approach.",
+    "intent": "learning_experience"
+  },
+  {
+    "question": "How is SRMIST-DDE recognized in India?",
+    "answer": "SRMIST-DDE is a division of SRMIST, the top-ranked university in India, and is nationally recognized for its high-quality distance education.",
+    "intent": "recognition"
+  },
+  {
+    "question": "What kind of support does SRMIST-DDE provide to students?",
+    "answer": "SRMIST-DDE offers consistent support for student progress and provides career advice to help students set study goals.",
+    "intent": "student_support"
+  },
+  {
+    "question": "How does an SRMIST-DDE degree benefit one's career?",
+    "answer": "An accredited degree from SRMIST-DDE can be a great advantage in the job market and career advancement.",
+    "intent": "career_benefits"
+  },
+  {
+    "question": "What research activities is SRMIST connected with?",
+    "answer": "SRMIST is connected with powerful research activities, enhancing its academic and professional offerings.",
+    "intent": "research_activities"
+  },
+  {
+    "question": "What teaching model does SRMIST-DDE use?",
+    "answer": "SRMIST-DDE uses a distance education model with a student-centric approach and personalized support.",
+    "intent": "teaching_model"
+  },
+  {
+    "question": "How does SRMIST-DDE help students with career goals?",
+    "answer": "SRMIST-DDE provides career advice to ambitious students to help them set and achieve study goals throughout their studies.",
+    "intent": "career_advice"
+  },
+  {
+    "question": "What kind of degree is offered by SRMIST-DDE?",
+    "answer": "SRMIST-DDE offers accredited degrees through its distance education programs.",
+    "intent": "degree_offering"
+  },
+  {
+    "question": "Why is SRMIST-DDE considered a great choice for distance education?",
+    "answer": "SRMIST-DDE is a great choice due to its high-quality distance education, personalized support, and career-focused approach.",
+    "intent": "why_choose"
+  },
+  {
+    "question": "What makes SRMIST-DDE's programs stand out?",
+    "answer": "SRMIST-DDE's programs stand out due to their student-centric approach, consistent support, and strong research connections.",
+    "intent": "program_uniqueness"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure student progress?",
+    "answer": "SRMIST-DDE ensures student progress through consistent support and personalized assistance throughout their studies.",
+    "intent": "student_progress"
+  },
+  {
+    "question": "What is the reputation of SRMIST in India?",
+    "answer": "SRMIST is the top-ranked university in India and is highly regarded for its academic and research excellence.",
+    "intent": "university_reputation"
+  },
+  {
+    "question": "What kind of learning environment does SRMIST-DDE provide?",
+    "answer": "SRMIST-DDE provides a vibrant and personalized learning environment tailored to student needs.",
+    "intent": "learning_environment"
+  },
+  {
+    "question": "How does SRMIST-DDE contribute to a student's career growth?",
+    "answer": "SRMIST-DDE contributes to career growth through its accredited degrees, career advice, and strong industry connections.",
+    "intent": "career_growth"
+  },
+  {
+    "question": "What makes SRMIST-DDE's distance education unique?",
+    "answer": "SRMIST-DDE's distance education is unique due to its student-centric approach, personalized support, and focus on career development.",
+    "intent": "distance_education_uniqueness"
+  },
+  {
+    "question": "What kind of support does SRMIST-DDE offer for career development?",
+    "answer": "SRMIST-DDE offers career advice and support to help students set and achieve their study and career goals.",
+    "intent": "career_support"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure the quality of its programs?",
+    "answer": "SRMIST-DDE ensures the quality of its programs through accreditation, personalized support, and strong research connections.",
+    "intent": "program_quality"
+  },
+  {
+    "question": "What is the vision of SRMIST-DDE?",
+    "answer": "SRMIST-DDE aims to provide high-quality distance education with a focus on student progress and career development.",
+    "intent": "vision"
+  },
+  {
+    "question": "How does SRMIST-DDE stay connected with research activities?",
+    "answer": "SRMIST-DDE is connected with powerful research activities through its affiliation with SRMIST, a top-ranked research university.",
+    "intent": "research_connection"
+  },
+  {
+    "question": "What kind of personalized support does SRMIST-DDE offer?",
+    "answer": "SRMIST-DDE offers personalized support to students, including career advice and consistent academic assistance.",
+    "intent": "personalized_support"
+  },
+  {
+    "question": "How does SRMIST-DDE help students achieve their study goals?",
+    "answer": "SRMIST-DDE helps students achieve their study goals through personalized support, career advice, and a student-centric approach.",
+    "intent": "study_goals"
+  },
+  {
+    "question": "What makes SRMIST-DDE a great choice for distance learning?",
+    "answer": "SRMIST-DDE is a great choice for distance learning due to its high-quality programs, personalized support, and career-focused approach.",
+    "intent": "distance_learning_choice"
+  },
+  {
+    "question": "How does SRMIST-DDE contribute to student success?",
+    "answer": "SRMIST-DDE contributes to student success through personalized support, career advice, and a student-centric learning environment.",
+    "intent": "student_success"
+  },
+  {
+    "question": "What is the focus of SRMIST-DDE's programs?",
+    "answer": "SRMIST-DDE's programs focus on providing high-quality education with a student-centric approach and career development.",
+    "intent": "program_focus"
+  },
+  {
+    "question": "How does SRMIST-DDE support ambitious students?",
+    "answer": "SRMIST-DDE supports ambitious students through career advice, personalized support, and a focus on study goal achievement.",
+    "intent": "ambitious_students"
+  },
+  {
+    "question": "What kind of recognition does SRMIST-DDE have in India?",
+    "answer": "SRMIST-DDE is a nationally recognized institution and part of the top-ranked SRMIST.",
+    "intent": "national_recognition"
+  },
+  {
+    "question": "How does SRMIST-DDE prepare students for the job market?",
+    "answer": "SRMIST-DDE prepares students for the job market through accredited degrees, career advice, and a focus on career development.",
+    "intent": "job_market_preparation"
+  },
+  {
+    "question": "What is the teaching philosophy of SRMIST-DDE?",
+    "answer": "SRMIST-DDE's teaching philosophy revolves around a student-centric approach with personalized support and career-focused education.",
+    "intent": "teaching_philosophy"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure student satisfaction?",
+    "answer": "SRMIST-DDE ensures student satisfaction through personalized support, career advice, and a vibrant learning environment.",
+    "intent": "student_satisfaction"
+  },
+  {
+    "question": "What kind of academic support does SRMIST-DDE provide?",
+    "answer": "SRMIST-DDE provides consistent academic support and personalized assistance to ensure student progress.",
+    "intent": "academic_support"
+  },
+  {
+    "question": "How does SRMIST-DDE stay connected with industry needs?",
+    "answer": "SRMIST-DDE stays connected with industry needs through its research activities and career-focused education.",
+    "intent": "industry_connection"
+  },
+  {
+    "question": "What makes SRMIST-DDE's degrees valuable?",
+    "answer": "SRMIST-DDE's degrees are valuable due to their accreditation, high-quality education, and strong industry connections.",
+    "intent": "degree_value"
+  },
+  {
+    "question": "How does SRMIST-DDE foster student engagement?",
+    "answer": "SRMIST-DDE fosters student engagement through personalized support, career advice, and a vibrant learning environment.",
+    "intent": "student_engagement"
+  },
+  {
+    "question": "What is the mission of SRMIST-DDE?",
+    "answer": "SRMIST-DDE's mission is to provide high-quality distance education with a focus on student progress and career development.",
+    "intent": "mission"
+  },
+  {
+    "question": "How does SRMIST-DDE support student aspirations?",
+    "answer": "SRMIST-DDE supports student aspirations through personalized support, career advice, and a focus on study goal achievement.",
+    "intent": "student_aspirations"
+  },
+  {
+    "question": "What kind of learning resources does SRMIST-DDE provide?",
+    "answer": "SRMIST-DDE provides learning resources tailored to student needs, including personalized support and career advice.",
+    "intent": "learning_resources"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure academic excellence?",
+    "answer": "SRMIST-DDE ensures academic excellence through its accredited programs, personalized support, and strong research connections.",
+    "intent": "academic_excellence"
+  },
+  {
+    "question": "What is the student-centric approach of SRMIST-DDE?",
+    "answer": "SRMIST-DDE's student-centric approach includes personalized support, career advice, and a focus on student progress and success.",
+    "intent": "student_centric_approach"
+  },
+  {
+    "question": "How does SRMIST-DDE contribute to professional development?",
+    "answer": "SRMIST-DDE contributes to professional development through its accredited degrees, career advice, and industry-focused education.",
+    "intent": "professional_development"
+  },
+  {
+    "question": "What kind of goals does SRMIST-DDE help students achieve?",
+    "answer": "SRMIST-DDE helps students achieve their study and career goals through personalized support and career advice.",
+    "intent": "goal_achievement"
+  },
+  {
+    "question": "How does SRMIST-DDE measure student success?",
+    "answer": "SRMIST-DDE measures student success through student progress, career development, and the achievement of study goals.",
+    "intent": "success_measurement"
+  },
+  {
+    "question": "What is the role of research at SRMIST-DDE?",
+    "answer": "Research plays a significant role at SRMIST-DDE, enhancing its academic and professional offerings through strong research activities.",
+    "intent": "research_role"
+  },
+  {
+    "question": "How does SRMIST-DDE prepare students for the future?",
+    "answer": "SRMIST-DDE prepares students for the future through high-quality education, career advice, and a focus on career development.",
+    "intent": "future_preparation"
+  },
+  {
+    "question": "What kind of environment does SRMIST-DDE create for students?",
+    "answer": "SRMIST-DDE creates a vibrant and personalized learning environment tailored to student needs.",
+    "intent": "learning_environment"
+  },
+  {
+    "question": "How does SRMIST-DDE support student well-being?",
+    "answer": "SRMIST-DDE supports student well-being through personalized support, career advice, and a focus on student success.",
+    "intent": "student_well-being"
+  },
+  {
+    "question": "What is the importance of accreditation for SRMIST-DDE degrees?",
+    "answer": "Accreditation ensures that SRMIST-DDE degrees are recognized and valued in the job market and for further education.",
+    "intent": "accreditation_importance"
+  },
+  {
+    "question": "How does SRMIST-DDE stay updated with industry trends?",
+    "answer": "SRMIST-DDE stays updated with industry trends through its research activities and focus on career development.",
+    "intent": "industry_trends"
+  },
+  {
+    "question": "What kind of recognition does SRMIST have internationally?",
+    "answer": "SRMIST is highly ranked and recognized internationally for its academic and research excellence.",
+    "intent": "international_recognition"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure the relevance of its programs?",
+    "answer": "SRMIST-DDE ensures the relevance of its programs through industry connections, research activities, and a focus on career development.",
+    "intent": "program_relevance"
+  },
+  {
+    "question": "What is the purpose of distance education at SRMIST-DDE?",
+    "answer": "The purpose is to provide an effective alternative path to education for those unable to attend full-time programs.",
+    "intent": "purpose_distance_education"
+  },
+  {
+    "question": "What are the eligibility criteria for UG programs at SRMIST-DDE?",
+    "answer": "Students must have completed the 12th grade.",
+    "intent": "eligibility_criteria_ug"
+  },
+  {
+    "question": "What are the eligibility criteria for PG programs at SRMIST-DDE?",
+    "answer": "A graduation degree is required, and some programs may require entrance exams.",
+    "intent": "eligibility_criteria_pg"
+  },
+  {
+    "question": "Who can benefit from SRMIST-DDE's distance education?",
+    "answer": "It benefits individuals unable to join regular universities, including working professionals.",
+    "intent": "benefits_distance_education"
+  },
+  {
+    "question": "What are the salient features of SRMIST-DDE?",
+    "answer": "The program offers flexibility and accessibility, catering to diverse student needs.",
+    "intent": "salient_features"
+  },
+  {
+    "question": "What are the benefits of enrolling in SRMIST-DDE?",
+    "answer": "SRMIST-DDE offers a flexible learning environment, allows students to learn at their own pace, is cost-effective, saves time, and increases productivity.",
+    "intent": "benefits_of_enrollment"
+  },
+  {
+    "question": "How does SRMIST-DDE support students in their learning journey?",
+    "answer": "SRMIST-DDE provides additional support to students by guiding them through NPTEL and MOOC resources for extensive learning.",
+    "intent": "student_support"
+  },
+  {
+    "question": "What is the mode of application for SRMIST-DDE programs?",
+    "answer": "The mode of application for SRMIST-DDE programs is technology-based, ensuring a dynamic and interactive learning environment.",
+    "intent": "application_mode"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure the legitimacy of its degrees, diplomas, and certificates?",
+    "answer": "SRMIST-DDE uses a scientific and objective evaluation method to create a dynamic learning environment and ensure the legitimacy of its degrees, diplomas, and certificates.",
+    "intent": "legitimacy_of_credentials"
+  },
+  {
+    "question": "What makes the learning environment at SRMIST-DDE unique?",
+    "answer": "The learning environment at SRMIST-DDE is interactive and learner-centric, incorporating inputs from industry experts and using the finest techniques to support self-directed learning.",
+    "intent": "learning_environment"
+  },
+  {
+    "question": "How does SRMIST-DDE cater to lifelong learners?",
+    "answer": "SRMIST-DDE provides educational resources and access to knowledge for individuals who consider learning to be a lifelong process.",
+    "intent": "lifelong_learning"
+  },
+  {
+    "question": "What is the role of technology in SRMIST-DDE's delivery system?",
+    "answer": "The technology-based delivery system at SRMIST-DDE guarantees increased student engagement and a more effective learning experience.",
+    "intent": "technology_in_delivery"
+  },
+  {
+    "question": "How does SRMIST-DDE help students balance their learning with other responsibilities?",
+    "answer": "SRMIST-DDE allows students to learn at their own pace, making it easier to balance learning with other responsibilities while being more productive.",
+    "intent": "flexibility_in_learning"
+  },
+  {
+    "question": "How can I apply for admission to SRMIST DDE programmes?",
+    "answer": "Candidates can apply through the official website [https://www.srmist.edu.in//](https://www.srmist.edu.in/) under \"Admission India\" - \"Directorate of Distance Education\". They need to fill the online application form, upload essential documents, and pay the application fee of Rs 500/- to complete the process.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What documents do I need to upload during the SRMIST DDE application process?",
+    "answer": "Candidates must upload their marksheet, provisional certificate, and degree certificate as part of the application process.",
+    "intent": "required_documents"
+  },
+  {
+    "question": "How much is the application fee for SRMIST DDE programmes?",
+    "answer": "The application fee for SRMIST DDE programmes is Rs 500/-.",
+    "intent": "application_fee"
+  },
+  {
+    "question": "Is the admission process for SRMIST DDE programmes entirely online?",
+    "answer": "Yes, the entire admission process for SRMIST DDE programmes is digitised and carried out online.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "Where can I find information about SRMIST DDE programmes?",
+    "answer": "Candidates can find all relevant information about SRMIST DDE programmes on the official website [https://www.srmist.edu.in//](https://www.srmist.edu.in/) under \"Admission India\" - \"Directorate of Distance Education\".",
+    "intent": "programme_information"
+  },
+  {
+    "question": "What happens after I submit my application for SRMIST DDE programmes?",
+    "answer": "After submitting the application and paying the fee, candidates will undergo pre-admission counselling as part of the admission process.",
+    "intent": "post_submission_process"
+  },
+  {
+    "question": "What is pre-admission counselling at SRMIST DDE?",
+    "answer": "Pre-admission counselling is a step in the admission process where candidates are guided through the programme details and any specific requirements after submitting their application.",
+    "intent": "pre_admission_counselling"
+  },
+  {
+    "question": "What are the accepted modes of fee payment for SRM Institute of Science and Technology's distance learning programs?",
+    "answer": "The fee payment can be made through online transfer, bank draft, or pay order directly in favor of the directorate.",
+    "intent": "fee_payment_methods"
+  },
+  {
+    "question": "What is the fee structure for SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "The fee structure for ODL/Online programs is available on the official website and varies by program.",
+    "intent": "fee_structure"
+  },
+  {
+    "question": "Are there any additional fees for SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "Yes, there may be additional fees for items such as books, clinical or laboratory materials, and transport, which will be communicated during the admission process.",
+    "intent": "additional_fees"
+  },
+  {
+    "question": "Is there a refund policy for fees paid to SRM Institute of Science and Technology?",
+    "answer": "Yes, the refund policy is outlined in the admission guidelines and varies by program.",
+    "intent": "refund_policy"
+  },
+  {
+    "question": "What is the fee payment timeline for SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "The fee payment timeline will be communicated to candidates after the admission offer and must be adhered to for enrollment.",
+    "intent": "fee_payment_timeline"
+  },
+  {
+    "question": "Can I pay my fees in cash at SRM Institute of Science and Technology?",
+    "answer": "No, cash payments are not accepted. All fees must be paid through electronic transfer or bank draft.",
+    "intent": "payment_methods"
+  },
+  {
+    "question": "What is the fee payment deadline for SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "The fee payment deadline will be communicated to candidates after the admission offer and must be adhered to for enrollment.",
+    "intent": "fee_payment_deadline"
+  },
+  {
+    "question": "Are there any hidden fees in SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "No, there are no hidden fees. All fees are clearly outlined in the fee structure available on the official website.",
+    "intent": "hidden_fees"
+  },
+  {
+    "question": "What is the process for obtaining a fee receipt after payment?",
+    "answer": "After payment, candidates can access their fee receipts through their user logins on the official website.",
+    "intent": "fee_receipt_process"
+  },
+  {
+    "question": "Is there any scholarship or financial aid available for SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "Yes, SRM Institute of Science and Technology offers various scholarships and financial aid options. Details can be found on the official website.",
+    "intent": "scholarship_financial_aid"
+  },
+  {
+    "question": "What is the refund policy for SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "The refund policy is outlined in the admission guidelines and varies by program. Candidates should refer to the official website for details.",
+    "intent": "refund_policy_details"
+  },
+  {
+    "question": "Are there any additional charges for international students at SRM Institute of Science and Technology?",
+    "answer": "International students may have additional charges related to visa processing, but all fees must be paid in US Dollars.",
+    "intent": "international_student_charges"
+  },
+  {
+    "question": "What is the process for fee payment for international students at SRM Institute of Science and Technology?",
+    "answer": "International students must pay their fees in US Dollars through electronic transfer or bank draft.",
+    "intent": "international_fee_payment"
+  },
+  {
+    "question": "Is there any capitation fee or donation required for admission to SRM Institute of Science and Technology's ODL/Online programs?",
+    "answer": "No, there is no capitation fee or donation required for admission to any seat in ODL/Online mode.",
+    "intent": "capitation_donation"
+  },
+  {
+    "question": "How can learners access their fee receipts?",
+    "answer": "Learners can access their fee receipts through their user logins.",
+    "intent": "fee_receipt_access"
+  },
+  {
+    "question": "What happens after the fee payment is made for SRM Institute of Science and Technology's distance learning programs?",
+    "answer": "After fee payment, the directorate will upload the payment details, and the learner will be formally enrolled in the program.",
+    "intent": "formal_enrollment_process"
+  },
+  {
+    "question": "Why does SRM IST advise against cash transactions?",
+    "answer": "SRM IST advises against cash transactions to avoid risks associated with non-official channels.",
+    "intent": "rationale_for_policy"
+  },
+  {
+    "question": "Is SRM IST responsible for consequences of cash transactions through non-official channels?",
+    "answer": "No, SRM IST or its authorities are not responsible for any consequences arising from cash transactions through non-official channels.",
+    "intent": "responsibility"
+  },
+  {
+    "question": "What happens after submitting the documents for SRMIST-DDE admission?",
+    "answer": "The Directorate of Distance Education will verify the uploaded documents and check the required criteria. A Provisional Allotment Letter will be dispatched to the candidate's personal email.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "How long do candidates have to pay the tuition fees after receiving the Provisional Allotment Letter?",
+    "answer": "Candidates are required to make payment towards the tuition fees within a stipulated time, which will be communicated by the enrolment team.",
+    "intent": "fee_payment"
+  },
+  {
+    "question": "What if there are pending documents after the initial submission?",
+    "answer": "If any documents are pending, the support team will communicate the requirements to the students.",
+    "intent": "document_submission"
+  },
+  {
+    "question": "Does SRMIST-DDE offer B.A., B.Com., B.C.A., or B.B.A. programs?",
+    "answer": "Yes, SRMIST Distance Education offers B.A., B.Com., B.C.A., and B.B.A. programs for students who want to complete their graduation.",
+    "intent": "program_availability"
+  },
+  {
+    "question": "What are the eligibility criteria for SRMIST-DDE B.A., B.Com., B.C.A., or B.B.A. programs?",
+    "answer": "Applicants must fulfill the eligibility criteria as prescribed by the University Grants Commission (UGC).",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What educational background is required to apply for SRMIST-DDE undergraduate programs?",
+    "answer": "Students from any stream who have passed the intermediate class from any recognized board of education are eligible to apply.",
+    "intent": "educational_background"
+  },
+  {
+    "question": "What is the duration required to complete a B.A. or B.Com. degree at SRMIST-DDE?",
+    "answer": "The minimum duration required to complete a B.A. or B.Com. degree is three years.",
+    "intent": "bacom_duration"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to the B.A. or B.Com. programs at SRMIST-DDE?",
+    "answer": "Candidates must have passed the 10+2 qualifying exams from a recognized institution.",
+    "intent": "bacom_eligibility"
+  },
+  {
+    "question": "What is the duration required to complete an M.A. or M.Com. degree at SRMIST-DDE?",
+    "answer": "The minimum duration required to complete an M.A. or M.Com. degree is two years.",
+    "intent": "macom_duration"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to the M.A. or M.Com. programs at SRMIST-DDE?",
+    "answer": "Applicants must fulfill the eligibility criteria prescribed by the UGC and have a relevant undergraduate degree from any recognized institution.",
+    "intent": "macom_eligibility"
+  },
+  {
+    "question": "Does SRMIST-DDE offer postgraduate programs in Computer Applications or Business Administration?",
+    "answer": "Yes, SRMIST-DDE provides postgraduate education in the fields of Computer Applications (M.C.A.) and Business Administration (M.B.A.).",
+    "intent": "pg_programsAvailability"
+  },
+  {
+    "question": "What qualifications are required for admission to SRM Institute of Science and Technology?",
+    "answer": "Candidates must have passed the undergraduate course from any recognized institution in the relevant stream.",
+    "intent": "required_qualifications"
+  },
+  {
+    "question": "What is the duration of the M.C.A. and M.B.A. programs at SRM Institute of Science and Technology?",
+    "answer": "The minimum time required to complete the M.C.A. or M.B.A. degree is 2 years.",
+    "intent": "program_duration"
+  },
+  {
+    "question": "How can I verify the authenticity of information related to SRM Institute of Science and Technology admissions?",
+    "answer": "The official website [www.srmist.edu.in](https://www.srmist.edu.in/) and the email ID [admissions.india@srmist.edu.in](mailto:admissions.india@srmist.edu.in) are the only official sources for admissions-related information.",
+    "intent": "information_authenticity"
+  },
+  {
+    "question": "Are there any authorized agents or agencies for admissions to SRM Institute of Science and Technology?",
+    "answer": "No, SRM Institute of Science and Technology has not authorized any consultant, agency, or individual agent for admitting candidates to any programs.",
+    "intent": "authorized_agents"
+  },
+  {
+    "question": "Where can I apply for admission to SRM Institute of Science and Technology?",
+    "answer": "Admissions to SRM Institute of Science and Technology can only be done through the official channel via the Directorate of Admissions at Kattankulathur (Near Chennai), Tamil Nadu, or by visiting the official website at [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "admission_channel"
+  },
+  {
+    "question": "Are admissions to SRM Institute of Science and Technology based on merit?",
+    "answer": "Yes, admissions to all programmes at SRM Institute of Science and Technology are done solely on merit.",
+    "intent": "merit_based_admission"
+  },
+  {
+    "question": "Does SRM Institute of Science and Technology accept cash transactions for any services?",
+    "answer": "No, SRM Institute of Science and Technology does not accept cash transactions for any of its services.",
+    "intent": "cash_transactions"
+  },
+  {
+    "question": "What should I do if I get involved in a cash transaction through non-official channels for admission?",
+    "answer": "If you knowingly or unknowingly get involved in cash transactions through non-official channels, please be advised that this is at your own risk. SRM Institute of Science and Technology or any of its authorities are not responsible for any consequences arising thereof.",
+    "intent": "non_official_channels"
+  },
+  {
+    "question": "How can I get more information about admissions to SRM Institute of Science and Technology?",
+    "answer": "For all relevant information about admissions, you can directly approach the Directorate of Admissions at Kattankulathur (Near Chennai), Tamil Nadu, or visit the official website at [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "admission_information"
+  },
+  {
+    "question": "How can I avoid falling victim to fraudulent websites promising admission to SRMIST?",
+    "answer": "To avoid fraudulent websites, verify the authenticity of any website promising SRMIST admission by cross-checking with the official SRMIST website ([www.srmist.edu.in](https://www.srmist.edu.in/)). If you encounter any suspicious websites, report them immediately to [cyberwatchdog@srmist.edu.in](mailto:cyberwatchdog@srmist.edu.in).",
+    "intent": "fraudulent_websites"
+  }
+]

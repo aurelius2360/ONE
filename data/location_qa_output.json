@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Where is the Library and University Building(UB) located?",
+    "answer": "The Library and University Building is located on the ground floor of UB.,https://maps.app.goo.gl/mPkK8YYkap851sJ9A",
+    "intent": "campus.location"
+  },
+  {
+    "question": "Where is the Tech Park located?",
+    "answer": "Tech Park is a 15-floor academic building.https://maps.app.goo.gl/Zk8zi2N5Hf9JSMTN6",
+    "intent": "campus.location"
+  },
+  {
+    "question": "Where is the Auditorium located?",
+    "answer": "The Auditorium is used for major university events and fests.https://maps.app.goo.gl/1xXjqSVsJ4aWPzG47",
+    "intent": "campus.location"
+  },
+  {
+    "question": "Where is the Java Green Food Court located?",
+    "answer": "Java Green Food Court is near the clock tower.,https://maps.app.goo.gl/iMRegMZiYL3suEeN7",
+    "intent": "campus.location"
+  }
+]

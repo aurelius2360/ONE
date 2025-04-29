@@ -1,0 +1,3382 @@
+[
+  {
+    "question": "What are the different categories of scholarships available at SRM Institute of Science and Technology?",
+    "answer": "The scholarships available include Founder’s Scholarship, SRM Merit Scholarship, and Socio-Economic Scholarship.",
+    "intent": "scholarship_categories"
+  },
+  {
+    "question": "What is the Founder’s Scholarship at SRM Institute of Science and Technology?",
+    "answer": "The Founder’s Scholarship is applicable for 4 years.",
+    "intent": "founders_scholarship"
+  },
+  {
+    "question": "What is the SRM Merit Scholarship?",
+    "answer": "The SRM Merit Scholarship is based on academic performance and merit.",
+    "intent": "merit_scholarship"
+  },
+  {
+    "question": "What is the Socio-Economic Scholarship?",
+    "answer": "The Socio-Economic Scholarship is awarded based on socio-economic factors.",
+    "intent": "socio_economic_scholarship"
+  },
+  {
+    "question": "Are there any specific eligibility criteria for the scholarships at SRM Institute of Science and Technology?",
+    "answer": "Eligibility criteria for scholarships include academic performance, merit, and socio-economic factors.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "How long is the Founder’s Scholarship valid?",
+    "answer": "The Founder’s Scholarship is valid for 4 years.",
+    "intent": "scholarship_duration"
+  },
+  {
+    "question": "What are the key factors considered for awarding scholarships at SRM Institute of Science and Technology?",
+    "answer": "Key factors include academic performance, merit, and socio-economic conditions.",
+    "intent": "scholarship_factors"
+  },
+  {
+    "question": "Can you provide more details about the SRM Merit Scholarship?",
+    "answer": "The SRM Merit Scholarship is awarded to students based on their academic achievements and merit.",
+    "intent": "merit_scholarship_details"
+  },
+  {
+    "question": "What is the purpose of the Socio-Economic Scholarship?",
+    "answer": "The purpose of the Socio-Economic Scholarship is to support students from economically disadvantaged backgrounds.",
+    "intent": "socio_economic_purpose"
+  },
+  {
+    "question": "Are the scholarships at SRM Institute of Science and Technology available for all programs?",
+    "answer": "The scholarships are available for eligible students across various programs.",
+    "intent": "scholarship_availability"
+  },
+  {
+    "question": "How can I apply for scholarships at SRM Institute of Science and Technology?",
+    "answer": "The application process for scholarships is outlined in the official scholarship policy document.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "Is the Unnat Bharat Abhiyan Scholarship available at SRM Institute of Science and Technology?",
+    "answer": "Yes, the Unnat Bharat Abhiyan Scholarship is available at SRM Institute of Science and Technology.",
+    "intent": "scholarship_availability"
+  },
+  {
+    "question": "What is the eligibility criteria for the Differently-Abled Scholarship?",
+    "answer": "The eligibility criteria for the Differently-Abled Scholarship can be found on the SRM Institute of Science and Technology's scholarship policy page.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "Can I apply for the SRM Arts and Culture Scholarship?",
+    "answer": "Yes, you can apply for the SRM Arts and Culture Scholarship, provided you meet the eligibility criteria.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What is the Employee Ward Scholarship (EWS)?",
+    "answer": "The Employee Ward Scholarship (EWS) is a scholarship offered to the wards of SRM Institute of Science and Technology employees.",
+    "intent": "scholarship_details"
+  },
+  {
+    "question": "How can I avail the Alumni Scholarship?",
+    "answer": "The Alumni Scholarship can be availed by meeting the specific criteria outlined in the scholarship policy.",
+    "intent": "scholarship_availability"
+  },
+  {
+    "question": "What is the Performance-Based Scholarship?",
+    "answer": "The Performance-Based Scholarship is awarded to students based on their academic performance.",
+    "intent": "scholarship_details"
+  },
+  {
+    "question": "Are there any concessions available for students?",
+    "answer": "Yes, SRM Institute of Science and Technology offers concessions to students, details of which can be found on their policy page.",
+    "intent": "concession_details"
+  },
+  {
+    "question": "Is there a Defence Scholarship available?",
+    "answer": "Yes, the Defence Scholarship is available for eligible students at SRM Institute of Science and Technology.",
+    "intent": "scholarship_availability"
+  },
+  {
+    "question": "Can I apply for the Sponsored Scholarship?",
+    "answer": "Yes, you can apply for the Sponsored Scholarship if you meet the eligibility criteria.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What is mentioned in the Important Note section of the scholarship policy?",
+    "answer": "The Important Note section contains key information and guidelines regarding the scholarships offered by SRM Institute of Science and Technology.",
+    "intent": "policy_notes"
+  },
+  {
+    "question": "What is the Library Policy at SRM Institute of Science and Technology?",
+    "answer": "The Library Policy at SRM Institute of Science and Technology outlines the rules and regulations for using the library facilities.",
+    "intent": "library_policy"
+  },
+  {
+    "question": "What is the loan period for library books?",
+    "answer": "The loan period for library books is specified in the Library Policy document.",
+    "intent": "library_loan_period"
+  },
+  {
+    "question": "What is the Founder’s Scholarship at SRM Institute of Science and Technology?",
+    "answer": "The Founder’s Scholarship was instituted in 2010 to encourage and attract toppers in qualifying examinations or Joint Entrance examinations seeking admission in the first year of B.Tech, as well as exemplary sports personalities seeking admission in any Diploma/UG/PG programmes.",
+    "intent": "scholarship_details"
+  },
+  {
+    "question": "What are the eligibility criteria for the Founder’s Scholarship?",
+    "answer": "Candidates must have passed the qualifying examination (HSC or degree as applicable) in regular mode in the first attempt in the current year of admission and secured the required percentage of marks in the +2 examination.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Who can apply for the Founder’s Scholarship?",
+    "answer": "Candidates who have passed the qualifying examination in the current year of admission in the first attempt and secured the required percentage of marks in the +2 examination can apply.",
+    "intent": "application_eligibility"
+  },
+  {
+    "question": "What is the Early Bird category under the Founder’s Scholarship?",
+    "answer": "The Early Bird category is applicable to students who passed out in the previous year and could not take admission anywhere due to any reasons, provided they secure the required percentage of marks in the +2 examination.",
+    "intent": "early_bird_category"
+  },
+  {
+    "question": "What is the purpose of the Founder’s Scholarship?",
+    "answer": "The purpose of the Founder’s Scholarship is to encourage and attract toppers in qualifying examinations or Joint Entrance examinations and exemplary sports personalities to seek admission at SRM IST.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "Can students who passed out in the previous year apply for the Founder’s Scholarship?",
+    "answer": "Yes, students who passed out in the previous year and could not take admission anywhere can apply under the Early Bird category if they meet the required percentage of marks in the +2 examination.",
+    "intent": "previous_year_applicants"
+  },
+  {
+    "question": "Is the Founder’s Scholarship applicable for all programmes at SRM IST?",
+    "answer": "The scholarship is applicable for B.Tech programmes for toppers and exemplary sports personalities seeking admission in any Diploma/UG/PG programmes.",
+    "intent": "programme_applicability"
+  },
+  {
+    "question": "What is the duration of the Founder’s Scholarship?",
+    "answer": "The Founder’s Scholarship is applicable for 4 years.",
+    "intent": "scholarship_duration"
+  },
+  {
+    "question": "Are there any specific conditions for candidates to avail the Founder’s Scholarship?",
+    "answer": "Candidates must have passed the qualifying examination in regular mode in the first attempt in the current year of admission and secured the required percentage of marks in the +2 examination.",
+    "intent": "scholarship_conditions"
+  },
+  {
+    "question": "Can candidates who took more than one attempt to pass the qualifying examination apply for the Founder’s Scholarship?",
+    "answer": "No, candidates must have passed the qualifying examination in the first attempt to be eligible for the Founder’s Scholarship.",
+    "intent": "multiple_attempts"
+  },
+  {
+    "question": "Is the Founder’s Scholarship available for candidates who took admission in the previous year but did not join?",
+    "answer": "Yes, such candidates can apply under the Early Bird category if they meet the required percentage of marks in the +2 examination.",
+    "intent": "early_bird_eligibility"
+  },
+  {
+    "question": "What are the criteria for extremely meritorious students at SRM Institute of Science and Technology?",
+    "answer": "Extremely meritorious students must either be in the top 100 ranks in SRMJEEE (UG), top 20,000 ranks in IIT JEE (Mains), state first rank in HSC of respective state boards or CBSE within India, or district topper in HSC in Tamil Nadu State Board or CBSE within Tamil Nadu.",
+    "intent": "admission_criteria"
+  },
+  {
+    "question": "Can exemplary sports persons apply for admission?",
+    "answer": "Yes, exemplary sports persons representing University/District (Province)/Zone/State/National/International levels can apply.",
+    "intent": "sports_admission"
+  },
+  {
+    "question": "What is the Early Bird sub-category?",
+    "answer": "The Early Bird sub-category is for students who completed +2 in the previous year and have a high percentage of marks.",
+    "intent": "early_bird"
+  },
+  {
+    "question": "What are the prerequisites for the Early Bird sub-category?",
+    "answer": "The prerequisites for the Early Bird sub-category include completing +2 in the previous year and having a high percentage of marks.",
+    "intent": "early_bird_prerequisites"
+  },
+  {
+    "question": "What are the additional requirements for the Early Bird sub-category?",
+    "answer": "The additional requirements for the Early Bird sub-category include applying online within the stipulated time and getting enrolled; otherwise, it stands cancelled. It cannot be claimed at a later date.",
+    "intent": "early_bird_requirements"
+  },
+  {
+    "question": "What are the conditions for renewal of the Early Bird sub-category?",
+    "answer": "The renewal of the Early Bird sub-category is based on performance.",
+    "intent": "early_bird_renewal"
+  },
+  {
+    "question": "What are the ranks required for extremely meritorious students in SRMJEEE (UG)?",
+    "answer": "Extremely meritorious students must be in the top 100 ranks spread across all phases in SRMJEEE (UG).",
+    "intent": "required_ranks"
+  },
+  {
+    "question": "What are the ranks required for extremely meritorious students in IIT JEE (Mains)?",
+    "answer": "Extremely meritorious students must be in the top 20,000 ranks in IIT JEE (Mains).",
+    "intent": "required_ranks"
+  },
+  {
+    "question": "What are the state-level requirements for extremely meritorious students?",
+    "answer": "Extremely meritorious students must have a state first rank in HSC of respective state boards or CBSE within India.",
+    "intent": "state_requirements"
+  },
+  {
+    "question": "What are the district-level requirements for extremely meritorious students in Tamil Nadu?",
+    "answer": "Extremely meritorious students must be district toppers in HSC in Tamil Nadu State Board or CBSE within Tamil Nadu.",
+    "intent": "district_requirements"
+  },
+  {
+    "question": "What is required for exemplary sports persons to apply?",
+    "answer": "Exemplary sports persons must apply every year within the stipulated date.",
+    "intent": "sports_application"
+  },
+  {
+    "question": "What is the renewal condition for the Early Bird sub-category?",
+    "answer": "The renewal condition for the Early Bird sub-category is based on performance.",
+    "intent": "renewal_condition"
+  },
+  {
+    "question": "What are the eligibility criteria for admission under the Top 100 ranks in SRMJEE (UG)?",
+    "answer": "Must be eligible for admission to First Year B.Tech, attend SRMJEEE counselling, apply within the stipulated date, have no arrears, possess the required CGPA, no break of study, and maintain a CGPA > 9.",
+    "intent": "admission_eligibility"
+  },
+  {
+    "question": "What is required for students ranked in the Top 20,000 in IIT JEE (Mains)?",
+    "answer": "Must be eligible for admission to First Year B.Tech, attend SRMJEEE counselling, apply within the stipulated date, have no arrears, possess the required CGPA, no break of study, and maintain a CGPA > 9.",
+    "intent": "admission_eligibility"
+  },
+  {
+    "question": "What documents are needed for students who are State first ranks in HSC or CBSE?",
+    "answer": "Must submit a certificate of distinction from The Secretary, School Education of the respective state.",
+    "intent": "required_documents"
+  },
+  {
+    "question": "What is the requirement for District toppers in Tamil Nadu State Board or CBSE?",
+    "answer": "Must be a District topper in HSC in Tamil Nadu State Board or CBSE within Tamil Nadu.",
+    "intent": "admission_eligibility"
+  },
+  {
+    "question": "What is the condition for maintaining the scholarship?",
+    "answer": "Must maintain a CGPA > 9 and receive a recommendation from the scholarship committee.",
+    "intent": "scholarship_conditions"
+  },
+  {
+    "question": "Can students with arrears or backlogs apply for admission?",
+    "answer": "No, students must have no arrears/backlogs at the time of application.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Is attendance at SRMJEEE counselling mandatory?",
+    "answer": "Yes, attending SRMJEEE counselling is mandatory.",
+    "intent": "counselling_requirements"
+  },
+  {
+    "question": "Are there any restrictions on study breaks or disciplinary actions?",
+    "answer": "No break of study, detention, or disciplinary action/malpractice is allowed.",
+    "intent": "academic_integrity"
+  },
+  {
+    "question": "How often do students need to apply for admission?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What CGPA is required for admission?",
+    "answer": "Must possess the required CGPA as stipulated by the committee from time to time.",
+    "intent": "cgpa_requirements"
+  },
+  {
+    "question": "What is the benefit for Extremely Meritorious Students?",
+    "answer": "Extremely Meritorious Students must submit a certificate of distinction from The Secretary, School Education of the respective state.",
+    "intent": "meritorious_students"
+  },
+  {
+    "question": "What are the different categories of ranks considered for admission?",
+    "answer": "Top 100 ranks in SRMJEE (UG), Top 20,000 ranks in IIT JEE (Mains), State first ranks in HSC of respective state boards or CBSE within India, and District topper in HSC in Tamil Nadu State Board or CBSE within Tamil Nadu.",
+    "intent": "admission_categories"
+  },
+  {
+    "question": "What is the purpose of the scholarship committee's recommendation?",
+    "answer": "The scholarship committee's recommendation is required for maintaining a CGPA > 9.",
+    "intent": "scholarship_recommendation"
+  },
+  {
+    "question": "Can students with a break in study apply for admission?",
+    "answer": "No, students must have no break of study.",
+    "intent": "study_break"
+  },
+  {
+    "question": "What is the role of the scholarship committee?",
+    "answer": "The scholarship committee recommends students for maintaining a CGPA > 9.",
+    "intent": "scholarship_committee"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction for State first ranks?",
+    "answer": "It is required for students who are State first ranks in HSC or CBSE.",
+    "intent": "certificate_importance"
+  },
+  {
+    "question": "How are District toppers in Tamil Nadu State Board or CBSE within Tamil Nadu considered?",
+    "answer": "They are considered for admission under a specific category.",
+    "intent": "district_toppers"
+  },
+  {
+    "question": "What is the process for applying under the Top 100 ranks in SRMJEE (UG)?",
+    "answer": "Must apply every year within the stipulated date, attend SRMJEEE counselling, have no arrears, possess the required CGPA, no break of study, and maintain a CGPA > 9.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What are the general requirements for all rank categories?",
+    "answer": "All must apply within the stipulated date, have no arrears, possess the required CGPA, no break of study, and maintain a CGPA > 9.",
+    "intent": "general_requirements"
+  },
+  {
+    "question": "What is the importance of maintaining a CGPA > 9?",
+    "answer": "It is necessary for scholarship maintenance and recommendation by the committee.",
+    "intent": "cgpa_maintenance"
+  },
+  {
+    "question": "What happens if a student has disciplinary action or malpractice?",
+    "answer": "Such students are not eligible for admission.",
+    "intent": "disciplinary_action"
+  },
+  {
+    "question": "How does the institute ensure academic integrity?",
+    "answer": "By requiring no arrears, no break of study, and no disciplinary action/malpractice.",
+    "intent": "academic_integrity"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on maintaining a CGPA > 9.",
+    "intent": "scholarship_role"
+  },
+  {
+    "question": "Can students apply multiple times if they miss the stipulated date?",
+    "answer": "They must apply every year within the stipulated date.",
+    "intent": "application_deadline"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "How are District toppers in Tamil Nadu accommodated?",
+    "answer": "They are considered under a specific admission category.",
+    "intent": "district_toppers_accommodation"
+  },
+  {
+    "question": "What is the significance of the SRMJEEE counselling?",
+    "answer": "It is mandatory for admission eligibility.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 ranks in IIT JEE (Mains)?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the role of the Secretary, School Education in the admission process?",
+    "answer": "They provide the certificate of distinction for State first rank holders.",
+    "intent": "secretary_role"
+  },
+  {
+    "question": "What is the impact of not maintaining CGPA > 9?",
+    "answer": "It affects scholarship maintenance and committee recommendation.",
+    "intent": "cgpa_impact"
+  },
+  {
+    "question": "What is the policy on study breaks for admitted students?",
+    "answer": "No break of study is allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "How does the institute handle disciplinary actions in applicants?",
+    "answer": "Applicants with disciplinary actions are ineligible.",
+    "intent": "disciplinary_policy"
+  },
+  {
+    "question": "What is the application process for District toppers?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the benefit for maintaining a high CGPA?",
+    "answer": "It is necessary for scholarship and committee recommendation.",
+    "intent": "cgpa_benefit"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate and recommend students based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with State first ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, maintain a CGPA > 9, and submit a certificate of distinction.",
+    "intent": "state_rank_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders to be considered under the Extremely Meritorious Students category.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for admission?",
+    "answer": "Students must have no arrears at the time of application.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students who maintain a CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 ranks in SRMJEE (UG)?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 ranks in IIT JEE (Mains)?",
+    "answer": "They are eligible for admission under specific criteria.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Any malpractice makes the student ineligible.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of the SRMJEEE counselling?",
+    "answer": "It is mandatory for all eligible students.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "No study breaks are allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "No arrears are allowed at the time of application.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "It is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for admission.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the significance of SRMJEEE counselling?",
+    "answer": "It is mandatory for all applicants.",
+    "intent": "counselling_significance"
+  },
+  {
+    "question": "What is the benefit for students with State first ranks?",
+    "answer": "They are considered under the Extremely Meritorious Students category.",
+    "intent": "state_rank_benefit"
+  },
+  {
+    "question": "What is the policy on study breaks for applicants?",
+    "answer": "Study breaks are not allowed.",
+    "intent": "study_break_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in student evaluation?",
+    "answer": "They evaluate based on CGPA > 9.",
+    "intent": "scholarship_evaluation"
+  },
+  {
+    "question": "What is the process for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "iit_jee_process"
+  },
+  {
+    "question": "What is the significance of the certificate of distinction?",
+    "answer": "It is required for State first rank holders.",
+    "intent": "certificate_significance"
+  },
+  {
+    "question": "What is the policy on arrears for applicants?",
+    "answer": "Applicants must have no arrears.",
+    "intent": "arrears_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in admission?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "scholarship_admission_role"
+  },
+  {
+    "question": "What is the process for students with Top 100 SRMJEE (UG) ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "top_100_process"
+  },
+  {
+    "question": "What is the benefit for students with Top 20,000 IIT JEE (Mains) ranks?",
+    "answer": "They are eligible for admission.",
+    "intent": "iit_jee_benefit"
+  },
+  {
+    "question": "What is the policy on malpractice in admission?",
+    "answer": "Malpractice is not allowed.",
+    "intent": "malpractice_policy"
+  },
+  {
+    "question": "What is the role of the scholarship committee in maintaining CGPA?",
+    "answer": "They recommend students based on CGPA > 9.",
+    "intent": "cgpa_role"
+  },
+  {
+    "question": "What is the process for students with District topper ranks?",
+    "answer": "They must apply within the stipulated date, attend counselling, have no arrears, possess required CGPA, no study break, and maintain a CGPA > 9.",
+    "intent": "district_toppers_process"
+  },
+  {
+    "question": "What is the eligibility criteria for admission under the sports quota at SRM Institute of Science and Technology?",
+    "answer": "The student must be eligible for the First Year Diploma / UG / PG programme permitted under the quota and must approach the Directorate of Sports, SRM IST, Kattankulathur Campus, for trials or selection.",
+    "intent": "Eligibility"
+  },
+  {
+    "question": "What is required for a student to continue representing the university under the sports quota?",
+    "answer": "The student must maintain a CGPA > 7 and be recommended by the Directorate of Sports.",
+    "intent": "Continuation"
+  },
+  {
+    "question": "Which programmes are permissible under the sports quota at SRM Institute of Science and Technology?",
+    "answer": "Only select programmes as decided by the management are permissible under the sports quota.",
+    "intent": "Programmes"
+  },
+  {
+    "question": "What is the objective of the SRM Merit Scholarship?",
+    "answer": "The scholarship aims to encourage and attract outstanding candidates in SRMJEE (UG) to seek admission in the first year of B. Tech in SRM IST.",
+    "intent": "Objective"
+  },
+  {
+    "question": "Who can apply for the SRM Merit Scholarship?",
+    "answer": "Candidates who have secured SRMJEEE Rank 101-500 (spread across all phases) in SRMJEE (UG) are eligible.",
+    "intent": "Eligibility"
+  },
+  {
+    "question": "What are the conditions for renewing the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA as per the committee, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal"
+  },
+  {
+    "question": "How is the SRM JEEE Merit Scholarship awarded?",
+    "answer": "During counselling.",
+    "intent": "scholarship_award"
+  },
+  {
+    "question": "What is the CGPA requirement to maintain the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa"
+  },
+  {
+    "question": "Can the scholarship committee set additional criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Yes, the scholarship committee has the authority to set additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_criteria"
+  },
+  {
+    "question": "What are the prerequisites for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What are the conditions for applying for the SRM JEEE Merit Scholarship every year?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What are the additional requirements for the SRM JEEE Merit Scholarship?",
+    "answer": "No arrears/backlogs, required CGPA, no break of study/detention/disciplinary action.",
+    "intent": "scholarship_requirements"
+  },
+  {
+    "question": "What is the Socio-Economic Scholarship?",
+    "answer": "Socio-Economic Scholarship is a scholarship category for students based on socio-economic criteria.",
+    "intent": "scholarship_type"
+  },
+  {
+    "question": "What are the prerequisites for the Socio-Economic Scholarship?",
+    "answer": "Specific prerequisites for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_prerequisites"
+  },
+  {
+    "question": "What are the conditions for renewing the Socio-Economic Scholarship?",
+    "answer": "Specific conditions for renewal of the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_conditions"
+  },
+  {
+    "question": "How is the Socio-Economic Scholarship awarded?",
+    "answer": "Specific details about the award process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_award_process"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_process"
+  },
+  {
+    "question": "What are the additional requirements for the Socio-Economic Scholarship?",
+    "answer": "Specific additional requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_additional_requirements"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What are the conditions for applying for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_conditions"
+  },
+  {
+    "question": "What are the general prerequisites for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must be eligible for admission to First Year B. Tech for the SRM JEEE Merit Scholarship. Specific prerequisites for other scholarships are not detailed.",
+    "intent": "scholarship_prerequisites_general"
+  },
+  {
+    "question": "What are the general requirements for maintaining scholarships at SRM Institute of Science and Technology?",
+    "answer": "No arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 for the SRM JEEE Merit Scholarship. Specific requirements for other scholarships are not detailed.",
+    "intent": "scholarship_maintenance"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_requirement"
+  },
+  {
+    "question": "What is the application deadline for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline"
+  },
+  {
+    "question": "What is the process for renewing scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation for the SRM JEEE Merit Scholarship. Specific renewal processes for other scholarships are not detailed.",
+    "intent": "scholarship_renewal_process"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_criteria"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_process_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_process_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for renewing the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_renewal_cgpa"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_requirement_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the deadline for applying for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline"
+  },
+  {
+    "question": "What is the deadline for renewing scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_renewal_deadline"
+  },
+  {
+    "question": "What is the eligibility criteria for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must be eligible for admission to First Year B. Tech for the SRM JEEE Merit Scholarship. Specific eligibility criteria for other scholarships are not detailed.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for scholarships at SRM Institute of Science and Technology?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds for the SRM JEEE Merit Scholarship. Specific roles for other scholarships are not detailed.",
+    "intent": "scholarship_committee_role"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must maintain a CGPA > 9 for the SRM JEEE Merit Scholarship. Specific CGPA requirements for other scholarships are not detailed.",
+    "intent": "scholarship_cgpa"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation for the SRM JEEE Merit Scholarship. Specific renewal processes for other scholarships are not detailed.",
+    "intent": "scholarship_renewal"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for applying for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for applying for the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for renewing the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_renewal_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for renewing the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for renewing the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_renewal_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must be eligible for admission to First Year B. Tech for the SRM JEEE Merit Scholarship. Specific eligibility criteria for other scholarships are not detailed.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for scholarships at SRM Institute of Science and Technology?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds for the SRM JEEE Merit Scholarship. Specific roles for other scholarships are not detailed.",
+    "intent": "scholarship_committee_role"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must maintain a CGPA > 9 for the SRM JEEE Merit Scholarship. Specific CGPA requirements for other scholarships are not detailed.",
+    "intent": "scholarship_cgpa"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation for the SRM JEEE Merit Scholarship. Specific renewal processes for other scholarships are not detailed.",
+    "intent": "scholarship_renewal"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for applying for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline"
+  },
+  {
+    "question": "What is the deadline for applying for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for applying for the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for renewing the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_renewal_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for renewing the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for renewing the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_renewal_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must be eligible for admission to First Year B. Tech for the SRM JEEE Merit Scholarship. Specific eligibility criteria for other scholarships are not detailed.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for scholarships at SRM Institute of Science and Technology?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds for the SRM JEEE Merit Scholarship. Specific roles for other scholarships are not detailed.",
+    "intent": "scholarship_committee_role"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must maintain a CGPA > 9 for the SRM JEEE Merit Scholarship. Specific CGPA requirements for other scholarships are not detailed.",
+    "intent": "scholarship_cgpa"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation for the SRM JEEE Merit Scholarship. Specific renewal processes for other scholarships are not detailed.",
+    "intent": "scholarship_renewal"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for applying for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline"
+  },
+  {
+    "question": "What is the deadline for applying for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for applying for the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for renewing the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_renewal_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for renewing the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for renewing the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_renewal_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must be eligible for admission to First Year B. Tech for the SRM JEEE Merit Scholarship. Specific eligibility criteria for other scholarships are not detailed.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for scholarships at SRM Institute of Science and Technology?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds for the SRM JEEE Merit Scholarship. Specific roles for other scholarships are not detailed.",
+    "intent": "scholarship_committee_role"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must maintain a CGPA > 9 for the SRM JEEE Merit Scholarship. Specific CGPA requirements for other scholarships are not detailed.",
+    "intent": "scholarship_cgpa"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation for the SRM JEEE Merit Scholarship. Specific renewal processes for other scholarships are not detailed.",
+    "intent": "scholarship_renewal"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for applying for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline"
+  },
+  {
+    "question": "What is the deadline for applying for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for applying for the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the eligibility criteria for the Socio-Economic Scholarship?",
+    "answer": "Specific eligibility criteria for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_eligibility_socio_economic"
+  },
+  {
+    "question": "What is the application process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_application_jeee"
+  },
+  {
+    "question": "What is the application process for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the application process for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_application_socio_economic"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the SRM JEEE Merit Scholarship?",
+    "answer": "The scholarship committee sets additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "scholarship_committee_role_jeee"
+  },
+  {
+    "question": "What is the role of the scholarship committee for the Socio-Economic Scholarship?",
+    "answer": "Specific details about the role of the scholarship committee for the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_committee_role_socio_economic"
+  },
+  {
+    "question": "What is the CGPA requirement for the SRM JEEE Merit Scholarship?",
+    "answer": "Must maintain a CGPA > 9.",
+    "intent": "scholarship_cgpa_jeee"
+  },
+  {
+    "question": "What is the CGPA requirement for the Socio-Economic Scholarship?",
+    "answer": "Specific CGPA requirements for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_cgpa_socio_economic"
+  },
+  {
+    "question": "What is the renewal process for the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date, no arrears/backlogs, required CGPA, no break of study/detention/disciplinary action, and CGPA >9 with scholarship committee recommendation.",
+    "intent": "scholarship_renewal_jeee"
+  },
+  {
+    "question": "What is the renewal process for the Socio-Economic Scholarship?",
+    "answer": "Specific renewal processes for the Socio-Economic Scholarship are not detailed in the provided document.",
+    "intent": "scholarship_renewal_socio_economic"
+  },
+  {
+    "question": "What is the deadline for renewing the SRM JEEE Merit Scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "scholarship_renewal_deadline_jeee"
+  },
+  {
+    "question": "What is the deadline for renewing the Socio-Economic Scholarship?",
+    "answer": "Specific deadlines for renewing the Socio-Economic Scholarship are not provided in the document.",
+    "intent": "scholarship_renewal_deadline_socio_economic"
+  },
+  {
+    "question": "What is the eligibility criteria for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Must be eligible for admission to First Year B. Tech for the SRM JEEE Merit Scholarship. Specific eligibility criteria for other scholarships are not detailed.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for the SRM JEEE Merit Scholarship?",
+    "answer": "Must be eligible for admission to First Year B. Tech.",
+    "intent": "scholarship_eligibility_jeee"
+  },
+  {
+    "question": "What is the objective of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The scholarship aims to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_objective"
+  },
+  {
+    "question": "Who can apply for the scholarship?",
+    "answer": "Candidates who have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What are the prerequisites for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs that are recognised by SRMIST.",
+    "intent": "ngotribal_prerequisites"
+  },
+  {
+    "question": "What are the prerequisites for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations that are recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_prerequisites"
+  },
+  {
+    "question": "What are the conditions for renewal of the scholarship?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "renewal_conditions"
+  },
+  {
+    "question": "What is required for candidates to apply for the scholarship every year?",
+    "answer": "They must apply within the stipulated date.",
+    "intent": "annual_application"
+  },
+  {
+    "question": "What is the process for candidates from Low Income Families to apply for the scholarship?",
+    "answer": "They can be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_process"
+  },
+  {
+    "question": "What is the process for candidates from NGOs and Tribal Community to apply for the scholarship?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_process"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates to apply for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "How often do candidates need to apply for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_frequency"
+  },
+  {
+    "question": "What documents are required for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_documents"
+  },
+  {
+    "question": "What documents are required for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_documents"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the main requirement for candidates to apply for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship program at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is required for candidates to renew the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the process for applying for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from Low Income Families?",
+    "answer": "They must be recommended by Not-for-profit organisations recognised by SRMIST or through representation by individual student.",
+    "intent": "lowincome_eligibility"
+  },
+  {
+    "question": "What is the renewal process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_process"
+  },
+  {
+    "question": "What is the application process for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for the scholarship?",
+    "answer": "Candidates must have passed qualifying examination (HSC or degree as applicable) in regular mode in FIRST ATTEMPT in the current year of admission, secured good marks, and belong to either NGOs and Tribal Community or Low Income Families.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the renewal requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "renewal_requirement"
+  },
+  {
+    "question": "What is the application requirement for the scholarship?",
+    "answer": "Candidates must apply every year within the stipulated date.",
+    "intent": "application_requirement"
+  },
+  {
+    "question": "What is the purpose of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The purpose is to encourage and attract academically good and deserving candidates who do not have the financial background to pay the academic and non-academic fees.",
+    "intent": "scholarship_purpose"
+  },
+  {
+    "question": "What is the eligibility criteria for candidates from NGOs and Tribal Community?",
+    "answer": "They must be recommended by reputed NGOs recognised by SRMIST.",
+    "intent": "ngotribal_eligibility"
+  },
+  {
+    "question": "What are the categories of scholarships available at SRM Institute of Science and Technology?",
+    "answer": "The categories include NGOs and Tribal Community, and Low Income Families (specifically FEFSI and CHINNATHIRAI).",
+    "intent": "SCHOLARSHIP_CATEGORIES"
+  },
+  {
+    "question": "What are the eligibility criteria for the NGOs and Tribal Community scholarship?",
+    "answer": "Must be eligible for admission to the first year of the programme and be shortlisted and recommended by the respective NGOs.",
+    "intent": "ELIGIBILITY_CRITERIA"
+  },
+  {
+    "question": "What are the benefits of the NGOs and Tribal Community scholarship?",
+    "answer": "Award of Scholarship post-enrolment, with the scholarship committee setting additional criteria to optimize beneficiaries and funds, and requiring proof of income.",
+    "intent": "SCHOLARSHIP_BENEFITS"
+  },
+  {
+    "question": "What are the renewal conditions for the NGOs and Tribal Community scholarship?",
+    "answer": "Must apply annually within the stipulated date, have no arrears/backlogs, no break of study or disciplinary action, and maintain a CGPA > 7 with committee recommendation.",
+    "intent": "SCHOLARSHIP_RENEWAL"
+  },
+  {
+    "question": "What are the eligibility criteria for the Low Income Families (FEFSI and CHINNATHIRAI) scholarship?",
+    "answer": "Must be eligible for admission to the first year of the programme and be shortlisted and recommended by the respective associations.",
+    "intent": "ELIGIBILITY_CRITERIA"
+  },
+  {
+    "question": "What are the benefits of the Low Income Families (FEFSI and CHINNATHIRAI) scholarship?",
+    "answer": "Award of Scholarship post-enrolment, with the scholarship committee setting additional criteria to optimize beneficiaries and funds, and requiring proof of income.",
+    "intent": "SCHOLARSHIP_BENEFITS"
+  },
+  {
+    "question": "What are the renewal conditions for the Low Income Families (FEFSI and CHINNATHIRAI) scholarship?",
+    "answer": "Must apply annually within the stipulated date, have no arrears/backlogs, no break of study or disciplinary action, and maintain a CGPA > 7 with committee recommendation.",
+    "intent": "SCHOLARSHIP_RENEWAL"
+  },
+  {
+    "question": "What documents are required for the NGOs and Tribal Community scholarship?",
+    "answer": "Proof of income must be submitted.",
+    "intent": "REQUIRED_DOCUMENTS"
+  },
+  {
+    "question": "What is the role of the scholarship committee?",
+    "answer": "The committee has the authority to set additional criteria to optimize the number of beneficiaries and available funds.",
+    "intent": "SCHOLARSHIP_COMMITTEE_ROLE"
+  },
+  {
+    "question": "Can students with arrears or backlogs apply for the scholarship?",
+    "answer": "No, students must have no arrears/backlogs at the time of application.",
+    "intent": "ARREARS_BACKLOGS"
+  },
+  {
+    "question": "Can students with a break of study or disciplinary action apply for the scholarship?",
+    "answer": "No, students must have no break of study or disciplinary action/malpractice.",
+    "intent": "BREAK_STUDY_DISCIPLINARY"
+  },
+  {
+    "question": "What is the minimum CGPA required to renew the scholarship?",
+    "answer": "A CGPA > 7 is required, along with the recommendation of the scholarship committee.",
+    "intent": "CGPA_REQUIREMENT"
+  },
+  {
+    "question": "What are the eligibility criteria for the Need-Based scholarship at SRM Institute of Science and Technology?",
+    "answer": "Must be studying in II year or above, annual combined income of parents must not exceed 6 Lakhs as per the non-creamy layer criteria of Govt. of India, and maintain a CGPA > 9.",
+    "intent": "ADMISSION SCHOLARSHIP ELIGIBILITY"
+  },
+  {
+    "question": "What is the income criterion for the Need-Based scholarship?",
+    "answer": "Annual combined income of parents must not exceed 6 Lakhs as per the non-creamy layer criteria of Govt. of India.",
+    "intent": "INCOME CRITERIA"
+  },
+  {
+    "question": "What is the CGPA requirement for the Need-Based scholarship?",
+    "answer": "CGPA must be greater than 9.",
+    "intent": "CGPA REQUIREMENT"
+  },
+  {
+    "question": "What is the objective of the Unnat Bharat Abhiyan Scholarship?",
+    "answer": "To provide free education to poor students up to UG level, improve the quality of education for rural students in adopted villages, and encourage them to pursue higher studies in the first year at SRM IST.",
+    "intent": "SCHOLARSHIP OBJECTIVE"
+  },
+  {
+    "question": "Who can apply for the Unnat Bharat Abhiyan Scholarship?",
+    "answer": "Candidates who have passed the qualifying examination (HSC) in regular mode in the first attempt in the current year of admission, scored higher marks, and studied in Government Schools of the adopted 8 villages.",
+    "intent": "SCHOLARSHIP ELIGIBILITY"
+  },
+  {
+    "question": "How many students are selected each year under the Unnat Bharat Abhiyan Scholarship?",
+    "answer": "One student per year for each adopted village under the Vendhar Education Grants Scheme.",
+    "intent": "SCHOLARSHIP SELECTION"
+  },
+  {
+    "question": "When was the Unnat Bharat Abhiyan Scholarship instituted?",
+    "answer": "It was instituted in the year 2020.",
+    "intent": "SCHOLARSHIP HISTORY"
+  },
+  {
+    "question": "What is the benefit of the Unnat Bharat Abhiyan Scholarship?",
+    "answer": "It provides free education to selected students.",
+    "intent": "SCHOLARSHIP BENEFIT"
+  },
+  {
+    "question": "Which schools are eligible for the Unnat Bharat Abhiyan Scholarship?",
+    "answer": "Government Schools of the adopted 8 villages.",
+    "intent": "SCHOOL ELIGIBILITY"
+  },
+  {
+    "question": "What is the Vendhar Education Grants Scheme?",
+    "answer": "It provides one scholarship per year for each adopted village under the Unnat Bharat Abhiyan Scholarship.",
+    "intent": "SCHOLARSHIP SCHEME"
+  },
+  {
+    "question": "What are the conditions for renewal of the Vendhar Education Grants Scheme?",
+    "answer": "Must apply every year within the stipulated date, no arrears or backlogs, required CGPA as stipulated by the committee, no break of study or disciplinary action, and CGPA > 7 with scholarship committee recommendation.",
+    "intent": "RENEWAL_CONDITIONS"
+  },
+  {
+    "question": "What are the prerequisites for the Vendhar Education Grants Scheme?",
+    "answer": "Must be admitted in a regular program offered by SRMIST.",
+    "intent": "ELIGIBILITY"
+  },
+  {
+    "question": "What additional requirements are needed for the Vendhar Education Grants Scheme?",
+    "answer": "Must submit all relevant certificates of recognition or awards.",
+    "intent": "REQUIRED_DOCUMENTS"
+  },
+  {
+    "question": "What is the CGPA requirement for renewal of the Vendhar Education Grants Scheme?",
+    "answer": "Must maintain a CGPA > 7 as stipulated by the scholarship committee.",
+    "intent": "CGPA_REQUIREMENT"
+  },
+  {
+    "question": "Can a student with backlogs apply for renewal of the Vendhar Education Grants Scheme?",
+    "answer": "No, students with arrears or backlogs at the time of application are not eligible.",
+    "intent": "BACKLOGS"
+  },
+  {
+    "question": "What is the last date to apply for the Vendhar Education Grants Scheme?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "APPLICATION_DEADLINE"
+  },
+  {
+    "question": "What are the conditions for renewal of the Differently-Abled Scholarship?",
+    "answer": "[Not specified in the document].",
+    "intent": "RENEWAL_CONDITIONS"
+  },
+  {
+    "question": "What are the prerequisites for the Differently-Abled Scholarship?",
+    "answer": "[Not specified in the document].",
+    "intent": "ELIGIBILITY"
+  },
+  {
+    "question": "What are the additional requirements for the Differently-Abled Scholarship?",
+    "answer": "[Not specified in the document].",
+    "intent": "REQUIRED_DOCUMENTS"
+  },
+  {
+    "question": "What is the CGPA requirement for the Differently-Abled Scholarship?",
+    "answer": "[Not specified in the document].",
+    "intent": "CGPA_REQUIREMENT"
+  },
+  {
+    "question": "Can a student with a break of study apply for the Differently-Abled Scholarship?",
+    "answer": "[Not specified in the document].",
+    "intent": "BREAK_OF_STUDY"
+  },
+  {
+    "question": "What is the application process for scholarships at SRMIST?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "APPLICATION_PROCESS"
+  },
+  {
+    "question": "What is the objective of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The scholarship aims to support students with locomotor/orthopaedic disability, visually impaired, speech & hearing impaired, mental disability, multiple disabilities, etc., and facilitate their academic pursuit.",
+    "intent": "scholarship_objective"
+  },
+  {
+    "question": "Who can apply for the scholarship?",
+    "answer": "Any student who falls under the category of locomotor/orthopaedic disability, visually impaired, speech & hearing impaired, mental disability, multiple disabilities, etc., and needs additional institutional support, including financial support.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What are the conditions for applying to the scholarship?",
+    "answer": "Students must apply every year within the stipulated date.",
+    "intent": "application_conditions"
+  },
+  {
+    "question": "What are the prerequisites for students with locomotor/orthopaedic disability to apply for the scholarship?",
+    "answer": "Students must provide a disability certificate from a recognized medical authority.",
+    "intent": "locomotor_disability_requirements"
+  },
+  {
+    "question": "What are the prerequisites for students with visual impairment to apply for the scholarship?",
+    "answer": "Students must provide a disability certificate from a recognized medical authority.",
+    "intent": "visual_impairment_requirements"
+  },
+  {
+    "question": "What are the prerequisites for students with speech & hearing impairment to apply for the scholarship?",
+    "answer": "Students must provide a disability certificate from a recognized medical authority.",
+    "intent": "speech_hearing_impairment_requirements"
+  },
+  {
+    "question": "What are the prerequisites for students with mental disability to apply for the scholarship?",
+    "answer": "Students must provide a disability certificate from a recognized medical authority.",
+    "intent": "mental_disability_requirements"
+  },
+  {
+    "question": "What are the prerequisites for students with multiple disabilities to apply for the scholarship?",
+    "answer": "Students must provide a disability certificate from a recognized medical authority.",
+    "intent": "multiple_disabilities_requirements"
+  },
+  {
+    "question": "What are the conditions for the renewal of the scholarship?",
+    "answer": "Students must meet the academic and other institutional requirements as specified by the university.",
+    "intent": "renewal_conditions"
+  },
+  {
+    "question": "What are the eligibility criteria for Locomotor / Orthopaedic disability scholarship?",
+    "answer": "Must have admitted in a regular program offered by SRMIST and submit a disability certificate from the appropriate government authority.",
+    "intent": "Scholarship Eligibility"
+  },
+  {
+    "question": "What are the conditions for availing Locomotor / Orthopaedic disability scholarship?",
+    "answer": "Must apply every year within the stipulated date, no break of study or detention or disciplinary action/malpractice, and maintain a CGPA > 7 with the recommendation of the scholarship committee.",
+    "intent": "Scholarship Conditions"
+  },
+  {
+    "question": "Can students with visual impairment apply for the disability scholarship?",
+    "answer": "Yes, students with visual impairment can apply for the disability scholarship.",
+    "intent": "Scholarship Eligibility"
+  },
+  {
+    "question": "What is required to apply for the Speech & Hearing impaired scholarship?",
+    "answer": "Must have admitted in a regular program offered by SRMIST and submit a disability certificate from the appropriate government authority.",
+    "intent": "Scholarship Eligibility"
+  },
+  {
+    "question": "Can students with mental disability apply for the disability scholarship?",
+    "answer": "Yes, students with mental disability can apply for the disability scholarship.",
+    "intent": "Scholarship Eligibility"
+  },
+  {
+    "question": "What is required to apply for the Multiple disabilities scholarship?",
+    "answer": "Must have admitted in a regular program offered by SRMIST and submit a disability certificate from the appropriate government authority.",
+    "intent": "Scholarship Eligibility"
+  },
+  {
+    "question": "What is the objective of the SRM Arts and Culture Scholarship?",
+    "answer": "The scholarship aims to encourage and support students demonstrating exemplary talent in various art forms, creativity, and cultural activities having a positive influence on our social and economic life or our state or country.",
+    "intent": "Scholarship Objective"
+  },
+  {
+    "question": "Who can apply for the SRM Arts and Culture Scholarship?",
+    "answer": "Students demonstrating exemplary talent in various art forms, creativity, and cultural activities can apply.",
+    "intent": "Scholarship Eligibility"
+  },
+  {
+    "question": "What are the eligibility criteria for students with exemplary talent in Art/culture?",
+    "answer": "Students must demonstrate exemplary talent in Art/culture recognised at state/National level, such as participating in cultural exchange programs or festival of India abroad.",
+    "intent": "Eligibility"
+  },
+  {
+    "question": "What are the prerequisites for students applying under the talent category?",
+    "answer": "Students must apply every year within the stipulated date.",
+    "intent": "Prerequisites"
+  },
+  {
+    "question": "What additional requirements or remarks are there for students applying under this category?",
+    "answer": "[Additional Requirements/Remarks are not specified in the document provided.]",
+    "intent": "Additional_Requirements"
+  },
+  {
+    "question": "What are the conditions for renewal of the admission?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "Renewal"
+  },
+  {
+    "question": "How many subcategories are there for students with exemplary talent in Art/culture?",
+    "answer": "The number of subcategories is not specified in the document provided.",
+    "intent": "Subcategories"
+  },
+  {
+    "question": "What is the process for students to apply under the talent category?",
+    "answer": "Students must apply every year within the stipulated date.",
+    "intent": "Application"
+  },
+  {
+    "question": "What is the recognition level required for students applying under this category?",
+    "answer": "Students must be recognised at state/National level.",
+    "intent": "Recognition_Level"
+  },
+  {
+    "question": "Are there any specific documents required for students applying under this category?",
+    "answer": "[Specific documents are not mentioned in the document provided.]",
+    "intent": "Documents"
+  },
+  {
+    "question": "How often must students apply under this category?",
+    "answer": "Students must apply every year within the stipulated date.",
+    "intent": "Application_Frequency"
+  },
+  {
+    "question": "What is the deadline for students to apply under this category?",
+    "answer": "The stipulated date is not specified in the document provided.",
+    "intent": "Application_Deadline"
+  },
+  {
+    "question": "Are there any additional remarks for students applying under this category?",
+    "answer": "[Additional remarks are not specified in the document provided.]",
+    "intent": "Additional_Remarks"
+  },
+  {
+    "question": "What are the requirements for art/culture recognition at SRM Institute of Science and Technology?",
+    "answer": "The art/culture must be recognised by the Ministry of culture, Govt. of Tamil Nadu or India.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "What are the participation requirements for art/culture at SRM Institute of Science and Technology?",
+    "answer": "Must have participated and/or won in district/state/national level competitions by representing SRMIST.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "Is representing SRMIST necessary for participation in art/culture competitions?",
+    "answer": "Yes, representing SRMIST is required for participation in district/state/national level competitions.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "What documents are required for art/culture recognition at SRM Institute of Science and Technology?",
+    "answer": "Must submit all relevant certificates of recognition or awards.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "What are the eligibility criteria for the art/culture scholarship at SRM Institute of Science and Technology?",
+    "answer": "· Must continue to participate and bring laurels to the University.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What happens if a student's performance discontinues at SRM Institute of Science and Technology?",
+    "answer": "If performance discontinues, the student will be moved to the regular category where fees will be applicable as per programs/norms.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "What is the Employee Ward Scholarship (EWS) at SRM Institute of Science and Technology?",
+    "answer": "The Employee Ward Scholarship (EWS) is a scholarship program for the wards of SRMIST employees.",
+    "intent": "scholarship_info"
+  },
+  {
+    "question": "What are the eligibility criteria for the Employee Ward Scholarship (EWS) at SRM Institute of Science and Technology?",
+    "answer": "The eligibility criteria for the Employee Ward Scholarship (EWS) include maintaining a CGPA > 7 and the recommendation of the scholarship committee.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "What is the objective of the scholarship at SRM Institute of Science and Technology?",
+    "answer": "The scholarship aims to recognise and appreciate the services rendered by Teaching, Non-Teaching and administrative staff of SRM Group of Institutions.",
+    "intent": "scholarship_objective"
+  },
+  {
+    "question": "Who can apply for the scholarship?",
+    "answer": "Employees who have completed a minimum of 5 years of continuous service on regular rolls at any of the SRM group of Institutions can apply.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the condition for applying to the scholarship every year?",
+    "answer": "Must apply every year within the stipulated date.",
+    "intent": "application_conditions"
+  },
+  {
+    "question": "What is the staff concession amount in tuition fee for 100%?",
+    "answer": "[No specific amount provided in the document.]",
+    "intent": "concession_amount_100"
+  },
+  {
+    "question": "What is the staff concession amount in tuition fee for 75%?",
+    "answer": "[No specific amount provided in the document.]",
+    "intent": "concession_amount_75"
+  },
+  {
+    "question": "What is the staff concession amount in tuition fee for 50%?",
+    "answer": "[No specific amount provided in the document.]",
+    "intent": "concession_amount_50"
+  },
+  {
+    "question": "What is the staff concession amount in tuition fee for 25%?",
+    "answer": "[No specific amount provided in the document.]",
+    "intent": "concession_amount_25"
+  },
+  {
+    "question": "What are the conditions for renewal of the scholarship?",
+    "answer": "[No specific conditions provided in the document.]",
+    "intent": "renewal_conditions"
+  },
+  {
+    "question": "What are the eligibility criteria for teaching staff availing EWS for the first time at SRM IST?",
+    "answer": "Teaching staff must have more than 20 years of service, submit an online application within the stipulated time, secure admission as per SRMIST norms, maintain a CGPA > 8, and receive a recommendation from the scholarship committee.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What documents are required for teaching staff availing EWS for the first time at SRM IST?",
+    "answer": "A service certificate must be enclosed with the application.",
+    "intent": "documents"
+  },
+  {
+    "question": "What are the conditions for teaching staff availing EWS for the first time at SRM IST?",
+    "answer": "The staff must continue service throughout the study period, apply every year within the stipulated date, have no arrears/backlogs, no break of study, and no disciplinary action/malpractice.",
+    "intent": "conditions"
+  },
+  {
+    "question": "What are the eligibility criteria for non-teaching staff availing EWS for the first time at SRM IST?",
+    "answer": "Non-teaching staff must have more than 12 years of service, submit an online application within the stipulated time, secure admission as per SRMIST norms, maintain a CGPA > 8, and receive a recommendation from the scholarship committee.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What are the eligibility criteria for teaching staff availing EWS for the second time at SRM IST?",
+    "answer": "Teaching staff must have more than 10 years of service.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What are the eligibility criteria for non-teaching staff availing EWS for the second time at SRM IST?",
+    "answer": "Non-teaching staff must have more than 8 years of service.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the required service period for teaching staff availing EWS for the first time at SRM IST?",
+    "answer": "More than 20 years.",
+    "intent": "service_period"
+  },
+  {
+    "question": "What is the required service period for non-teaching staff availing EWS for the first time at SRM IST?",
+    "answer": "More than 12 years.",
+    "intent": "service_period"
+  },
+  {
+    "question": "What is the required service period for teaching staff availing EWS for the second time at SRM IST?",
+    "answer": "More than 10 years.",
+    "intent": "service_period"
+  },
+  {
+    "question": "What is the required service period for non-teaching staff availing EWS for the second time at SRM IST?",
+    "answer": "More than 8 years.",
+    "intent": "service_period"
+  },
+  {
+    "question": "What is the CGPA requirement for maintaining EWS benefits at SRM IST?",
+    "answer": "The CGPA must be greater than 8.",
+    "intent": "cgpa"
+  },
+  {
+    "question": "What is the role of the scholarship committee in EWS benefits at SRM IST?",
+    "answer": "The scholarship committee provides recommendations for EWS benefits.",
+    "intent": "scholarship_committee"
+  },
+  {
+    "question": "Can staff with arrears/backlogs avail EWS benefits at SRM IST?",
+    "answer": "No, staff must have no arrears/backlogs at the time of application.",
+    "intent": "arrears"
+  },
+  {
+    "question": "Can staff with a break of study or disciplinary action avail EWS benefits at SRM IST?",
+    "answer": "No, staff must have no break of study or disciplinary action/malpractice.",
+    "intent": "disciplinary_action"
+  },
+  {
+    "question": "Is there a requirement to apply every year for EWS benefits at SRM IST?",
+    "answer": "Yes, the staff must apply every year within the stipulated date.",
+    "intent": "renewal"
+  },
+  {
+    "question": "What is the requirement for the online application for admission to avail EWS benefits at SRM IST?",
+    "answer": "The online application must be submitted within the stipulated time.",
+    "intent": "application"
+  },
+  {
+    "question": "What is the requirement for admission to avail EWS benefits at SRM IST?",
+    "answer": "Admission must be secured as per the procedure and eligibility norms of SRMIST.",
+    "intent": "admission"
+  },
+  {
+    "question": "What is the requirement for service continuation to avail EWS benefits at SRM IST?",
+    "answer": "The staff must continue service throughout the period of study.",
+    "intent": "service_continuation"
+  }
+]

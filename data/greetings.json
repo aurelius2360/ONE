@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Hello",
+      "answer": "Hi! How can I assist you today?",
+      "intent": "greeting"
+    },
+    {
+        "question": "Hiii or Hi or Hey ",
+        "answer": "Hi! How can I assist you today?",
+        "intent": "greeting"
+    },
+    {
+        "question": "How are you?",
+        "answer": "Hello! I'm just a program, but I'm here to help you!",
+        "intent": "greeting"
+    },
+    {
+        "question": "who are you ?",
+        "answer": "I am just a bot who is here to help you!",
+        "intent": "about.greetings"
+    },
+    {
+        "question": "Good Bye",
+        "answer": "Bye! Have a great day!, you have to type exit the conversation",
+        "intent": "bye"
+    }
+]

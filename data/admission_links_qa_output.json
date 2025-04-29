@@ -1,0 +1,132 @@
+[
+  {
+    "question": "How can I apply for B.Tech or M.Tech (Integrated) programs at SRM Institute of Science and Technology?",
+    "answer": "You can apply through this link: https://applications.srmist.edu.in/btech",
+    "intent": "admission.link.btech"
+  },
+  {
+    "question": "Where can I find the prospectus for Engineering and Technology programs?",
+    "answer": "The prospectus can be downloaded from: https://webstor.srmist.edu.in/web_assets/downloads/2025/engineering-and-technology-2025-26-prospectus.pdf",
+    "intent": "prospectus.link.engineering"
+  },
+  {
+    "question": "How do I apply for M.Tech programs?",
+    "answer": "You can apply through this link: https://applications.srmist.edu.in/m-tech",
+    "intent": "admission.link.mtech"
+  },
+  {
+    "question": "What is the link to apply for Health Science UG programs?",
+    "answer": "You can apply here: https://applications.srmist.edu.in/srmhs",
+    "intent": "admission.link.health.sci.ug"
+  },
+  {
+    "question": "Where can I find information on MBBS admissions?",
+    "answer": "Information on MBBS admissions is available at: https://medical.srmist.edu.in/campaign/mbbs-md-ms-2024-25/",
+    "intent": "admission.info.mbbs"
+  },
+  {
+    "question": "How can I apply for BDS admissions?",
+    "answer": "BDS admission information is available at: https://dental.srmist.edu.in/campaign/bds-mds-2023-24/",
+    "intent": "admission.info.bds"
+  },
+  {
+    "question": "What is the link to apply for MD/MS programs?",
+    "answer": "You can find information here: https://medical.srmist.edu.in/campaign/mbbs-md-ms-2023-24/",
+    "intent": "admission.info.md.ms"
+  },
+  {
+    "question": "How do I apply for BBA programs?",
+    "answer": "Apply through this link: https://applications.srmist.edu.in/bba/",
+    "intent": "admission.link.bba"
+  },
+  {
+    "question": "Where can I apply for MBA programs?",
+    "answer": "You can apply here: https://applications.srmist.edu.in/mba",
+    "intent": "admission.link.mba"
+  },
+  {
+    "question": "What is the link for part-time MBA applications?",
+    "answer": "Apply here: https://www.srmist.edu.in/admission-india/",
+    "intent": "admission.link.mba.parttime"
+  },
+  {
+    "question": "Where can I find the SRMJEEM instruction manual?",
+    "answer": "Download it from: https://webstor.srmist.edu.in/web_assets/downloads/2024/srmjeem-mba-entrance-exam-manual-phase-3.pdf",
+    "intent": "manual.link.srmjeem"
+  },
+  {
+    "question": "How can I apply for UG programs in Science & Humanities?",
+    "answer": "Apply through this link: https://applications.srmist.edu.in/science-and-humanities/",
+    "intent": "admission.link.ug.sciencehuman"
+  },
+  {
+    "question": "Where can I apply for PG programs in Science & Humanities?",
+    "answer": "Apply here: https://applications.srmist.edu.in/science-and-humanities-pg",
+    "intent": "admission.link.pg.sciencehuman"
+  },
+  {
+    "question": "What is the link to apply for UG programs in Hotel & Catering Management?",
+    "answer": "Apply here: https://applications.srmist.edu.in/hcma",
+    "intent": "admission.link.hotel.ug"
+  },
+  {
+    "question": "Where can I find the prospectus for Hotel Management programs?",
+    "answer": "Download it from: https://webstor.srmist.edu.in/web_assets/downloads/2021/hotel-mgmt-info.pdf",
+    "intent": "prospectus.link.hotel"
+  },
+  {
+    "question": "How do I apply for PG Diploma in Hotel & Catering Management?",
+    "answer": "Apply through this link: https://applications.srmist.edu.in/hotel-and-catering-management-pg-application-form",
+    "intent": "admission.link.hotel.pg"
+  },
+  {
+    "question": "What is the link to apply for Agricultural Sciences programs?",
+    "answer": "Apply here: https://applications.srmist.edu.in/agricultural-sciences-form",
+    "intent": "admission.link.agriculture"
+  },
+  {
+    "question": "Where can I download the prospectus for Agricultural Sciences?",
+    "answer": "Download it from: https://webstor.srmist.edu.in/web_assets/srm_mainsite/files/2020/fas-brochure-01-04-2020.pdf",
+    "intent": "prospectus.link.agriculture"
+  },
+  {
+    "question": "How can I apply for 5-Year Integrated Law courses?",
+    "answer": "Apply through this link: https://applications.srmist.edu.in/law",
+    "intent": "admission.link.law.integrated"
+  },
+  {
+    "question": "Where can I apply for LLB (UG) programs?",
+    "answer": "Apply here: https://applications.srmist.edu.in/llb",
+    "intent": "admission.link.llb"
+  },
+  {
+    "question": "How do I apply for LLM (PG) programs?",
+    "answer": "Apply here: https://applications.srmist.edu.in/llm-application",
+    "intent": "admission.link.llm"
+  },
+  {
+    "question": "What is the link to apply for Law Certificate/Diploma programs?",
+    "answer": "Apply through this link: https://applications.srmist.edu.in/law-certificate-and-diploma-form",
+    "intent": "admission.link.law.cert"
+  },
+  {
+    "question": "How can I apply for Distance Education programs?",
+    "answer": "Apply here: https://admissions.srmist.edu.in/srmistonline/distanceeducation",
+    "intent": "admission.link.distance"
+  },
+  {
+    "question": "What is the link to apply for PhD programs?",
+    "answer": "Apply here: https://admissions.srmist.edu.in/srmistonline/phdapplication",
+    "intent": "admission.link.phd"
+  },
+  {
+    "question": "How can I ensure I am using official SRM admission channels?",
+    "answer": "Admissions are only through official SRM channels: https://www.srmist.edu.in",
+    "intent": "admission.public.advisory"
+  },
+  {
+    "question": "Where can I report fake admission offers?",
+    "answer": "Report to: cyberwatchdog@srmist.edu.in",
+    "intent": "report.fake.admission"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I connect to SRMIST WiFi?",
+    "answer": "Connect to the SRMIST WiFi network on your device, open a web browser, and log in with your college credentials (email ID and password).",
+    "intent": "wifi.connection"
+  },
+  {
+    "question": "What happens after I log in to SRMIST WiFi?",
+    "answer": "Once authenticated, you will be able to use the WiFi for the next 24 hours.",
+    "intent": "wifi.authentication"
+  },
+  {
+    "question": "Do I need to log in again after 24 hours?",
+    "answer": "Yes, after 24 hours, you need to repeat the login process to regain access.",
+    "intent": "wifi.login.refresh"
+  },
+  {
+    "question": "What is the process for connecting to srm wifi?",
+    "answer": "To connect to SRMIST WiFi, follow these steps:1.Connect to the SRMIST WiFi network on your device.2.Open a web browser. It will automatically redirect you to the login page.3.Enter your college credentials (email ID and password) on the login page.4.Once authenticated, you will be able to use the WiFi for the next 24 hours.5.After 24 hours, you need to repeat the login process to regain access.",
+    "intent": "wifi.connection.singlestep"
+  },
+  {
+    "question": "How do I log in to the WiFi?",
+    "answer": "Open a web browser after connecting to the SRMIST WiFi network. It will automatically redirect you to the login page where you enter your college credentials.",
+    "intent": "wifi.login.steps"
+  }
+]

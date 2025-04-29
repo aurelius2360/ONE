@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What accreditations does SRM Institute of Science and Technology have?",
+    "answer": "NAAC, NIRF, QS.",
+    "intent": "ranking.accreditation"
+  },
+  {
+    "question": "What is SRM Institute's NIRF University rank for 2024?",
+    "answer": "12",
+    "intent": "ranking.nirf.university"
+  },
+  {
+    "question": "What is SRM Institute's NIRF Engineering rank for 2024?",
+    "answer": "13",
+    "intent": "ranking.nirf.engineering"
+  },
+  {
+    "question": "What is SRM Institute's NIRF Dental rank for 2024?",
+    "answer": "7",
+    "intent": "ranking.nirf.dental"
+  },
+  {
+    "question": "What is SRM Institute's NIRF Architecture rank for 2024?",
+    "answer": "11",
+    "intent": "ranking.nirf.architecture"
+  },
+  {
+    "question": "What is SRM Institute's NIRF Pharmacy rank for 2024?",
+    "answer": "11",
+    "intent": "ranking.nirf.pharmacy"
+  },
+  {
+    "question": "What is SRM Institute's NIRF Medical rank for 2024?",
+    "answer": "18",
+    "intent": "ranking.nirf.medical"
+  },
+  {
+    "question": "What is SRM Institute's NIRF Overall rank for 2024?",
+    "answer": "21",
+    "intent": "ranking.nirf.overall"
+  },
+  {
+    "question": "What is SRM Institute's NIRF Research rank for 2024?",
+    "answer": "24",
+    "intent": "ranking.nirf.research"
+  },
+  {
+    "question": "How many companies visited SRM Institute for placements in 2023-24?",
+    "answer": "980+",
+    "intent": "placement.stats.companies"
+  },
+  {
+    "question": "How many job offers were made at SRM Institute in 2023-24?",
+    "answer": "5546+",
+    "intent": "placement.stats.joboffers"
+  },
+  {
+    "question": "How many high paying offers were made at SRM Institute in 2023-24?",
+    "answer": "2232+",
+    "intent": "placement.stats.highpay"
+  },
+  {
+    "question": "What is the highest CTC offered at SRM Institute in 2023-24?",
+    "answer": "52 LPA",
+    "intent": "placement.stats.ctc.high"
+  },
+  {
+    "question": "What is the average CTC at SRM Institute in 2023-24?",
+    "answer": "7.19 LPA",
+    "intent": "placement.stats.ctc.avg"
+  },
+  {
+    "question": "How many top 2 percent scientists globally are at SRM Institute?",
+    "answer": "Top 2 Percent Scientists Globally",
+    "intent": "research.output.top.scientists"
+  },
+  {
+    "question": "How many patents has SRM Institute filed?",
+    "answer": "920+",
+    "intent": "research.patents.file"
+  },
+  {
+    "question": "How many publications does SRM Institute have?",
+    "answer": "47,000+",
+    "intent": "research.publications"
+  },
+  {
+    "question": "How many Scopus Indexed Papers does SRM Institute have?",
+    "answer": "33,000+",
+    "intent": "research.scopus"
+  },
+  {
+    "question": "How much external funding has SRM Institute received for projects?",
+    "answer": "250+ Crores",
+    "intent": "research.funding"
+  },
+  {
+    "question": "What is SRM Institute's Nature Index Rank among private universities?",
+    "answer": "2nd",
+    "intent": "research.nature.index"
+  },
+  {
+    "question": "How many international gold medals has SRM Institute won in 2023-24?",
+    "answer": "10",
+    "intent": "sports.achiev.international.gold"
+  },
+  {
+    "question": "How many international silver medals has SRM Institute won in 2023-24?",
+    "answer": "8",
+    "intent": "sports.achiev.international.silver"
+  },
+  {
+    "question": "How many international bronze medals has SRM Institute won in 2023-24?",
+    "answer": "12",
+    "intent": "sports.achiev.international.bronze"
+  },
+  {
+    "question": "How many national inter-university gold medals has SRM Institute won in 2023-24?",
+    "answer": "6",
+    "intent": "sports.achiev.national.gold"
+  },
+  {
+    "question": "How many national inter-university silver medals has SRM Institute won in 2023-24?",
+    "answer": "4",
+    "intent": "sports.achiev.national.silver"
+  },
+  {
+    "question": "How many national inter-university bronze medals has SRM Institute won in 2023-24?",
+    "answer": "3",
+    "intent": "sports.achiev.national.bronze"
+  },
+  {
+    "question": "How many Khelo India Games silver medals has SRM Institute won in 2023-24?",
+    "answer": "2",
+    "intent": "sports.achiev.khelo.silver"
+  },
+  {
+    "question": "How many Khelo India Games bronze medals has SRM Institute won in 2023-24?",
+    "answer": "5",
+    "intent": "sports.achiev.khelo.bronze"
+  },
+  {
+    "question": "Where is the main campus of SRM Institute located?",
+    "answer": "Kattankulathur, Chennai",
+    "intent": "campus.locations.main"
+  },
+  {
+    "question": "What are the other locations of SRM Institute in Chennai?",
+    "answer": "Ramapuram, Vadapalani",
+    "intent": "campus.locations.chennai"
+  },
+  {
+    "question": "What are the other locations of SRM Institute in India?",
+    "answer": "SRM University - AP, SRM University - Haryana, SRM University - Sikkim, SRM University - Delhi-NCR",
+    "intent": "campus.locations.india"
+  },
+  {
+    "question": "What universities participate in SRM Institute's Semester Abroad Program?",
+    "answer": "MIT, Carnegie Mellon, UC Davis, Warwick",
+    "intent": "global.exposure.programs.sap"
+  },
+  {
+    "question": "How many students participate in SRM Institute's Faculty & Student Exchange Programs annually?",
+    "answer": "Over 200 students",
+    "intent": "global.exposure.exchange"
+  },
+  {
+    "question": "What kind of international research collaborations does SRM Institute have?",
+    "answer": "Strong partnerships with global institutions",
+    "intent": "global.exposure.research"
+  },
+  {
+    "question": "What is the phone number of SRM Institute?",
+    "answer": "+91 44 27417000 / +91 44 27417777",
+    "intent": "contact.details.phone"
+  },
+  {
+    "question": "What is the email address of SRM Institute?",
+    "answer": "infodesk@srmist.edu.in",
+    "intent": "contact.details.email"
+  }
+]

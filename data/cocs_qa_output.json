@@ -1,0 +1,2857 @@
+[
+  {
+    "question": "What is the admission policy of SRM Institute of Science and Technology?",
+    "answer": "The admission policy of SRM Institute of Science and Technology outlines the eligibility criteria, required documents, and procedures for admission into various programs.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to SRM Institute of Science and Technology?",
+    "answer": "The eligibility criteria vary depending on the program, but generally include academic qualifications, entrance exams, and other specific requirements as per the institution's guidelines.",
+    "intent": "admission_eligibility"
+  },
+  {
+    "question": "What documents are required for admission to SRM Institute of Science and Technology?",
+    "answer": "Required documents typically include academic transcripts, identification proof, entrance exam scores, and other program-specific documents.",
+    "intent": "admission_documents"
+  },
+  {
+    "question": "How can I apply for admission to SRM Institute of Science and Technology?",
+    "answer": "Application can be made through the official website by filling out the online application form and submitting the required documents.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "What is the last date for admission to SRM Institute of Science and Technology?",
+    "answer": "The last date for admission varies depending on the program and intake, and is specified on the official website.",
+    "intent": "admission_deadline"
+  },
+  {
+    "question": "What is the code of conduct for students at SRM Institute of Science and Technology?",
+    "answer": "The code of conduct outlines the expected behavior, academic integrity, and disciplinary actions for students to maintain a respectful and safe environment.",
+    "intent": "code_of_conduct"
+  },
+  {
+    "question": "What are the consequences of misconduct at SRM Institute of Science and Technology?",
+    "answer": "Consequences of misconduct include warnings, fines, suspension, or expulsion, depending on the severity of the offense.",
+    "intent": "misconduct_consequences"
+  },
+  {
+    "question": "What are the hostel policies at SRM Institute of Science and Technology?",
+    "answer": "Hostel policies include rules and regulations for residents, such as curfew timings, visitor policies, and maintenance of shared spaces.",
+    "intent": "hostel_policy"
+  },
+  {
+    "question": "What is the examination policy at SRM Institute of Science and Technology?",
+    "answer": "The examination policy includes rules for attendance, hall tickets, prohibited items, and procedures for conducting exams.",
+    "intent": "examination_policy"
+  },
+  {
+    "question": "What are the scholarship policies at SRM Institute of Science and Technology?",
+    "answer": "Scholarships are awarded based on merit, need, or other criteria, and the policies include eligibility, application processes, and renewal conditions.",
+    "intent": "scholarship_policy"
+  },
+  {
+    "question": "What is the library policy at SRM Institute of Science and Technology?",
+    "answer": "The library policy includes rules for borrowing books, return deadlines, fines for late returns, and acceptable behavior within the library premises.",
+    "intent": "library_policy"
+  },
+  {
+    "question": "How can I report a violation of the code of conduct at SRM Institute of Science and Technology?",
+    "answer": "Violations can be reported to the designated authorities, such as the Dean of Students or the Disciplinary Committee, through official channels.",
+    "intent": "report_misconduct"
+  },
+  {
+    "question": "What are the rules for student behavior at SRM Institute of Science and Technology?",
+    "answer": "Students are expected to maintain academic integrity, respect fellow students and staff, and adhere to the institution's rules and regulations.",
+    "intent": "student_behavior"
+  },
+  {
+    "question": "What are the consequences of academic misconduct at SRM Institute of Science and Technology?",
+    "answer": "Consequences of academic misconduct include failure in the course, suspension, or expulsion, depending on the severity of the offense.",
+    "intent": "academic_misconduct"
+  },
+  {
+    "question": "What are the policies for maintaining discipline at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining discipline include regular monitoring, counseling, and strict enforcement of rules and regulations.",
+    "intent": "discipline_policy"
+  },
+  {
+    "question": "How are grievances addressed at SRM Institute of Science and Technology?",
+    "answer": "Grievances are addressed through a formal process involving submission of complaints to the designated grievance cell or committee.",
+    "intent": "grievance_redressal"
+  },
+  {
+    "question": "What are the rules for using technology and resources at SRM Institute of Science and Technology?",
+    "answer": "Rules for using technology and resources include proper usage, adherence to copyright laws, and prohibitions on unauthorized access or misuse.",
+    "intent": "technology_usage"
+  },
+  {
+    "question": "What are the consequences of violating the hostel policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the hostel policy include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "hostel_violation"
+  },
+  {
+    "question": "How can I avail of scholarships at SRM Institute of Science and Technology?",
+    "answer": "Scholarships can be availed by meeting the eligibility criteria, submitting the required documents, and following the application process outlined by the institution.",
+    "intent": "scholarship_availability"
+  },
+  {
+    "question": "What are the library timings and rules at SRM Institute of Science and Technology?",
+    "answer": "Library timings and rules are specified by the institution and include opening hours, borrowing limits, and conduct expectations.",
+    "intent": "library_rules"
+  },
+  {
+    "question": "What are the examination rules and regulations at SRM Institute of Science and Technology?",
+    "answer": "Examination rules and regulations include attendance requirements, prohibited items, and procedures for conducting exams fairly and transparently.",
+    "intent": "exam_rules"
+  },
+  {
+    "question": "How can I apply for hostel accommodation at SRM Institute of Science and Technology?",
+    "answer": "Hostel accommodation can be applied for through the official website or by contacting the hostel administration directly.",
+    "intent": "hostel_application"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct include warnings, fines, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "conduct_consequences"
+  },
+  {
+    "question": "What are the rules for attending classes at SRM Institute of Science and Technology?",
+    "answer": "Rules for attending classes include regular attendance, punctuality, and active participation in academic activities.",
+    "intent": "class_attendance"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and respectful environment at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and respectful environment include strict enforcement of the code of conduct, anti-discrimination policies, and measures to prevent harassment.",
+    "intent": "safe_environment"
+  },
+  {
+    "question": "How can I access the library resources at SRM Institute of Science and Technology?",
+    "answer": "Library resources can be accessed by using the library membership card, following the borrowing rules, and adhering to the library's terms and conditions.",
+    "intent": "library_access"
+  },
+  {
+    "question": "What are the procedures for conducting examinations at SRM Institute of Science and Technology?",
+    "answer": "Examination procedures include registration, issuance of hall tickets, and adherence to the rules and regulations specified by the institution.",
+    "intent": "exam_procedures"
+  },
+  {
+    "question": "What are the eligibility criteria for scholarships at SRM Institute of Science and Technology?",
+    "answer": "Scholarship eligibility criteria include academic performance, financial need, and other specific requirements as outlined by the institution.",
+    "intent": "scholarship_eligibility"
+  },
+  {
+    "question": "How can I renew my scholarship at SRM Institute of Science and Technology?",
+    "answer": "Scholarship renewal requires maintaining the required academic performance, submitting necessary documents, and adhering to the renewal criteria specified by the institution.",
+    "intent": "scholarship_renewal"
+  },
+  {
+    "question": "What are the rules for using the hostel facilities at SRM Institute of Science and Technology?",
+    "answer": "Hostel rules include maintaining cleanliness, adhering to curfew timings, and respecting the privacy and property of fellow residents.",
+    "intent": "hostel_rules"
+  },
+  {
+    "question": "What are the consequences of violating the examination policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the examination policy include failure in the exam, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "exam_violation"
+  },
+  {
+    "question": "What are the policies for maintaining academic integrity at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining academic integrity include strict prohibition of plagiarism, cheating, and other forms of academic dishonesty.",
+    "intent": "academic_integrity"
+  },
+  {
+    "question": "How can I report academic misconduct at SRM Institute of Science and Technology?",
+    "answer": "Academic misconduct can be reported to the Dean of the respective department or the Disciplinary Committee through official channels.",
+    "intent": "report_academic_misconduct"
+  },
+  {
+    "question": "What are the rules for student behavior in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Hostel rules include maintaining discipline, respecting fellow residents, and adhering to the institution's code of conduct.",
+    "intent": "hostel_behavior"
+  },
+  {
+    "question": "What are the consequences of violating the library policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the library policy include fines, suspension of library privileges, or other disciplinary actions as deemed appropriate.",
+    "intent": "library_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and safe hostel environment at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and safe hostel environment include regular cleaning schedules, waste management, and adherence to safety protocols.",
+    "intent": "hostel_safety"
+  },
+  {
+    "question": "How can I access the examination schedule at SRM Institute of Science and Technology?",
+    "answer": "The examination schedule can be accessed through the official website or by contacting the examination department directly.",
+    "intent": "exam_schedule"
+  },
+  {
+    "question": "What are the rules for borrowing books from the library at SRM Institute of Science and Technology?",
+    "answer": "Library borrowing rules include limits on the number of books, return deadlines, and fines for late returns.",
+    "intent": "library_borrowing"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the hostel code of conduct include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "hostel_conduct"
+  },
+  {
+    "question": "What are the policies for maintaining a healthy and hygienic environment at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a healthy and hygienic environment include regular cleaning, proper waste disposal, and adherence to health and safety protocols.",
+    "intent": "healthy_environment"
+  },
+  {
+    "question": "How can I appeal against a disciplinary action at SRM Institute of Science and Technology?",
+    "answer": "Appeals against disciplinary actions can be made through the designated grievance redressal cell or committee as per the institution's procedures.",
+    "intent": "appeal_disciplinary_action"
+  },
+  {
+    "question": "What are the rules for using electronic devices in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Rules for using electronic devices in the hostel include restrictions on usage timings, volume levels, and prohibitions on unauthorized devices.",
+    "intent": "hostel_electronics"
+  },
+  {
+    "question": "What are the consequences of violating the scholarship policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the scholarship policy include loss of scholarship, repayment of awarded amounts, or other disciplinary actions.",
+    "intent": "scholarship_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a peaceful and respectful environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a peaceful and respectful environment in the hostel include strict enforcement of rules, mediation of disputes, and zero tolerance for harassment.",
+    "intent": "hostel_environment"
+  },
+  {
+    "question": "How can I check my scholarship status at SRM Institute of Science and Technology?",
+    "answer": "Scholarship status can be checked through the official website, student portal, or by contacting the scholarship office directly.",
+    "intent": "scholarship_status"
+  },
+  {
+    "question": "What are the rules for visitor access in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Visitor rules include restrictions on visit timings, prior approval requirements, and proper registration of visitors.",
+    "intent": "hostel_visitors"
+  },
+  {
+    "question": "What are the consequences of violating the examination rules at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating examination rules include failure in the exam, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "exam_rules_violation"
+  },
+  {
+    "question": "What are the policies for maintaining confidentiality and data security at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining confidentiality and data security include strict access controls, encryption, and regular audits to ensure compliance.",
+    "intent": "data_security"
+  },
+  {
+    "question": "How can I apply for a scholarship at SRM Institute of Science and Technology?",
+    "answer": "Scholarship applications can be made through the official website, by submitting the required documents and following the outlined process.",
+    "intent": "apply_scholarship"
+  },
+  {
+    "question": "What are the rules for using the library at SRM Institute of Science and Technology?",
+    "answer": "Library rules include maintaining silence, proper handling of books, and adherence to borrowing and return policies.",
+    "intent": "library_usage"
+  },
+  {
+    "question": "What are the consequences of violating the hostel rules at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating hostel rules include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "hostel_rule_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and secure campus environment at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and secure campus environment include surveillance, security personnel, and strict enforcement of access controls.",
+    "intent": "campus_security"
+  },
+  {
+    "question": "How can I renew my hostel accommodation at SRM Institute of Science and Technology?",
+    "answer": "Hostel renewal can be done by submitting the renewal application, paying the required fees, and adhering to the renewal process outlined by the institution.",
+    "intent": "renew_hostel"
+  },
+  {
+    "question": "What are the rules for attending examinations at SRM Institute of Science and Technology?",
+    "answer": "Examination rules include arriving on time, carrying the hall ticket, and adhering to the specified procedures and prohibitions.",
+    "intent": "exam_attendance"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the library at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the library code of conduct include fines, suspension of library privileges, or other disciplinary actions as deemed appropriate.",
+    "intent": "library_conduct"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and hygienic environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and hygienic environment in the hostel include regular cleaning schedules, proper waste management, and adherence to health protocols.",
+    "intent": "hostel_hygiene"
+  },
+  {
+    "question": "How can I access my examination results at SRM Institute of Science and Technology?",
+    "answer": "Examination results can be accessed through the official website or by contacting the examination department directly.",
+    "intent": "exam_results"
+  },
+  {
+    "question": "What are the rules for using the hostel facilities at SRM Institute of Science and Technology?",
+    "answer": "Hostel rules include maintaining cleanliness, adhering to curfew timings, and respecting the privacy and property of fellow residents.",
+    "intent": "hostel_facilities"
+  },
+  {
+    "question": "What are the consequences of violating the scholarship policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the scholarship policy include loss of scholarship, repayment of awarded amounts, or other disciplinary actions.",
+    "intent": "scholarship_policy_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and respectful environment in the library at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and respectful environment in the library include strict enforcement of rules, proper supervision, and zero tolerance for disruptive behavior.",
+    "intent": "library_environment"
+  },
+  {
+    "question": "How can I apply for a hostel at SRM Institute of Science and Technology?",
+    "answer": "Hostel application can be made through the official website or by contacting the hostel administration directly.",
+    "intent": "apply_hostel"
+  },
+  {
+    "question": "What are the rules for borrowing books from the library at SRM Institute of Science and Technology?",
+    "answer": "Library borrowing rules include limits on the number of books, return deadlines, and fines for late returns.",
+    "intent": "borrow_books"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the examination hall at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct in the examination hall include failure in the exam, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "exam_conduct"
+  },
+  {
+    "question": "What are the policies for maintaining a peaceful and respectful environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a peaceful and respectful environment in the hostel include strict enforcement of rules, mediation of disputes, and zero tolerance for harassment.",
+    "intent": "hostel_peace"
+  },
+  {
+    "question": "How can I check the status of my admission application at SRM Institute of Science and Technology?",
+    "answer": "The status of your admission application can be checked through the official website, student portal, or by contacting the admissions office directly.",
+    "intent": "check_admission_status"
+  },
+  {
+    "question": "What are the rules for using electronic devices in the library at SRM Institute of Science and Technology?",
+    "answer": "Rules for using electronic devices in the library include restrictions on usage timings, volume levels, and prohibitions on unauthorized devices.",
+    "intent": "library_electronics"
+  },
+  {
+    "question": "What are the consequences of violating the hostel rules at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating hostel rules include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "violate_hostel_rules"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and secure environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and secure environment in the hostel include surveillance, security personnel, and strict enforcement of access controls.",
+    "intent": "hostel_security"
+  },
+  {
+    "question": "How can I access the admission form at SRM Institute of Science and Technology?",
+    "answer": "The admission form can be accessed through the official website, and submission can be done online or through the specified process.",
+    "intent": "access_admission_form"
+  },
+  {
+    "question": "What are the rules for attending classes at SRM Institute of Science and Technology?",
+    "answer": "Rules for attending classes include regular attendance, punctuality, and active participation in academic activities.",
+    "intent": "class_rules"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct include warnings, fines, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "conduct_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and safe environment in the library at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and safe environment in the library include regular cleaning, proper waste disposal, and adherence to safety protocols.",
+    "intent": "library_safety"
+  },
+  {
+    "question": "How can I apply for a scholarship at SRM Institute of Science and Technology?",
+    "answer": "Scholarship application can be made through the official website, by submitting the required documents and following the outlined process.",
+    "intent": "apply_scholarship"
+  },
+  {
+    "question": "What are the rules for using the library at SRM Institute of Science and Technology?",
+    "answer": "Library rules include maintaining silence, proper handling of books, and adherence to borrowing and return policies.",
+    "intent": "use_library"
+  },
+  {
+    "question": "What are the consequences of violating the hostel policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the hostel policy include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "violate_hostel_policy"
+  },
+  {
+    "question": "What are the policies for maintaining a healthy and hygienic environment at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a healthy and hygienic environment include regular cleaning, proper waste disposal, and adherence to health and safety protocols.",
+    "intent": "healthy_environment"
+  },
+  {
+    "question": "How can I renew my hostel accommodation at SRM Institute of Science and Technology?",
+    "answer": "Hostel renewal can be done by submitting the renewal application, paying the required fees, and adhering to the renewal process outlined by the institution.",
+    "intent": "renew_hostel"
+  },
+  {
+    "question": "What are the rules for attending examinations at SRM Institute of Science and Technology?",
+    "answer": "Examination rules include arriving on time, carrying the hall ticket, and adhering to the specified procedures and prohibitions.",
+    "intent": "attend_examination"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the library at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the library code of conduct include fines, suspension of library privileges, or other disciplinary actions as deemed appropriate.",
+    "intent": "library_code_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and hygienic environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and hygienic environment in the hostel include regular cleaning schedules, proper waste management, and adherence to health protocols.",
+    "intent": "hostel_cleanliness"
+  },
+  {
+    "question": "How can I access my examination results at SRM Institute of Science and Technology?",
+    "answer": "Examination results can be accessed through the official website or by contacting the examination department directly.",
+    "intent": "access_exam_results"
+  },
+  {
+    "question": "What are the rules for using the hostel facilities at SRM Institute of Science and Technology?",
+    "answer": "Hostel rules include maintaining cleanliness, adhering to curfew timings, and respecting the privacy and property of fellow residents.",
+    "intent": "use_hostel_facilities"
+  },
+  {
+    "question": "What are the consequences of violating the scholarship policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the scholarship policy include loss of scholarship, repayment of awarded amounts, or other disciplinary actions.",
+    "intent": "violate_scholarship_policy"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and respectful environment in the library at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and respectful environment in the library include strict enforcement of rules, proper supervision, and zero tolerance for disruptive behavior.",
+    "intent": "library_respect"
+  },
+  {
+    "question": "How can I apply for a hostel at SRM Institute of Science and Technology?",
+    "answer": "Hostel application can be made through the official website or by contacting the hostel administration directly.",
+    "intent": "apply_hostel"
+  },
+  {
+    "question": "What are the rules for borrowing books from the library at SRM Institute of Science and Technology?",
+    "answer": "Library borrowing rules include limits on the number of books, return deadlines, and fines for late returns.",
+    "intent": "borrow_books"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the examination hall at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct in the examination hall include failure in the exam, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "exam_code_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a peaceful and respectful environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a peaceful and respectful environment in the hostel include strict enforcement of rules, mediation of disputes, and zero tolerance for harassment.",
+    "intent": "hostel_peace"
+  },
+  {
+    "question": "How can I check the status of my admission application at SRM Institute of Science and Technology?",
+    "answer": "The status of your admission application can be checked through the official website, student portal, or by contacting the admissions office directly.",
+    "intent": "check_admission"
+  },
+  {
+    "question": "What are the rules for using electronic devices in the library at SRM Institute of Science and Technology?",
+    "answer": "Rules for using electronic devices in the library include restrictions on usage timings, volume levels, and prohibitions on unauthorized devices.",
+    "intent": "library_electronic_rules"
+  },
+  {
+    "question": "What are the consequences of violating the hostel rules at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating hostel rules include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "violate_hostel"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and secure environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and secure environment in the hostel include surveillance, security personnel, and strict enforcement of access controls.",
+    "intent": "hostel_secure"
+  },
+  {
+    "question": "How can I access the admission form at SRM Institute of Science and Technology?",
+    "answer": "The admission form can be accessed through the official website, and submission can be done online or through the specified process.",
+    "intent": "access_admission_form"
+  },
+  {
+    "question": "What are the rules for attending classes at SRM Institute of Science and Technology?",
+    "answer": "Rules for attending classes include regular attendance, punctuality, and active participation in academic activities.",
+    "intent": "attend_classes"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct include warnings, fines, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "violate_conduct"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and safe environment in the library at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and safe environment in the library include regular cleaning, proper waste disposal, and adherence to safety protocols.",
+    "intent": "library_clean"
+  },
+  {
+    "question": "How can I apply for a scholarship at SRM Institute of Science and Technology?",
+    "answer": "Scholarship application can be made through the official website, by submitting the required documents and following the outlined process.",
+    "intent": "apply_scholarship"
+  },
+  {
+    "question": "What are the rules for using the library at SRM Institute of Science and Technology?",
+    "answer": "Library rules include maintaining silence, proper handling of books, and adherence to borrowing and return policies.",
+    "intent": "use_library"
+  },
+  {
+    "question": "What are the consequences of violating the hostel policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the hostel policy include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "violate_hostel_policy"
+  },
+  {
+    "question": "What are the policies for maintaining a healthy and hygienic environment at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a healthy and hygienic environment include regular cleaning, proper waste disposal, and adherence to health and safety protocols.",
+    "intent": "maintain_health"
+  },
+  {
+    "question": "How can I renew my hostel accommodation at SRM Institute of Science and Technology?",
+    "answer": "Hostel renewal can be done by submitting the renewal application, paying the required fees, and adhering to the renewal process outlined by the institution.",
+    "intent": "renew_hostel"
+  },
+  {
+    "question": "What are the rules for attending examinations at SRM Institute of Science and Technology?",
+    "answer": "Examination rules include arriving on time, carrying the hall ticket, and adhering to the specified procedures and prohibitions.",
+    "intent": "attend_exam"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the library at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the library code of conduct include fines, suspension of library privileges, or other disciplinary actions as deemed appropriate.",
+    "intent": "library_code"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and hygienic environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and hygienic environment in the hostel include regular cleaning schedules, proper waste management, and adherence to health protocols.",
+    "intent": "hostel_clean"
+  },
+  {
+    "question": "How can I access my examination results at SRM Institute of Science and Technology?",
+    "answer": "Examination results can be accessed through the official website or by contacting the examination department directly.",
+    "intent": "access_exam"
+  },
+  {
+    "question": "What are the rules for using the hostel facilities at SRM Institute of Science and Technology?",
+    "answer": "Hostel rules include maintaining cleanliness, adhering to curfew timings, and respecting the privacy and property of fellow residents.",
+    "intent": "use_hostel"
+  },
+  {
+    "question": "What are the consequences of violating the scholarship policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the scholarship policy include loss of scholarship, repayment of awarded amounts, or other disciplinary actions.",
+    "intent": "violate_scholarship"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and respectful environment in the library at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and respectful environment in the library include strict enforcement of rules, proper supervision, and zero tolerance for disruptive behavior.",
+    "intent": "safe_library"
+  },
+  {
+    "question": "How can I apply for a hostel at SRM Institute of Science and Technology?",
+    "answer": "Hostel application can be made through the official website or by contacting the hostel administration directly.",
+    "intent": "apply_hostel"
+  },
+  {
+    "question": "What are the rules for borrowing books from the library at SRM Institute of Science and Technology?",
+    "answer": "Library borrowing rules include limits on the number of books, return deadlines, and fines for late returns.",
+    "intent": "borrow_library"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the examination hall at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct in the examination hall include failure in the exam, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "exam_code"
+  },
+  {
+    "question": "What are the policies for maintaining a peaceful and respectful environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a peaceful and respectful environment in the hostel include strict enforcement of rules, mediation of disputes, and zero tolerance for harassment.",
+    "intent": "hostel_peaceful"
+  },
+  {
+    "question": "How can I check the status of my admission application at SRM Institute of Science and Technology?",
+    "answer": "The status of your admission application can be checked through the official website, student portal, or by contacting the admissions office directly.",
+    "intent": "check_admission"
+  },
+  {
+    "question": "What are the rules for using electronic devices in the library at SRM Institute of Science and Technology?",
+    "answer": "Rules for using electronic devices in the library include restrictions on usage timings, volume levels, and prohibitions on unauthorized devices.",
+    "intent": "library_device"
+  },
+  {
+    "question": "What are the consequences of violating the hostel rules at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating hostel rules include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "violate_hostel"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and secure environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and secure environment in the hostel include surveillance, security personnel, and strict enforcement of access controls.",
+    "intent": "secure_hostel"
+  },
+  {
+    "question": "How can I access the admission form at SRM Institute of Science and Technology?",
+    "answer": "The admission form can be accessed through the official website, and submission can be done online or through the specified process.",
+    "intent": "admission_form"
+  },
+  {
+    "question": "What are the rules for attending classes at SRM Institute of Science and Technology?",
+    "answer": "Rules for attending classes include regular attendance, punctuality, and active participation in academic activities.",
+    "intent": "class_attendance"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct include warnings, fines, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "conduct_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and safe environment in the library at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and safe environment in the library include regular cleaning, proper waste disposal, and adherence to safety protocols.",
+    "intent": "library_clean"
+  },
+  {
+    "question": "How can I apply for a scholarship at SRM Institute of Science and Technology?",
+    "answer": "Scholarship application can be made through the official website, by submitting the required documents and following the outlined process.",
+    "intent": "scholarship_application"
+  },
+  {
+    "question": "What are the rules for using the library at SRM Institute of Science and Technology?",
+    "answer": "Library rules include maintaining silence, proper handling of books, and adherence to borrowing and return policies.",
+    "intent": "library_rules"
+  },
+  {
+    "question": "What are the consequences of violating the hostel policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the hostel policy include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "hostel_policy_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a healthy and hygienic environment at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a healthy and hygienic environment include regular cleaning, proper waste disposal, and adherence to health and safety protocols.",
+    "intent": "healthy_hygiene"
+  },
+  {
+    "question": "How can I renew my hostel accommodation at SRM Institute of Science and Technology?",
+    "answer": "Hostel renewal can be done by submitting the renewal application, paying the required fees, and adhering to the renewal process outlined by the institution.",
+    "intent": "renew_hostel"
+  },
+  {
+    "question": "What are the rules for attending examinations at SRM Institute of Science and Technology?",
+    "answer": "Examination rules include arriving on time, carrying the hall ticket, and adhering to the specified procedures and prohibitions.",
+    "intent": "examination_rules"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the library at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the library code of conduct include fines, suspension of library privileges, or other disciplinary actions as deemed appropriate.",
+    "intent": "library_code"
+  },
+  {
+    "question": "What are the policies for maintaining a clean and hygienic environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a clean and hygienic environment in the hostel include regular cleaning schedules, proper waste management, and adherence to health protocols.",
+    "intent": "hostel_clean"
+  },
+  {
+    "question": "How can I access my examination results at SRM Institute of Science and Technology?",
+    "answer": "Examination results can be accessed through the official website or by contacting the examination department directly.",
+    "intent": "access_results"
+  },
+  {
+    "question": "What are the rules for using the hostel facilities at SRM Institute of Science and Technology?",
+    "answer": "Hostel rules include maintaining cleanliness, adhering to curfew timings, and respecting the privacy and property of fellow residents.",
+    "intent": "hostel_facilities"
+  },
+  {
+    "question": "What are the consequences of violating the scholarship policy at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the scholarship policy include loss of scholarship, repayment of awarded amounts, or other disciplinary actions.",
+    "intent": "scholarship_violation"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and respectful environment in the library at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and respectful environment in the library include strict enforcement of rules, proper supervision, and zero tolerance for disruptive behavior.",
+    "intent": "library_respect"
+  },
+  {
+    "question": "How can I apply for a hostel at SRM Institute of Science and Technology?",
+    "answer": "Hostel application can be made through the official website or by contacting the hostel administration directly.",
+    "intent": "apply_hostel"
+  },
+  {
+    "question": "What are the rules for borrowing books from the library at SRM Institute of Science and Technology?",
+    "answer": "Library borrowing rules include limits on the number of books, return deadlines, and fines for late returns.",
+    "intent": "borrow_books"
+  },
+  {
+    "question": "What are the consequences of violating the code of conduct in the examination hall at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating the code of conduct in the examination hall include failure in the exam, suspension, or expulsion, depending on the severity of the violation.",
+    "intent": "exam_code"
+  },
+  {
+    "question": "What are the policies for maintaining a peaceful and respectful environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a peaceful and respectful environment in the hostel include strict enforcement of rules, mediation of disputes, and zero tolerance for harassment.",
+    "intent": "hostel_peace"
+  },
+  {
+    "question": "How can I check the status of my admission application at SRM Institute of Science and Technology?",
+    "answer": "The status of your admission application can be checked through the official website, student portal, or by contacting the admissions office directly.",
+    "intent": "admission_status"
+  },
+  {
+    "question": "What are the rules for using electronic devices in the library at SRM Institute of Science and Technology?",
+    "answer": "Rules for using electronic devices in the library include restrictions on usage timings, volume levels, and prohibitions on unauthorized devices.",
+    "intent": "library_devices"
+  },
+  {
+    "question": "What are the consequences of violating the hostel rules at SRM Institute of Science and Technology?",
+    "answer": "Consequences of violating hostel rules include warnings, fines, or expulsion from the hostel, depending on the severity of the violation.",
+    "intent": "violate_hostel"
+  },
+  {
+    "question": "What are the policies for maintaining a safe and secure environment in the hostel at SRM Institute of Science and Technology?",
+    "answer": "Policies for maintaining a safe and secure environment in the hostel include surveillance, security personnel, and strict enforcement of access controls.",
+    "intent": "secure_hostel"
+  },
+  {
+    "question": "How can I access the admission form at SRM Institute of Science and Technology?",
+    "answer": "The admission form can be accessed through the official website, and submission can be done online or through the specified process.",
+    "intent": "access_form"
+  },
+  {
+    "question": "What are the rules for attending classes at SRM Institute of Science and Technology?",
+    "answer": "Rules for attending classes include regular attendance, punctuality, and active participation in academic activities.",
+    "intent": "class_rules"
+  },
+  {
+    "question": "What is the purpose of the Disciplinary Action Policy at SRM Institute of Science and Technology?",
+    "answer": "The Disciplinary Action Policy outlines the rules and regulations for maintaining discipline among students and the procedures for addressing misconduct.",
+    "intent": "disciplinary_action_policy"
+  },
+  {
+    "question": "What are the expectations for student conduct at SRM Institute of Science and Technology?",
+    "answer": "Students are expected to adhere to the code of conduct, respect university property, maintain academic integrity, and behave appropriately as individuals or in groups.",
+    "intent": "student_conduct_expectations"
+  },
+  {
+    "question": "What types of punishments can be imposed for misconduct at SRM Institute of Science and Technology?",
+    "answer": "Punishments may include warnings, fines, suspension, expulsion, or other disciplinary actions as deemed appropriate by the authorities.",
+    "intent": "punishments"
+  },
+  {
+    "question": "What is the process for addressing disciplinary issues at SRM Institute of Science and Technology?",
+    "answer": "The process involves reporting the incident, investigation by the Disciplinary Committee, and implementation of appropriate disciplinary actions based on the findings.",
+    "intent": "disciplinary_process"
+  },
+  {
+    "question": "What is the role of the Disciplinary Committee at SRM Institute of Science and Technology?",
+    "answer": "The Disciplinary Committee is responsible for investigating reported incidents of misconduct, determining the severity of the offense, and recommending appropriate disciplinary actions.",
+    "intent": "disciplinary_committee"
+  },
+  {
+    "question": "How can a student appeal a disciplinary decision at SRM Institute of Science and Technology?",
+    "answer": "Students can appeal a disciplinary decision by submitting a formal request to the higher authority within the specified timeframe, providing valid grounds for reconsideration.",
+    "intent": "appeal_process"
+  },
+  {
+    "question": "What is the purpose of the HR Policy at SRM Institute of Science and Technology?",
+    "answer": "The HR Policy is designed to ensure fair and equitable treatment of employees, promote a positive work environment, and outline procedures for employee management and development.",
+    "intent": "hr_policy"
+  },
+  {
+    "question": "What is the role of the Internal Complaints Committee at SRM Institute of Science and Technology?",
+    "answer": "The Internal Complaints Committee is responsible for addressing and resolving internal complaints, particularly those related to harassment, ensuring a fair and confidential process for all parties involved.",
+    "intent": "internal_complaints_committee"
+  },
+  {
+    "question": "What is the focus of the Research Policy at SRM Institute of Science and Technology?",
+    "answer": "The Research Policy focuses on promoting ethical research practices, ensuring compliance with regulatory standards, and fostering innovation and collaboration in research activities.",
+    "intent": "research_policy"
+  },
+  {
+    "question": "What is considered as misconduct under SRM Institute of Science and Technology policies?",
+    "answer": "Any act that disrupts teaching, examinations, research, administrative work, curricular or extra-curricular activities, or residential life of the University members, including preventing any member or staff from carrying out their work.",
+    "intent": "misconduct"
+  },
+  {
+    "question": "Where can I find the leave rules for medical college employees at SRM Institute of Science and Technology?",
+    "answer": "The leave rules for medical college employees can be found at [https://www.srmist.edu.in/policies/leave-rules-for-medical-college-employees/](https://www.srmist.edu.in/policies/leave-rules-for-medical-college-employees/).",
+    "intent": "leave_rules"
+  },
+  {
+    "question": "What is the code of conduct for employees at SRM Institute of Science and Technology?",
+    "answer": "The code of conduct for employees can be found at [https://www.srmist.edu.in/policies/disciplinary-procedure-for-employees/](https://www.srmist.edu.in/policies/disciplinary-procedure-for-employees/).",
+    "intent": "code_of_conduct"
+  },
+  {
+    "question": "How can I access the grievance and redressal policy at SRM Institute of Science and Technology?",
+    "answer": "The grievance and redressal policy can be accessed at [https://www.srmist.edu.in/policies/grievance-and-redressal-policy/](https://www.srmist.edu.in/policies/grievance-and-redressal-policy/).",
+    "intent": "grievance_policy"
+  },
+  {
+    "question": "Where can I find the retention policy for SRM Institute of Science and Technology?",
+    "answer": "The retention policy can be found at [https://www.srmist.edu.in/policies/retention-policy/](https://www.srmist.edu.in/policies/retention-policy/).",
+    "intent": "retention_policy"
+  },
+  {
+    "question": "What is considered a prohibited activity related to damaging property at SRM Institute of Science and Technology?",
+    "answer": "Damaging or defacing University property or the property of members of the University or any other property inside or outside the University campus is prohibited.",
+    "intent": "prohibited_activities"
+  },
+  {
+    "question": "What is considered a prohibited activity related to wrongful confinement at SRM Institute of Science and Technology?",
+    "answer": "Engaging in any attempt of wrongful confinement of teachers, officers, employees, and students of the University or camping inside or creating nuisance inside the boundaries of the houses of teachers, officers, and other members of the University is prohibited.",
+    "intent": "prohibited_activities"
+  },
+  {
+    "question": "What is considered a prohibited activity related to abusive language at SRM Institute of Science and Technology?",
+    "answer": "Use of abusive and derogatory slogans or intimidatory language or incitement of hatred and violence or any act calculated to further the same is prohibited.",
+    "intent": "prohibited_activities"
+  },
+  {
+    "question": "What forms of ragging are prohibited at SRM Institute of Science and Technology?",
+    "answer": "Ragging in any form is prohibited.",
+    "intent": "ragging_policy"
+  },
+  {
+    "question": "What are the consequences of displaying noisy or disorderly conduct at SRM Institute of Science and Technology?",
+    "answer": "Displaying noisy or disorderly conduct can lead to disciplinary action, as it is considered a form of ragging and is strictly prohibited.",
+    "intent": "consequences_noisy_behavior"
+  },
+  {
+    "question": "What are some examples of activities that cause undue hardship or psychological harm to freshmen?",
+    "answer": "Examples include teasing, rough or rude treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "examples_harmful_activities"
+  },
+  {
+    "question": "What are some prohibited actions that involve coercion of freshmen?",
+    "answer": "Prohibited actions include forcing freshmen to address seniors as 'Sir', perform mass drills, copy class notes, run errands, do menial jobs, or engage in vulgar acts.",
+    "intent": "prohibited_actions"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that cause physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that cause physical injury, mental torture, or death is strictly prohibited and considered a serious offense.",
+    "intent": "physical_injury_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury or mental torture?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical harm or mental distress.",
+    "intent": "examples_injury_torture"
+  },
+  {
+    "question": "Is eve-teasing or disrespectful behavior towards women or girl students allowed?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What happens if a student assaults or intimidates a teacher or officer?",
+    "answer": "Assaulting, intimidating, or insulting behavior towards teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "Can students be forced to look at pornographic pictures or perform obscene acts?",
+    "answer": "No, forcing students to look at pornographic pictures or perform obscene acts is strictly prohibited and considered a serious offense.",
+    "intent": "pornographic_acts_prohibited"
+  },
+  {
+    "question": "What are some examples of menial jobs that seniors cannot ask freshmen to do?",
+    "answer": "Examples include running errands, copying class notes, or performing any task that is considered menial or degrading.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to strip kiss or perform other obscenities as part of ragging?",
+    "answer": "No, strip kissing or performing other obscenities is strictly prohibited and considered a serious offense.",
+    "intent": "obscenities_prohibited"
+  },
+  {
+    "question": "What are the consequences of engaging in any form of ragging at SRM Institute of Science and Technology?",
+    "answer": "Engaging in any form of ragging can lead to severe disciplinary action, including physical injury, mental torture, or even death, and is strictly prohibited.",
+    "intent": "consequences_ragging"
+  },
+  {
+    "question": "Can seniors force freshmen to do acts that cause shame or embarrassment?",
+    "answer": "No, forcing freshmen to do acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to force freshmen to drink alcohol or perform other dangerous acts?",
+    "answer": "No, forcing freshmen to drink alcohol or perform any dangerous acts is strictly prohibited and considered a serious offense.",
+    "intent": "dangerous_acts_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm to freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards teachers or officers?",
+    "answer": "No, disrespectful behavior towards teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that are considered indisciplined and likely to cause annoyance or hardship?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "indisciplinedActs_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform mass drills or copy class notes for seniors?",
+    "answer": "No, forcing freshmen to perform mass drills or copy class notes for seniors is strictly prohibited and considered a form of ragging.",
+    "intent": "mass_drills_prohibited"
+  },
+  {
+    "question": "Is it allowed to ask or answer vulgar questions as part of ragging?",
+    "answer": "No, asking or answering vulgar questions is strictly prohibited and considered a form of ragging.",
+    "intent": "vulgar_questions_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can raise apprehension or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "fear_apprehension_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to do acts that cause them shame or embarrassment?",
+    "answer": "No, forcing freshmen to do acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can lead to physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that lead to physical injury, mental torture, or death?",
+    "answer": "Examples include scalding tea, forcing to drink alcohol, or any act that causes physical injury, mental torture, or death.",
+    "intent": "injury_torture_death_examples"
+  },
+  {
+    "question": "Can freshmen be forced to perform acts that lead to their shame or embarrassment?",
+    "answer": "No, forcing freshmen to perform acts that cause shame or embarrassment is strictly prohibited and considered a form of ragging.",
+    "intent": "shameful_acts_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of disrespectful behavior towards women or girl students?",
+    "answer": "No, disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "disrespectful_behavior_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause psychological harm or fear in freshmen?",
+    "answer": "Examples include teasing, rough treatment, indisciplined activities, or any behavior that causes fear or apprehension in a fresher.",
+    "intent": "psychological_harm_fear_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to perform acts that lead to physical injury or mental torture?",
+    "answer": "No, forcing freshmen to perform acts that lead to physical injury or mental torture is strictly prohibited and considered a serious offense.",
+    "intent": "injury_torture_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of teasing or rough treatment towards freshmen?",
+    "answer": "No, teasing or rough treatment towards freshmen is strictly prohibited and considered a form of ragging.",
+    "intent": "teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of acts that can cause physical or psychological harm to freshmen?",
+    "answer": "Examples include rough treatment, indisciplined activities, or any behavior that causes physical or psychological harm to freshmen.",
+    "intent": "harm_examples"
+  },
+  {
+    "question": "Can freshmen be forced to address seniors as 'Sir' as part of ragging?",
+    "answer": "No, coercing freshmen to address seniors as 'Sir' is strictly prohibited and considered a form of ragging.",
+    "intent": "addressing_seniors_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of eve-teasing or disrespectful behavior towards women or girl students?",
+    "answer": "No, eve-teasing or disrespectful behavior towards women or girl students is strictly prohibited and considered a serious offense.",
+    "intent": "eve_teasing_prohibited"
+  },
+  {
+    "question": "What are some examples of behavior that can cause undue hardship to freshmen?",
+    "answer": "Examples include noisy conduct, disorderly behavior, teasing, rough treatment, or any behavior that causes undue hardship or psychological harm.",
+    "intent": "hardship_examples"
+  },
+  {
+    "question": "Can seniors force freshmen to run various errands or do menial jobs?",
+    "answer": "No, forcing freshmen to run errands or do menial jobs is strictly prohibited and considered a form of ragging.",
+    "intent": "menial_jobs_prohibited"
+  },
+  {
+    "question": "Is it allowed to engage in any form of assault or intimidation towards teachers or officers?",
+    "answer": "No, assaulting or intimidating teachers, officers, or employees is strictly prohibited and will result in disciplinary action.",
+    "intent": "assault_intimidation_prohibited"
+  },
+  {
+    "question": "What is considered unauthorized entry or occupation at SRM Institute of Science and Technology?",
+    "answer": "Causing or colluding in the unauthorized entry of any person into the campus or the unauthorized occupation of any portion of the University premises, including hostels or halls of residence, by any person.",
+    "intent": "unauthorized_access"
+  },
+  {
+    "question": "Can a student enroll in more than one programme of study simultaneously at SRM Institute of Science and Technology?",
+    "answer": "No, getting enrolled in more than one programme of study simultaneously is a violation of the University bye-laws.",
+    "intent": "enrollment_policy"
+  },
+  {
+    "question": "What is considered forgery or misuse of documents at SRM Institute of Science and Technology?",
+    "answer": "Committing forgery, tampering with, or misuse of University documents or records, identification cards, etc.",
+    "intent": "document_misuse"
+  },
+  {
+    "question": "What happens if a student furnishes false certificates or information to the University?",
+    "answer": "Furnishing false certificates or false information to any office under the control and jurisdiction of the University is prohibited.",
+    "intent": "false_information"
+  },
+  {
+    "question": "Is consuming or possessing alcoholic drinks or dangerous drugs allowed on campus?",
+    "answer": "No, consuming or possessing alcoholic drinks, dangerous drugs, or other intoxicants in the University premises is prohibited.",
+    "intent": "substance_possession"
+  },
+  {
+    "question": "Is gambling allowed on the University premises?",
+    "answer": "No, indulging in acts of gambling in the University premises is prohibited.",
+    "intent": "gambling_policy"
+  },
+  {
+    "question": "Are students allowed to possess or use weapons on campus?",
+    "answer": "No, possessing or using any weapons such as knives, lathis, iron chains, iron rods, sticks, explosives, and firearms in the University premises is prohibited.",
+    "intent": "weapons_possession"
+  },
+  {
+    "question": "What is considered a prohibited act related to communal feelings?",
+    "answer": "Arousing communal, caste, or regional feelings or creating disharmony among students.",
+    "intent": "Prohibited Acts - Communal Feelings"
+  },
+  {
+    "question": "What is the policy on disclosing one’s identity when asked by a university employee?",
+    "answer": "Not disclosing one’s identity when asked to do so by an authorized employee or officer of the University.",
+    "intent": "Identity Disclosure Policy"
+  },
+  {
+    "question": "What is considered a prohibited act regarding library books?",
+    "answer": "Tearing of pages, defacing, burning, and destroying of books of any library.",
+    "intent": "Prohibited Acts - Library Books"
+  },
+  {
+    "question": "What is the rule about occupying hostel rooms without authorization?",
+    "answer": "Unauthorized occupation of hostel rooms or unauthorized acquisition or use of University furniture in one’s hostel room or elsewhere.",
+    "intent": "Hostel Room Occupation Policy"
+  },
+  {
+    "question": "Can guests be accommodated in hostels without permission?",
+    "answer": "No, accommodating guests or other persons in hostels without permission of the Warden is prohibited.",
+    "intent": "Hostel Guest Policy"
+  },
+  {
+    "question": "What is considered improper rendering of accounts?",
+    "answer": "Improper rendering of accounts for money drawn from or through any office under the control and jurisdiction of the University.",
+    "intent": "Financial Accountability"
+  },
+  {
+    "question": "What is considered an act of moral turpitude?",
+    "answer": "Any act of moral turpitude.",
+    "intent": "Moral Conduct Policy"
+  },
+  {
+    "question": "What is considered an offence under law?",
+    "answer": "Any offence under law.",
+    "intent": "Legal Offences"
+  },
+  {
+    "question": "What are the consequences of committing offences specified in the examination bye-laws?",
+    "answer": "Committing any of the offences specified in the examination bye-laws is prohibited.",
+    "intent": "Examination Offences"
+  },
+  {
+    "question": "What is the policy on violating traffic bye-laws?",
+    "answer": "Violation of the traffic bye-laws as notified is prohibited.",
+    "intent": "Traffic Violations"
+  },
+  {
+    "question": "What is considered improper behaviour during tours or excursions?",
+    "answer": "Improper behaviour while on tour or excursion.",
+    "intent": "Behaviour on Tours"
+  },
+  {
+    "question": "What are the consequences of distributing objectionable pamphlets or defacing walls at SRMIST?",
+    "answer": "Such actions are considered violations of the disciplinary policy and may lead to disciplinary action.",
+    "intent": "disciplinary_action"
+  },
+  {
+    "question": "Who determines what constitutes a violation of discipline at SRMIST?",
+    "answer": "The Vice-Chancellor or the Disciplinary Committee determines what constitutes a violation of discipline.",
+    "intent": "disciplinary_action"
+  },
+  {
+    "question": "What is required of students and parents at the time of application and admission?",
+    "answer": "Each student and their parent must sign an affidavit agreeing to abide by the Code of Conduct.",
+    "intent": "code_of_conduct"
+  },
+  {
+    "question": "What is expected of students regarding the Code of Conduct at SRMIST?",
+    "answer": "Students are expected to uphold the Code of Conduct and refrain from any form of misconduct that could harm the Institute's interests and reputation.",
+    "intent": "code_of_conduct"
+  },
+  {
+    "question": "What should students be aware of regarding the Code of Conduct?",
+    "answer": "Students should be aware of the Code of Conduct, disciplinary rules, procedures, policies, and processes.",
+    "intent": "code_of_conduct"
+  },
+  {
+    "question": "What happens if a student is found to be indisciplined or commits misconduct at SRM Institute of Science and Technology?",
+    "answer": "Any indiscipline or misconduct will be recorded in the Student ERP to trace the history by the Directorate of Student Affairs.",
+    "intent": "misconduct_policy"
+  },
+  {
+    "question": "What behavior is expected from students regarding the wellness, privacy, and safety of others?",
+    "answer": "Students must respect the wellness, privacy, and safety of others and abstain from unwanted behavior.",
+    "intent": "behavior_expectations"
+  },
+  {
+    "question": "Where and when should students display their SRMIST Student Identity Card?",
+    "answer": "Students must visibly display their SRMIST Student Identity Card when entering and exiting the campus 24/7 in all locations.",
+    "intent": "id_display"
+  },
+  {
+    "question": "What dress code must students follow at SRM Institute of Science and Technology?",
+    "answer": "Students must follow a proper, formal dress code.",
+    "intent": "dress_code"
+  },
+  {
+    "question": "How should students display their vehicle pass?",
+    "answer": "Students must visibly display the vehicle pass on the vehicle.",
+    "intent": "vehicle_pass"
+  },
+  {
+    "question": "Are helmets and seat belts mandatory for students?",
+    "answer": "Yes, students must compulsorily wear helmets and seat belts as appropriate.",
+    "intent": "safety_gear"
+  },
+  {
+    "question": "What rules must students follow at SRM Institute of Science and Technology?",
+    "answer": "Students must follow all rules regarding hostel, campus, academics, and examinations.",
+    "intent": "rule_adherence"
+  },
+  {
+    "question": "What is expected of students during a disciplinary hearing?",
+    "answer": "Students must co-operate and provide information during a disciplinary hearing.",
+    "intent": "disciplinary_hearing"
+  },
+  {
+    "question": "Is the decision of SRM Institute of Science and Technology final and binding?",
+    "answer": "Yes, the decision of SRM Institute of Science and Technology is final and binding.",
+    "intent": "final_decision"
+  },
+  {
+    "question": "What happens if a student violates the disciplinary policy?",
+    "answer": "Sanctions as deemed essential will be imposed on violating any of the disciplinary policy.",
+    "intent": "policy_violation"
+  },
+  {
+    "question": "What are the sanctions that must be completed as per the University's mandate?",
+    "answer": "It is a mandate to complete the sanctions (punishments) imposed by the University.",
+    "intent": "Sanctions_Mandate"
+  },
+  {
+    "question": "What are the prohibited vehicle-related offenses under Level 1?",
+    "answer": "Avoid dark tinted glass window vehicles, tampering of vehicle silencers, triples in bike, rash driving, non-use of helmets, speeding & vehicle stunts.",
+    "intent": "Vehicle_Rules"
+  },
+  {
+    "question": "What are the areas where indiscipline is prohibited under Level 1?",
+    "answer": "Avoid indiscipline in areas such as the gym, food courts, shops & stores, transport areas, sports areas, etc.",
+    "intent": "Indiscipline_Areas"
+  },
+  {
+    "question": "What is prohibited regarding bringing students or outsiders into the campus?",
+    "answer": "Avoid bringing passed-out students and/or outsiders inside the campus without proper permission.",
+    "intent": "Outsiders_On_Campus"
+  },
+  {
+    "question": "What type of dressing is considered improper and prohibited under Level 1?",
+    "answer": "Avoid improper and informal dressing (shorts, exposing & transparent clothes etc.).",
+    "intent": "Dress_Code"
+  },
+  {
+    "question": "What is the rule regarding roaming in the campus without an ID card?",
+    "answer": "Avoid roaming in the campus without ID card.",
+    "intent": "ID_Card_Rules"
+  },
+  {
+    "question": "What are the prohibited actions related to ID cards under Level 2?",
+    "answer": "Avoid misuse or tampering of ID cards.",
+    "intent": "ID_Card_Misuse"
+  },
+  {
+    "question": "What type of misconduct outside the campus is prohibited under Level 2?",
+    "answer": "Avoid any complaint of misconduct outside the campus.",
+    "intent": "Off_Campus_Misconduct"
+  },
+  {
+    "question": "What is considered disgraceful public display of affection under Level 2?",
+    "answer": "Avoid disgraceful public display of affection (indecent position/objectionable pose, etc.).",
+    "intent": "Public_Affection_Rules"
+  },
+  {
+    "question": "What should students avoid doing to campus property at SRM Institute of Science and Technology?",
+    "answer": "Students should avoid damaging any campus property, such as books, buildings, gadgets, fire extinguishers, elevators, plants, vehicles, etc.",
+    "intent": "Avoid damaging campus property"
+  },
+  {
+    "question": "How should students behave towards SRMIST officials, faculty, staff, or support services?",
+    "answer": "Students should avoid discourtesy and disrespect towards any SRMIST official, faculty, staff, or support services person on campus.",
+    "intent": "Avoid disrespectful behavior"
+  },
+  {
+    "question": "What kind of language should students avoid using at SRM Institute of Science and Technology?",
+    "answer": "Students should avoid using abusive language, threatening, or intimidating any person.",
+    "intent": "Avoid abusive language"
+  },
+  {
+    "question": "What should students avoid doing that could cause an alarm?",
+    "answer": "Students should avoid causing an alarm through any expression or communication to anyone, whether physically, electronically, or via social media platforms.",
+    "intent": "Avoid causing alarms"
+  },
+  {
+    "question": "What activities are prohibited related to bribes and theft?",
+    "answer": "Students should avoid giving bribes, theft, forgery, and gambling.",
+    "intent": "Avoid illegal activities"
+  },
+  {
+    "question": "What kind of group behavior is prohibited at SRM Institute of Science and Technology?",
+    "answer": "Students should avoid groupism of any kind with the intent to take the law into their own hands, as well as arrogant behavior and arguments with any authority or staff.",
+    "intent": "Avoid groupism and arrogance"
+  },
+  {
+    "question": "What should students avoid doing in terms of physical interactions?",
+    "answer": "Students should avoid physical fights with other students or with any faculty, staff, or security personnel.",
+    "intent": "Avoid physical fights"
+  },
+  {
+    "question": "What happens if a student disobeys institutional orders?",
+    "answer": "Students should avoid disobeying institutional orders alone or with others, including instigating and/or participating in such actions.",
+    "intent": "Avoid disobeying institutional orders"
+  },
+  {
+    "question": "What should I avoid doing in a group setting at SRM Institute of Science and Technology?",
+    "answer": "You should avoid shouting slogans, raising your voice, and making group complaints.",
+    "intent": "behavior_guidelines"
+  },
+  {
+    "question": "What items are prohibited on campus?",
+    "answer": "Banned items include fire crackers, weapons, sharp objects, pornographic materials, and substances like tobacco and gutka.",
+    "intent": "prohibited_items"
+  },
+  {
+    "question": "What kind of misconduct can lead to complaints at SRM Institute of Science and Technology?",
+    "answer": "Misconduct includes cheating shopkeepers, teasing girls, stalking, sexually harassing others, and creating public nuisances.",
+    "intent": "misconduct_policy"
+  },
+  {
+    "question": "What should I avoid in terms of physical behavior on campus?",
+    "answer": "You should avoid physical fights, especially those that lead to serious injury.",
+    "intent": "physical_behavior"
+  },
+  {
+    "question": "What should I avoid in terms of substance use on campus?",
+    "answer": "You should avoid coming to campus, attending classes, or driving while under the influence of alcohol or other drugs.",
+    "intent": "substance_abuse_policy"
+  },
+  {
+    "question": "What academic offenses should I avoid at SRM Institute of Science and Technology?",
+    "answer": "You should avoid forgery of signatures, producing false documents, and giving false information related to academics and hostel life.",
+    "intent": "academic_integrity"
+  },
+  {
+    "question": "What are the prohibited financial activities during admission at SRM Institute of Science and Technology?",
+    "answer": "Collecting money in any form or involving in any trading transactions, such as influencing parents during admission for better branches or confirming admission by taking money from them, is strictly prohibited.",
+    "intent": "prohibited_financial_activities"
+  },
+  {
+    "question": "Can a student enter the campus while under suspension or facing disciplinary charges?",
+    "answer": "No, entering the campus when under suspension and/or facing disciplinary charges or criminal offences is strictly prohibited.",
+    "intent": "campus_access_during_suspension"
+  },
+  {
+    "question": "Is it allowed to use SRMIST premises without proper authority?",
+    "answer": "No, utilizing SRMIST premises without the knowledge and consent of the concerned authority is prohibited.",
+    "intent": "unauthorized_premises_usage"
+  },
+  {
+    "question": "Can I publicize any event or exhibit notices on campus without approval?",
+    "answer": "No, exhibiting any notices or publicizing any event in any part of the campus without proper approval is strictly prohibited.",
+    "intent": "publicizing_without_approval"
+  },
+  {
+    "question": "Is it allowed to use SRMIST’s name or campus in online media without consent?",
+    "answer": "No, unauthorized use of SRMIST’s name or its campus in any form of online media (email, blogs, websites, chats, social networking sites, etc.) is strictly prohibited.",
+    "intent": "unauthorized_online_usage"
+  },
+  {
+    "question": "Can I share pictures, voice, or video of individuals on SRMIST campus?",
+    "answer": "No, sharing or transferring pictures, voice, or video of any individual(s) on the SRMIST campus is strictly prohibited.",
+    "intent": "sharing_media_prohibition"
+  },
+  {
+    "question": "What activities are considered disruptive and require police intervention at SRMIST?",
+    "answer": "Any activity that disrupts the law and order of SRMIST and requires police reporting and intervention is strictly prohibited.",
+    "intent": "prohibited_disruptive_activities"
+  },
+  {
+    "question": "What are the prohibited activities at SRM Institute of Science and Technology?",
+    "answer": "Prohibited activities include spreading rumors, anti-institutional or national or communal or political voicing, interfering or giving false testimony in disciplinary proceedings, harassment or intimidating participants in the disciplinary process, repetition of misconduct, non-compliance or non-completion of earlier sanctions, and ragging (a criminal offence prohibited in any form).",
+    "intent": "prohibitions"
+  },
+  {
+    "question": "What are the levels of misconduct at SRM Institute of Science and Technology?",
+    "answer": "The levels of misconduct include Level 5 and Level 6, with specific actions assigned to each level.",
+    "intent": "misconduct_levels"
+  },
+  {
+    "question": "What are the punishments for misconduct at SRM Institute of Science and Technology?",
+    "answer": "The disciplinary committee decides the punishment on a case-by-case basis, which may include one or more of the following: Warning & Reprimand, Suspension, Expulsion, Withholding of Degrees or Certificates, or Rustication.",
+    "intent": "punishment_types"
+  },
+  {
+    "question": "How are punishments decided for misconduct at SRM Institute of Science and Technology?",
+    "answer": "Punishments are decided by the disciplinary committee on a case-by-case basis.",
+    "intent": "disciplinary_process"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What happens if a student repeats misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct"
+  },
+  {
+    "question": "What are the consequences of non-compliance with sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What is the punishment for non-compliance with earlier sanctions at SRM Institute of Science and Technology?",
+    "answer": "Non-compliance or non-completion of earlier sanctions is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "non_compliance_punishment"
+  },
+  {
+    "question": "What is the punishment for repeating misconduct at SRM Institute of Science and Technology?",
+    "answer": "Repeated misconduct is categorized under Level 6 and may result in severe penalties as decided by the disciplinary committee.",
+    "intent": "repeat_misconduct_punishment"
+  },
+  {
+    "question": "What is the punishment for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a criminal offence and is prohibited in any form, with specific penalties assigned under Level 6.",
+    "intent": "ragging_punishment"
+  },
+  {
+    "question": "What is the punishment for spreading rumors about SRM Institute of Science and Technology?",
+    "answer": "Spreading rumors about SRM Institute of Science and Technology is categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "rumor_punishment"
+  },
+  {
+    "question": "What is the punishment for anti-institutional or national or communal or political activities at SRM Institute of Science and Technology?",
+    "answer": "Such activities are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "anti_institutional_punishment"
+  },
+  {
+    "question": "What is the punishment for interfering or giving false testimony in disciplinary proceedings at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "false_testimony_punishment"
+  },
+  {
+    "question": "What is the punishment for harassing or intimidating participants in the disciplinary process at SRM Institute of Science and Technology?",
+    "answer": "Such actions are categorized under Level 5 and may result in penalties as decided by the disciplinary committee.",
+    "intent": "harassment_punishment"
+  },
+  {
+    "question": "What happens when a student is formally warned and reprimanded?",
+    "answer": "A formal warning and reprimand indicate that continuing misconduct will lead to further repercussions.",
+    "intent": "formal_warning"
+  },
+  {
+    "question": "What is the purpose of assigning tasks to a student?",
+    "answer": "Tasks are assigned to educate the student about the consequences of their actions and avoid further violations.",
+    "intent": "task_assignment"
+  },
+  {
+    "question": "What is the policy regarding fines as a deterrent?",
+    "answer": "Fines are used as a financial deterrent, with a maximum of once per person, alongside other academic sanctions.",
+    "intent": "fines_policy"
+  },
+  {
+    "question": "What does restitution entail?",
+    "answer": "Restitution involves restoring or compensating for damage or loss caused by a violation, through repayment to SRMIST or affected students, faculty, and/or staff.",
+    "intent": "restitution"
+  },
+  {
+    "question": "What are examples of interim restrictions?",
+    "answer": "Interim restrictions include denial of parking space, change of room, hostel room suspension, expulsion from hostel for a certain time, or denial of university gadgets or facilities.",
+    "intent": "interim_restrictions"
+  },
+  {
+    "question": "What is the purpose of the declaration and undertaking by the student and parent?",
+    "answer": "The declaration and undertaking by the student and parent is a formal acknowledgment of the code of conduct and its implications.",
+    "intent": "declaration_undertaking"
+  },
+  {
+    "question": "What happens if a student is suspended indefinitely at SRM Institute of Science and Technology?",
+    "answer": "The student is suspended till the completion of the Disciplinary Committee hearing.",
+    "intent": "disciplinary_action"
+  },
+  {
+    "question": "Can a student be barred from placement or exams for indiscipline?",
+    "answer": "Yes, depending on the severity of the indiscipline, the student can be barred from placement and/or examination processes.",
+    "intent": "misconduct_consequences"
+  },
+  {
+    "question": "What is rustication at SRM Institute of Science and Technology?",
+    "answer": "Rustication means the student is temporarily expelled from the university for up to one year for misconduct.",
+    "intent": "disciplinary_action"
+  },
+  {
+    "question": "What is expulsion at SRM Institute of Science and Technology?",
+    "answer": "Expulsion means the student is permanently removed from the university for misconduct.",
+    "intent": "disciplinary_action"
+  },
+  {
+    "question": "What is the consequence for Level – 1 misconduct at SRM Institute of Science and Technology?",
+    "answer": "The consequences for Level – 1 misconduct are specified in the university's disciplinary policy.",
+    "intent": "misconduct_consequences"
+  },
+  {
+    "question": "What is the consequence for Level – 2 misconduct at SRM Institute of Science and Technology?",
+    "answer": "The consequences for Level – 2 misconduct are specified in the university's disciplinary policy.",
+    "intent": "misconduct_consequences"
+  },
+  {
+    "question": "What is the consequence for Level – 3 misconduct at SRM Institute of Science and Technology?",
+    "answer": "The consequences for Level – 3 misconduct are specified in the university's disciplinary policy.",
+    "intent": "misconduct_consequences"
+  },
+  {
+    "question": "What undertaking must a student and their parent provide regarding misconduct?",
+    "answer": "The student and parent must provide an undertaking that no repetition of the offense will occur, and they will abide by any disciplinary action, including expulsion.",
+    "intent": "disciplinary_policy"
+  },
+  {
+    "question": "What happens if a student fails to give attendance or log-in late after the permitted time?",
+    "answer": "Intimation to Parents – 3 times or / and / 2. Three days academic suspension",
+    "intent": "AttendancePolicy"
+  },
+  {
+    "question": "What if a non-resident student or ex-hostel student is found in the hostel room?",
+    "answer": "Action will be taken against both the hosteller and the non-resident student",
+    "intent": "HostelRules"
+  },
+  {
+    "question": "What is the consequence of misusing or tampering with ID cards at SRM Institute of Science and Technology?",
+    "answer": "Intimation to parents and/or five days academic suspension.",
+    "intent": "misconduct_consequence"
+  },
+  {
+    "question": "What happens if a complaint of misconduct is received from outside the campus?",
+    "answer": "It falls under Level 2 misconduct and may lead to consequences such as intimation to parents or academic suspension.",
+    "intent": "misconduct_consequence"
+  },
+  {
+    "question": "What is the consequence of being found in an indecent position or objectionable pose with a fellow student?",
+    "answer": "It falls under Level 2 misconduct and may lead to consequences such as intimation to parents or academic suspension.",
+    "intent": "misconduct_consequence"
+  },
+  {
+    "question": "What are the consequences of vehicle-related offenses such as not wearing helmets, triple riding, or speeding inside the campus?",
+    "answer": "The specific consequences are not detailed in the provided document, but such offenses are categorized under misconduct.",
+    "intent": "vehicle_policy"
+  },
+  {
+    "question": "What is the consequence of tampering with the silencer or driving with dark tinted glass windows on campus?",
+    "answer": "The specific consequences are not detailed in the provided document, but such offenses are categorized under misconduct.",
+    "intent": "vehicle_policy"
+  },
+  {
+    "question": "What is the consequence of not displaying a vehicle pass on campus?",
+    "answer": "The specific consequences are not detailed in the provided document, but such offenses are categorized under misconduct.",
+    "intent": "vehicle_policy"
+  },
+  {
+    "question": "What is the consequence of rash driving or performing vehicle stunts inside the campus?",
+    "answer": "The specific consequences are not detailed in the provided document, but such offenses are categorized under misconduct.",
+    "intent": "vehicle_policy"
+  },
+  {
+    "question": "What are the consequences of Level 3 misconduct at SRM Institute of Science and Technology?",
+    "answer": "The specific consequences for Level 3 misconduct are not detailed in the provided document.",
+    "intent": "misconduct_consequence"
+  },
+  {
+    "question": "What happens if a student damages campus property?",
+    "answer": "Parents must come in person and sign an undertaking. The student will face a seven-day academic suspension with tasks/assignments. The cost of the damaged property will be recovered. The student may be disqualified from further placement assistance and/or barred from end-semester examinations.",
+    "intent": "campus_damage"
+  },
+  {
+    "question": "What are the consequences of possessing or distributing banned items like fire crackers?",
+    "answer": "The consequences include seven days academic suspension, tasks/assignments, and potential disqualification from placement assistance or end-semester examinations.",
+    "intent": "possession_of_banned_items"
+  },
+  {
+    "question": "What happens if a student shows discourtesy, disrespect, or uses foul language/gestures?",
+    "answer": "The student will face seven days academic suspension with tasks/assignments and may be disqualified from placement assistance or end-semester examinations.",
+    "intent": "disrespectful_behavior"
+  },
+  {
+    "question": "What are the penalties for causing an alarm through any expression or communication?",
+    "answer": "The student will face seven days academic suspension with tasks/assignments and may be disqualified from placement assistance or end-semester examinations.",
+    "intent": "causing_alarm"
+  },
+  {
+    "question": "What happens if a student is involved in stealing, bribing, forgery, or gambling?",
+    "answer": "The student will face seven days academic suspension with tasks/assignments and may be disqualified from placement assistance or end-semester examinations.",
+    "intent": "theft_or_gambling"
+  },
+  {
+    "question": "What are the consequences for making a group to take law into their own hands or showing arrogant behavior?",
+    "answer": "The student will face seven days academic suspension with tasks/assignments and may be disqualified from placement assistance or end-semester examinations.",
+    "intent": "group_arrogance"
+  },
+  {
+    "question": "What are the consequences for refusing to obey institutional orders or participating in group complaints at SRM Institute of Science and Technology?",
+    "answer": "Parents must come in person and sign an undertaking, 15 days academic suspension with tasks/assignments, barred from semester end exams, and/or barred from placement drive.",
+    "intent": "admission_policy"
+  },
+  {
+    "question": "What happens if a student is involved in major misconduct like cheating, teasing, or stalking at SRM Institute of Science and Technology?",
+    "answer": "Parents must come in person and sign an undertaking, 15 days academic suspension with tasks/assignments, barred from semester end exams, and/or barred from placement drive.",
+    "intent": "misconduct_consequences"
+  },
+  {
+    "question": "What are the consequences for physical abuse leading to injury among students or staff at SRM Institute of Science and Technology?",
+    "answer": "Parents must come in person and sign an undertaking, 15 days academic suspension with tasks/assignments, barred from semester end exams, and/or barred from placement drive.",
+    "intent": "physical_abuse_policy"
+  },
+  {
+    "question": "What is the penalty for coming to campus under the influence of alcohol or drugs?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_intoxication"
+  },
+  {
+    "question": "What is the consequence of forgery of signatures or producing false documents?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_forgery"
+  },
+  {
+    "question": "What is the penalty for possession or distribution of banned substances like tobacco or drugs?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_banned_substances"
+  },
+  {
+    "question": "What is the consequence of publicizing any event without proper approval?",
+    "answer": "Utilizing SRMIST’s premises without proper approval and publicizing events without authorization may lead to disciplinary action.",
+    "intent": "penalty_for_unauthorized_publicity"
+  },
+  {
+    "question": "What is the penalty for driving on campus under the influence of alcohol or drugs?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_driving_under_influence"
+  },
+  {
+    "question": "What is the consequence of giving false information related to academics or hostel?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_false_information"
+  },
+  {
+    "question": "What is the penalty for threatening fellow students to bring banned substances into the campus?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_threatening_students"
+  },
+  {
+    "question": "What is the consequence of consuming or transporting banned substances?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_consumption_transportation"
+  },
+  {
+    "question": "What is the penalty for distributing narcotics within or outside the campus?",
+    "answer": "Rustication for one year or expulsion from the university.",
+    "intent": "penalty_for_narcotics_distribution"
+  },
+  {
+    "question": "What is the consequence of exhibiting any notices without proper approval?",
+    "answer": "Utilizing SRMIST’s premises without proper approval and exhibiting notices without authorization may lead to disciplinary action.",
+    "intent": "penalty_for_unauthorized_notices"
+  },
+  {
+    "question": "What are the dangerous habits that are prohibited at SRM Institute of Science and Technology?",
+    "answer": "Dangerous habits include possession of weapons, sharp objects, or pornographic materials, as well as activities like blackmailing, pressurizing for pornography, or connections with drug suppliers.",
+    "intent": "prohibited_habits"
+  },
+  {
+    "question": "What financial malpractices are not allowed at SRM Institute of Science and Technology?",
+    "answer": "Collecting money in any form, trading transactions, or influencing parents during admission for better branches or confirming admission by taking money are prohibited.",
+    "intent": "financial_malpractices"
+  },
+  {
+    "question": "Can a student enter the campus while under suspension or facing disciplinary charges?",
+    "answer": "No, entering the campus while under suspension or facing disciplinary or criminal charges is prohibited.",
+    "intent": "campus_entry_rules"
+  },
+  {
+    "question": "What are the restrictions on using SRMIST's name or campus in online media?",
+    "answer": "Unauthorized use of SRMIST's name, sharing pictures, voice, or video of individuals without consent, and defaming the university through social media are prohibited.",
+    "intent": "online_conduct"
+  },
+  {
+    "question": "What are the consequences for Level 6 misconduct at SRM Institute of Science and Technology?",
+    "answer": "The consequences for Level 6 misconduct include expulsion from the University.",
+    "intent": "expulsion"
+  },
+  {
+    "question": "What happens if a student repeats any misconduct at Level 5?",
+    "answer": "Repetition of any misconduct at Level 5 will result in expulsion from the University.",
+    "intent": "repetition_misconduct"
+  },
+  {
+    "question": "What is the consequence for non-compliance or non-completion of sanctions?",
+    "answer": "Non-compliance or non-completion of sanctions may lead to expulsion from the University.",
+    "intent": "sanctions"
+  },
+  {
+    "question": "What acts can lead to expulsion as per the management's discretion?",
+    "answer": "Any act deemed fit for expulsion by the management can result in expulsion from the University.",
+    "intent": "expulsion"
+  },
+  {
+    "question": "What is the policy on ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a serious offense, and the University follows the guidelines set by the Hon’ble Supreme Court and UGC notifications.",
+    "intent": "ragging_policy"
+  },
+  {
+    "question": "What are the consequences for ragging at SRM Institute of Science and Technology?",
+    "answer": "Ragging is a serious offense and may lead to expulsion from the University.",
+    "intent": "ragging_consequences"
+  },
+  {
+    "question": "What guidelines does SRM Institute follow to curb ragging?",
+    "answer": "The University follows the UGC guidelines notified vide no.F.1‐16/2009 (CPP‐II) dated 21‐10‐2009 on Curbing the Menace of Ragging in Higher Educational Institutions, 2009.",
+    "intent": "anti_ragging_guidelines"
+  },
+  {
+    "question": "What role does the Anti-Ragging Committee play in addressing ragging incidents?",
+    "answer": "The Anti-Ragging Committee is responsible for looking into ragging incidents and ensuring compliance with anti-ragging guidelines.",
+    "intent": "anti_ragging_committee"
+  },
+  {
+    "question": "What is the role of the Representative from Faculty of Engineering and Technology in SRMIST?",
+    "answer": "The Representative from Faculty of Engineering and Technology is a member of the committee.",
+    "intent": "representative"
+  },
+  {
+    "question": "What is the role of the Representative from Faculty of Management in SRMIST?",
+    "answer": "The Representative from Faculty of Management is a member of the committee.",
+    "intent": "representative"
+  },
+  {
+    "question": "What is the role of the Representative from College of Agriculture in SRMIST?",
+    "answer": "The Representative from College of Agriculture is a member of the committee.",
+    "intent": "representative"
+  },
+  {
+    "question": "What is Stage 1 of the appeal process at SRMIST?",
+    "answer": "In Stage 1, a student can appeal in writing to the Registrar if dissatisfied with the Disciplinary Committee's decision.",
+    "intent": "appeal_process"
+  },
+  {
+    "question": "What is Stage 2 of the appeal process at SRMIST?",
+    "answer": "In Stage 2, the Registrar may refer the case back to the Disciplinary Committee or convene the Appellate Committee.",
+    "intent": "appeal_process"
+  },
+  {
+    "question": "What is Stage 3 of the appeal process at SRMIST?",
+    "answer": "In Stage 3, the decision of the Appellate Committee is final and binding.",
+    "intent": "appeal_process"
+  },
+  {
+    "question": "Is an appeal permitted for any level of misconduct at SRMIST?",
+    "answer": "No, an appeal is only permitted for misconduct at Level 5 and Level 6.",
+    "intent": "appeal_eligibility"
+  },
+  {
+    "question": "whom should i complain if someone is harassing me or ragging me ?",
+    "answer": "You can inform to your faculty advisory or any faculty member near you  or you can also inform to the Anti Ragging Committee.",
+    "intent": "appeal_eligibility"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "question": "How do I register for the SRMJEEE application process?",
+    "answer": "Register on the official website: SRMIST Application Portal.",
+    "intent": "application.process"
+  },
+  {
+    "question": "What is the application link for SRMJEEE?",
+    "answer": "The application link is https://applications.srmist.edu.in/btech.",
+    "intent": "application.link"
+  },
+  {
+    "question": "What steps are involved in the SRMJEEE application process?",
+    "answer": "1. Register on the official website. 2. Verify your email. 3. Fill the application form online. 4. Upload required documents. 5. Pay the application fee of ₹1400 per phase.",
+    "intent": "application.process.steps"
+  },
+  {
+    "question": "What documents are required for the SRMJEEE application?",
+    "answer": "10th & 12th mark sheets, ID proof, etc.",
+    "intent": "application.documents"
+  },
+  {
+    "question": "How much is the SRMJEEE application fee?",
+    "answer": "The application fee is ₹1400 per phase.",
+    "intent": "application.fee"
+  },
+  {
+    "question": "Is the SRMJEEE application fee refundable?",
+    "answer": "No, the application fee is non-refundable.",
+    "intent": "application.fee.refund"
+  },
+  {
+    "question": "What is the next step after registering for SRMJEEE?",
+    "answer": "Verify your email.",
+    "intent": "application.process.step2"
+  },
+  {
+    "question": "What is the next step after verifying my email for SRMJEEE?",
+    "answer": "Fill the application form online.",
+    "intent": "application.process.step3"
+  },
+  {
+    "question": "What is the next step after filling the application form for SRMJEEE?",
+    "answer": "Upload required documents.",
+    "intent": "application.process.step4"
+  },
+  {
+    "question": "What is the final step in the SRMJEEE application process?",
+    "answer": "Pay the application fee of ₹1400 per phase.",
+    "intent": "application.process.step5"
+  },
+  {
+    "question": "When is the SRMJEEE conducted ?",
+    "answer": "Please check the official website for the latest dates as they were continously updated .",
+    "intent": "application.dates"
+  },
+  {
+    "question": "What is the mode of the SRM Joint Entrance Examination?",
+    "answer": "The SRM Joint Entrance Examination (SRMJEE) will be conducted in Remote Proctored Online Mode (RPOM).",
+    "intent": "exam_mode"
+  },
+  {
+    "question": "How can I book the test slots for SRMJEE?",
+    "answer": "Candidates have to book the test slots of their convenience through the SRM Online Admission Portal (OAP), subject to the availability of slots on a particular date.",
+    "intent": "exam.slot_booking"
+  },
+  {
+    "question": "Can I change my allotted date or slot for SRMJEE?",
+    "answer": "The date and slot, once allotted to the candidate, shall not be changed under any circumstances.",
+    "intent": "exam.slot_change"
+  },
+  {
+    "question": "What is the purpose of conducting SRMJEE?",
+    "answer": "SRM Joint Entrance Examination is conducted to meet the rising competition amongst various universities and to maintain standards both nationally and internationally.",
+    "intent": "purpose_of_exam"
+  },
+  {
+    "question": "What is the duration of SRMJEEE (UG)?",
+    "answer": "2.30 hours",
+    "intent": "srmjee.ug.exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEE (UG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "srmjee.ug.exam_type"
+  },
+  {
+    "question": "What subjects are covered in SRMJEEE (UG)?",
+    "answer": "Physics, Chemistry, Mathematics (or) Biology, English, and Aptitude",
+    "intent": "srmjee.ug.exam_subjects"
+  },
+  {
+    "question": "What is the marks distribution for SRMJEEE (UG)?",
+    "answer": "35(physics)+35(chemistry)+40(mathematics or biology)+20(english and aptitude), total of 130 marks",
+    "intent": "srmjee.ug.marks_distribution"
+  },
+  {
+    "question": "How is the marking scheme for SRMJEEE (UG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "srmjee.ug.marking_scheme"
+  },
+  {
+    "question": "What is the total number of marks for SRMJEEE (UG)?",
+    "answer": "130",
+    "intent": "srmjee.ugtotal_marks"
+  },
+  {
+    "question": "What is the duration of SRMJEEE (PG)?",
+    "answer": "2.30 hours",
+    "intent": "srmjee.pg.exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEE (PG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "srmjee.pg.exam_type"
+  },
+  {
+    "question": "What subjects are covered in SRMJEEE (PG)?",
+    "answer": "Mathematics + Syllabus specific to the Programme. For Bio Technology and Food Processing – there will be no mathematics component",
+    "intent": "srmjee.pg.exam_subjects"
+  },
+  {
+    "question": "What is the total number of marks for SRMJEEE (PG)?",
+    "answer": "100",
+    "intent": "srmjee.pg.total_marks"
+  },
+  {
+    "question": "How is the marking scheme for SRMJEEE (PG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "srmjee.pg.marking_scheme"
+  },
+  {
+    "question": "What documents are required for admission to SRM Institute of Science and Technology?",
+    "answer": "10th and 12th / Bachelor / Master’s degree certificate along with mark sheet/transcript.",
+    "intent": "admission_documents"
+  }
+]

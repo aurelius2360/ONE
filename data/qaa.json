@@ -1,0 +1,2127 @@
+[
+  {
+    "question": "Who handles admissions for SRM Institute of Science and Technology in India?",
+    "answer": "SRM Joint Counselling Committee for Admissions (SRMJCCA) handles admissions for SRM Institute of Science and Technology in India.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "What programmes are offered by SRM Institute of Science and Technology?",
+    "answer": "The programmes offered by SRM Institute of Science and Technology are updated on the university website, [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "programmes_offered"
+  },
+  {
+    "question": "How can I apply to SRM Institute of Science and Technology?",
+    "answer": "You can apply online with e-payment.",
+    "intent": "application_process"
+  },
+  {
+    "question": "What is the application fee for Engineering & Technology Programmes at SRM Institute of Science and Technology?",
+    "answer": "The application fee for Engineering & Technology Programmes is Rs.1400/-.",
+    "intent": "application_fee"
+  },
+  {
+    "question": "What is the application fee for other programmes at SRM Institute of Science and Technology?",
+    "answer": "The application fee for all other programmes is Rs.1200/-.",
+    "intent": "application_fee"
+  },
+  {
+    "question": "Where can I find the last date for submission of the application?",
+    "answer": "The last date for submission of the application can be found on the university website, [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "application_deadline"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to SRM Institute of Science and Technology?",
+    "answer": "The eligibility criteria for admission to SRM Institute of Science and Technology are not specified in the provided document.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Who is eligible to apply for SRM Institute of Science and Technology?",
+    "answer": "Resident Indians, Non-Resident Indians (NRIs), and holders of Person of Indian Origin (PIO) or Overseas Citizen of India (OCI) cards issued by the Government of India are eligible to apply.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Where can I find the eligibility criteria for different programmes at SRM Institute of Science and Technology?",
+    "answer": "The eligibility criteria for different programmes are available in the respective regulations on the Institution's website at [www.srmist.edu.in](https://www.srmist.edu.in/).",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "Which regulatory bodies does SRM Institute of Science and Technology follow for admissions?",
+    "answer": "SRM Institute of Science and Technology follows the guidelines and regulations stipulated by statutory bodies such as University Grant Commission (UGC), All India Council for Technical Education (AICTE), Council of Architecture (COA), National Medical Commission (NMC), Dental Council of India (DCI), Pharmacy Council of India (PCI), Indian Nursing Council (INC), The Rehabilitation Council of India (RCI), Council for Technical Education, and Indian Council of Agricultural Research (ICAR).",
+    "intent": "regulatory_bodies"
+  },
+  {
+    "question": "What determines the eligibility requirements for programs at SRMIST?",
+    "answer": "The eligibility requirements are decided by the Academic Council.",
+    "intent": "eligibility_requirements"
+  },
+  {
+    "question": "Can the eligibility requirements for SRMIST programs change?",
+    "answer": "Yes, the eligibility requirements are subject to change.",
+    "intent": "eligibility_change"
+  },
+  {
+    "question": "Where can applications for admissions to SRMIST be submitted?",
+    "answer": "All applications for admissions can be submitted on the Admission – India page at https://applications.srmist.edu.in/.",
+    "intent": "application_submission"
+  },
+  {
+    "question": "What faculties are available for admission at SRMIST?",
+    "answer": "The faculties available for admission at SRMIST include:",
+    "intent": "available_faculties"
+  },
+  {
+    "question": "Does SRMIST offer distance education programs?",
+    "answer": "Yes, SRMIST offers distance education programs through the Directorate of Distance Education.",
+    "intent": "distance_education"
+  },
+  {
+    "question": "Does SRMIST offer online education programs?",
+    "answer": "Yes, SRMIST offers online education programs through the Directorate of Online Education.",
+    "intent": "online_education"
+  },
+  {
+    "question": "What programs are offered under the Faculty of Engineering and Technology at SRMIST?",
+    "answer": "The document does not specify the exact programs offered under the Faculty of Engineering and Technology, but they can be found on the SRMIST admission page.",
+    "intent": "engineering_programs"
+  },
+  {
+    "question": "What programs are offered under the Faculty of Medicine and Health Sciences at SRMIST?",
+    "answer": "The document does not specify the exact programs offered under the Faculty of Medicine and Health Sciences, but they can be found on the SRMIST admission page.",
+    "intent": "medicine_programs"
+  },
+  {
+    "question": "What programs are offered under the Faculty of Management at SRMIST?",
+    "answer": "The document does not specify the exact programs offered under the Faculty of Management, but they can be found on the SRMIST admission page.",
+    "intent": "management_programs"
+  },
+  {
+    "question": "What programs are offered under the Faculty of Science and Humanities at SRMIST?",
+    "answer": "The document does not specify the exact programs offered under the Faculty of Science and Humanities, but they can be found on the SRMIST admission page.",
+    "intent": "science_humanities_programs"
+  },
+  {
+    "question": "What programs are offered under the Faculty of Agricultural Sciences at SRMIST?",
+    "answer": "The document does not specify the exact programs offered under the Faculty of Agricultural Sciences, but they can be found on the SRMIST admission page.",
+    "intent": "agricultural_sciences_programs"
+  },
+  {
+    "question": "What programs are offered under the Faculty of Law at SRMIST?",
+    "answer": "The document does not specify the exact programs offered under the Faculty of Law, but they can be found on the SRMIST admission page.",
+    "intent": "law_programs"
+  },
+  {
+    "question": "How is admission done at SRM Institute of Science and Technology?",
+    "answer": "Admission is done through a Joint entrance examination conducted by SRM Institute of Science and Technology or authorized/statutory boards or agencies, and through the qualifying examination marks.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "What is the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The SRM Joint Entrance Examination (SRMJEE) is an entrance exam conducted by SRM Institute of Science and Technology for admission.",
+    "intent": "SRMJEE"
+  },
+  {
+    "question": "What happens if the Common Entrance Examination is not conducted?",
+    "answer": "If the Common Entrance Examination is not conducted, admission will be based on the qualifying examination marks.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "What are the notifications that govern the SRM Joint Entrance Examination and Counseling?",
+    "answer": "The SRM Joint Entrance Examination and Counseling will be as per UGC, AICTE, and Government Notifications.",
+    "intent": "SRMJEE"
+  },
+  {
+    "question": "Does getting called for the entrance exam and counselling mean acceptance of eligibility?",
+    "answer": "No, being called for the entrance exam and counselling does not necessarily mean acceptance of eligibility.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Whose responsibility is it to ensure they meet the eligibility criteria for admission?",
+    "answer": "It is the responsibility of the candidates to ascertain whether they possess the requisite eligibility for admission.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "Where can I find the syllabus for the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The syllabus for SRMJEE is published on SRM Institute of Science & Technology’s official website.",
+    "intent": "syllabus"
+  },
+  {
+    "question": "What mode is the SRM Joint Entrance Examination (SRMJEE) conducted in?",
+    "answer": "SRMJEE is conducted in Remote Proctored Online Mode (RPOM).",
+    "intent": "exam_mode"
+  },
+  {
+    "question": "How do candidates book their test slots for SRMJEE?",
+    "answer": "Candidates book their test slots of convenience through the SRM Online Admission Portal (OAP), subject to slot availability.",
+    "intent": "slot_booking"
+  },
+  {
+    "question": "Can the date and slot once allotted to a candidate be changed?",
+    "answer": "No, the date and slot once allotted to a candidate cannot be changed under any circumstances.",
+    "intent": "slot_change"
+  },
+  {
+    "question": "What is the duration of the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The duration of SRMJEE is specified in the exam pattern.",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The type of questions asked in SRMJEE is specified in the exam pattern.",
+    "intent": "question_type"
+  },
+  {
+    "question": "What subjects are covered in the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The coverage of subjects in SRMJEE is specified in the exam pattern.",
+    "intent": "subject_coverage"
+  },
+  {
+    "question": "How many questions are there in the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The number of questions in SRMJEE is specified in the exam pattern.",
+    "intent": "number_of_questions"
+  },
+  {
+    "question": "What is the scoring method for the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The scoring method for SRMJEE is specified in the exam pattern.",
+    "intent": "scoring_method"
+  },
+  {
+    "question": "What is the total marks for the SRM Joint Entrance Examination (SRMJEE)?",
+    "answer": "The total marks for SRMJEE are specified in the exam pattern.",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the total number of questions in SRMJEEE (UG)?",
+    "answer": "130",
+    "intent": "total_questions"
+  },
+  {
+    "question": "What is the duration of SRMJEEE (UG)?",
+    "answer": "2.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEE (UG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What subjects are covered in SRMJEEE (UG)?",
+    "answer": "Physics, Chemistry, Mathematics (or) Biology, English, and Aptitude",
+    "intent": "subjects_covered"
+  },
+  {
+    "question": "What is the marks distribution for SRMJEEE (UG)?",
+    "answer": "Physics: 35, Chemistry: 35, Mathematics: 40, English and Aptitude: 20",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "How is the scoring done in SRMJEEE (UG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring_system"
+  },
+  {
+    "question": "What is the total marks for SRMJEEE (UG)?",
+    "answer": "130",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the total number of questions in SRMJEEE (PG)?",
+    "answer": "100",
+    "intent": "total_questions"
+  },
+  {
+    "question": "What is the duration of SRMJEEE (PG)?",
+    "answer": "2.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEE (PG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What subjects are covered in SRMJEEE (PG)?",
+    "answer": "Mathematics + Syllabus specific to the Programme. For Bio Technology and Food Processing, there will be no mathematics component.",
+    "intent": "subjects_covered"
+  },
+  {
+    "question": "What is the marks distribution for SRMJEEE (PG)?",
+    "answer": "100",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "How is the scoring done in SRMJEEE (PG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring_system"
+  },
+  {
+    "question": "What is the total marks for SRMJEEE (PG)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the total number of questions in SRM Health Science (UG)?",
+    "answer": "100",
+    "intent": "total_questions"
+  },
+  {
+    "question": "What is the duration of SRM Health Science (UG)?",
+    "answer": "2.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRM Health Science (UG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What subjects are covered in SRM Health Science (UG)?",
+    "answer": "Physics, Chemistry, Biology, English, and Health Science Aptitude",
+    "intent": "subjects_covered"
+  },
+  {
+    "question": "What is the marks distribution for SRM Health Science (UG)?",
+    "answer": "Physics: 20, Chemistry: 20, Biology: 20, English: 20, Health Science Aptitude: 20",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "How is the scoring done in SRM Health Science (UG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring_system"
+  },
+  {
+    "question": "What is the total marks for SRM Health Science (UG)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the total number of questions in SRM Health Science (PG)?",
+    "answer": "100",
+    "intent": "total_questions"
+  },
+  {
+    "question": "What is the duration of SRM Health Science (PG)?",
+    "answer": "1.30 hours",
+    "intent": "exam_duration"
+  },
+  {
+    "question": "What type of questions are asked in SRM Health Science (PG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What subjects are covered in SRM Health Science (PG)?",
+    "answer": "Pharmacy, Physiotherapy, Occupational Therapy, Nursing, and Allied Health Sciences (Specific to the programmes)",
+    "intent": "subjects_covered"
+  },
+  {
+    "question": "What is the marks distribution for SRM Health Science (PG)?",
+    "answer": "50",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "How is the scoring done in SRM Health Science (PG)?",
+    "answer": "Each right answer carries 2 marks; No negative marking",
+    "intent": "scoring_system"
+  },
+  {
+    "question": "What is the total marks for SRM Health Science (PG)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of SRMJEEM (PG)?",
+    "answer": "2.30 hours",
+    "intent": "duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEM (PG)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What sections are included in SRMJEEM (PG)?",
+    "answer": "Data Interpretation, Quantitative, Reasoning, English & GK/CA/BA",
+    "intent": "sections"
+  },
+  {
+    "question": "How are the marks distributed in SRMJEEM (PG)?",
+    "answer": "20+20+20+20+20",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "What is the scoring pattern for SRMJEEM (PG)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring"
+  },
+  {
+    "question": "What is the total number of marks for SRMJEEM (PG)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of SRMJEEL (5 year Integrated)?",
+    "answer": "2.00 hours",
+    "intent": "duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEL (5 year Integrated)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What sections are included in SRMJEEL (5 year Integrated)?",
+    "answer": "English, Legal Aptitude, Logical Reasoning, G.K and current affairs, Elementary Maths",
+    "intent": "sections"
+  },
+  {
+    "question": "How are the marks distributed in SRMJEEL (5 year Integrated)?",
+    "answer": "20+20+20+20+20",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "What is the scoring pattern for SRMJEEL (5 year Integrated)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring"
+  },
+  {
+    "question": "What is the total number of marks for SRMJEEL (5 year Integrated)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "What is the duration of SRMJEEL (3 year)?",
+    "answer": "2.00 hours",
+    "intent": "duration"
+  },
+  {
+    "question": "What type of questions are asked in SRMJEEL (3 year)?",
+    "answer": "Multiple Choice Questions (MCQ)",
+    "intent": "question_type"
+  },
+  {
+    "question": "What sections are included in SRMJEEL (3 year)?",
+    "answer": "English, Legal Aptitude, Logical Reasoning, G.K and current affairs, Elementary Maths",
+    "intent": "sections"
+  },
+  {
+    "question": "How are the marks distributed in SRMJEEL (3 year)?",
+    "answer": "20+20+20+20+20",
+    "intent": "marks_distribution"
+  },
+  {
+    "question": "What is the scoring pattern for SRMJEEL (3 year)?",
+    "answer": "Each right answer carries 1 mark; No negative marking",
+    "intent": "scoring"
+  },
+  {
+    "question": "What is the total number of marks for SRMJEEL (3 year)?",
+    "answer": "100",
+    "intent": "total_marks"
+  },
+  {
+    "question": "Do SRMJEEL (5 year Integrated) and SRMJEEL (3 year) have negative marking?",
+    "answer": "No negative marking",
+    "intent": "negative_marking"
+  },
+  {
+    "question": "What is the entrance examination process for SRM Institute of Science and Technology?",
+    "answer": "The entrance examination process includes appearing for the respective entrance exams (SRMJEEM or SRMJEEL) based on the program applied for.",
+    "intent": "entrance_process"
+  },
+  {
+    "question": "What is the basis for admission to MBA programmes at SRM Institute of Science and Technology?",
+    "answer": "Admission to MBA programmes is purely based on the rank secured in SRMJEEM (PG).",
+    "intent": "admission_basis"
+  },
+  {
+    "question": "How are Common Entrance Test scores used in the MBA admission process?",
+    "answer": "Common Entrance Test scores are used as a primary screening tool for shortlisting candidates for subsequent rounds of the pre-admission process.",
+    "intent": "entrance_test_usage"
+  },
+  {
+    "question": "Are candidates who have not appeared for SRMJEEM (PG) or Common Entrance tests eligible for MBA admission?",
+    "answer": "No, candidates who have not appeared for SRMJEEM (PG) or Common Entrance tests are not eligible for admission to the MBA Programme.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What is the purpose of entrance test scores in the MBA admission process?",
+    "answer": "Entrance test scores are used for screening purposes for pre-admissions and for shortlisting candidates for further rounds.",
+    "intent": "entrance_test_purpose"
+  },
+  {
+    "question": "What happens after a candidate is shortlisted based on entrance test scores?",
+    "answer": "Shortlisted candidates will be called for a personal interview.",
+    "intent": "post_screening_process"
+  },
+  {
+    "question": "Are entrance test scores the sole criteria for MBA admission?",
+    "answer": "No, scrutiny and selection are also based on the applicants’ profile and performance in pre-admission rounds.",
+    "intent": "selection_criteria"
+  },
+  {
+    "question": "What is the role of the percentile/marks/percentage listed for each test in the MBA admission process?",
+    "answer": "The percentile/marks/percentage listed for each test is the minimum desirable attainment from applicants and is not a qualifying score.",
+    "intent": "test_score_significance"
+  },
+  {
+    "question": "How are applicants selected for the MBA Programme?",
+    "answer": "Selection is based on the applicants’ profile, performance in pre-admission rounds, and entrance test scores.",
+    "intent": "selection_process"
+  },
+  {
+    "question": "Can candidates apply for MBA admission without appearing for SRMJEEM (PG) or Common Entrance tests?",
+    "answer": "No, candidates must appear for SRMJEEM (PG) or Common Entrance tests to be eligible for MBA admission.",
+    "intent": "mandatory_entrance_test"
+  },
+  {
+    "question": "Are entrance test scores the only factor considered for MBA admission?",
+    "answer": "No, entrance test scores are used for screening, and further selection involves scrutiny of the applicants’ profile and performance in pre-admission rounds.",
+    "intent": "holistic_admission"
+  },
+  {
+    "question": "What should I do if my marks are not known or unavailable when filling out the application?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What should candidates do if their results are generally released not before June?",
+    "answer": "Send the forecast/predicted/term results duly endorsed by the head of their school.",
+    "intent": "results_release"
+  },
+  {
+    "question": "What should candidates do as soon as their marks become available?",
+    "answer": "Send the marks to the university to ascertain eligibility.",
+    "intent": "results_submission"
+  },
+  {
+    "question": "What happens if the marks are not made available to the university within the stipulated date?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "deadline_importance"
+  },
+  {
+    "question": "What if the mark sheets of the qualifying examination are not submitted within the stipulated date?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "deadline_consequences"
+  },
+  {
+    "question": "When will the application be considered?",
+    "answer": "Only if the marks are made available to the university within the stipulated date.",
+    "intent": "application_consideration"
+  },
+  {
+    "question": "What should candidates do if their school results are delayed beyond June?",
+    "answer": "Send forecast/predicted/term results duly endorsed by the head of their school.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What should I indicate in the marks/grade column if my results are awaited?",
+    "answer": "Indicate “Results are awaited”.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is required if a candidate’s results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "late_results"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do after their marks become available?",
+    "answer": "Send the marks to the university as soon as possible.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the process for candidates whose results are delayed beyond June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_process"
+  },
+  {
+    "question": "What should I do if I don’t have my marks while filling the application?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "no_marks"
+  },
+  {
+    "question": "What is the importance of submitting marks within the stipulated date?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "submission_importance"
+  },
+  {
+    "question": "What happens if I don’t submit my mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "late_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available at the time of application?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "unavailable_results"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june_results"
+  },
+  {
+    "question": "What should I do if my results are not yet released when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "applying_without_results"
+  },
+  {
+    "question": "What is the process for handling delayed results?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_process"
+  },
+  {
+    "question": "What should candidates do if they don’t have their marks when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "no_marks_available"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are delayed?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting marks on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should I do if my results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "applying_without_marks"
+  },
+  {
+    "question": "What is required for candidates whose results are not available at the time of application?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What should candidates do if their results are not released before June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "pre_june_results"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "post_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting mark sheets?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the process for candidates whose results are not available at the time of application?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_not_available"
+  },
+  {
+    "question": "What is the importance of submitting mark sheets on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "mark_sheet_importance"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "applying_without_results"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting marks on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "late_marks"
+  },
+  {
+    "question": "What should candidates do if their results are not available when filling out the application?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is the process for submitting marks after they are available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_results"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the expected date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_results"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What should candidates do if their results are not yet available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_awaited"
+  },
+  {
+    "question": "What is the process for submitting marks after they become available?",
+    "answer": "Send the marks to the university as soon as they are available.",
+    "intent": "mark_submission"
+  },
+  {
+    "question": "What is the consequence of missing the deadline for submitting results?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "missed_deadline"
+  },
+  {
+    "question": "What should candidates do if their results are delayed beyond the usual release date?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "delayed_release"
+  },
+  {
+    "question": "What is the importance of submitting results on time?",
+    "answer": "The application will be considered only if the marks are made available within the stipulated date.",
+    "intent": "timely_submission"
+  },
+  {
+    "question": "What should candidates do if their results are not available when applying?",
+    "answer": "Indicate “Results are awaited” in the marks/grade column.",
+    "intent": "results_unavailable"
+  },
+  {
+    "question": "What is required for candidates whose results are released after June?",
+    "answer": "Send forecast/predicted/term results endorsed by the school head.",
+    "intent": "post_june"
+  },
+  {
+    "question": "What is the consequence of not submitting mark sheets on time?",
+    "answer": "SRM Institute of Science and Technology cannot be held responsible for the lost opportunity to study or future career.",
+    "intent": "consequences"
+  },
+  {
+    "question": "What documents are required to be attached or uploaded for admission?",
+    "answer": "10th and 12th / Bachelor / Master’s degree certificate along with mark sheet/transcript. Both the front and back sides of the mark sheet are to be copied and sent.",
+    "intent": "required_documents"
+  },
+  {
+    "question": "Why are both the front and back sides of the mark sheet required?",
+    "answer": "To get additional information about the grade equivalence, passing requirements, etc.",
+    "intent": "mark_sheet_requirements"
+  },
+  {
+    "question": "What if the content in the mark sheet is not in English?",
+    "answer": "A certified English-translated version must also be submitted in addition to the native language certificate.",
+    "intent": "translation_requirements"
+  },
+  {
+    "question": "What if the results have not been released yet?",
+    "answer": "The predicted marks/grades or the term result of the qualifying examination must be submitted.",
+    "intent": "pending_results"
+  },
+  {
+    "question": "Is proof of NRI status required?",
+    "answer": "Yes, proof of NRI status of the student/parent/sponsor is required.",
+    "intent": "nri_status"
+  },
+  {
+    "question": "Is a copy of the applicant's passport required?",
+    "answer": "Yes, a copy of the passport of the applicant (personal details page) is required.",
+    "intent": "passport_requirement"
+  },
+  {
+    "question": "Is a copy of the parent/sponsor's passport required?",
+    "answer": "Yes, a copy of the passport of the parent/sponsor (personal details page) is required.",
+    "intent": "parent_sponsor_passport"
+  },
+  {
+    "question": "Is an eligibility certificate from the Association of Indian Universities (AIU) required?",
+    "answer": "Yes, it is applicable only for MBBS, BDS, and B.Sc. Nursing programs.",
+    "intent": "aiu_eligibility"
+  },
+  {
+    "question": "Is a migration certificate required?",
+    "answer": "Yes, it is required for certain programs.",
+    "intent": "migration_certificate"
+  },
+  {
+    "question": "Is approval from the Indian Nursing Council (INC) required?",
+    "answer": "Yes, it is applicable only for Nursing programs.",
+    "intent": "inc_approval"
+  },
+  {
+    "question": "Is a NATA score card required?",
+    "answer": "Yes, it is applicable only for the B.Arch Program.",
+    "intent": "nata_score"
+  },
+  {
+    "question": "What happens when the completed application along with the prescribed application fee is received?",
+    "answer": "An application number will be allotted and emailed to the applicant. Additional or missing information may be requested if needed.",
+    "intent": "application_acknowledgement"
+  },
+  {
+    "question": "What should be quoted in all correspondences related to admissions?",
+    "answer": "The application number should be quoted in all correspondences related to admissions.",
+    "intent": "application_communication"
+  },
+  {
+    "question": "What is the last date for receipt of all necessary documents for programs in the Faculty of Engineering and Technology, Science and Humanities, Management, Medicine and Health Sciences, College of Agricultural Sciences, and School of Law?",
+    "answer": "The last date for receipt of all necessary documents is **August**.",
+    "intent": "document_submission_deadline"
+  },
+  {
+    "question": "What are the deadlines for admission to PhD programs in June and January intakes?",
+    "answer": "The deadlines for admission to PhD programs in June and January intakes are **April and October**, respectively.",
+    "intent": "phd_admission_deadlines"
+  },
+  {
+    "question": "What is the purpose of Table 6 in the document?",
+    "answer": "Table 6 provides the document submission timeline for various programs, including faculties and PhD intakes.",
+    "intent": "document_purpose"
+  },
+  {
+    "question": "What happens if additional or missing information is required after submitting the application?",
+    "answer": "Additional or missing information may be requested if needed.",
+    "intent": "application_information"
+  },
+  {
+    "question": "How will the application number be communicated to the applicant?",
+    "answer": "The application number will be allotted and emailed to the applicant.",
+    "intent": "application_number_communication"
+  },
+  {
+    "question": "What is the importance of the application number in the admission process?",
+    "answer": "The application number is essential for all correspondences related to admissions.",
+    "intent": "application_number_importance"
+  },
+  {
+    "question": "What determines the issuance of a provisional admission letter?",
+    "answer": "A provisional admission letter is issued if the eligibility requirements for the program applied for are satisfied based on predicted scores, term results, or final scores.",
+    "intent": "admission_criteria"
+  },
+  {
+    "question": "Is the provisional admission letter valid for visa purposes?",
+    "answer": "No, the provisional admission letter is not valid for visa purposes.",
+    "intent": "visa_requirements"
+  },
+  {
+    "question": "What must students who submitted predicted/forecasted/term results do after receiving the provisional admission?",
+    "answer": "They must submit the actual marks/grade sheet of the qualifying examination as soon as it is available and meet the eligibility requirements for the program.",
+    "intent": "document_submission"
+  },
+  {
+    "question": "What additional document is required for candidates who studied in schools other than CBSE and are applying for MBBS/BDS/B.Sc Nursing?",
+    "answer": "They must produce an equivalence certificate obtained from the Association of Indian Universities (AIU), New Delhi.",
+    "intent": "equivalence_certificate"
+  },
+  {
+    "question": "What approval is required for candidates applying for nursing courses?",
+    "answer": "Candidates applying for nursing courses must submit approval from the Indian Nursing Council (INC) before the confirmed admission letter is issued.",
+    "intent": "nursing_approval"
+  },
+  {
+    "question": "What details are included in the provisional admission letter?",
+    "answer": "The provisional admission letter includes details of tuition fees and other fees payable.",
+    "intent": "fee_details"
+  },
+  {
+    "question": "Where can I find information about fee payment?",
+    "answer": "Fee payment details can be found in section 3.6 of the document.",
+    "intent": "fee_payment_info"
+  },
+  {
+    "question": "What is the required currency for paying tuition, hostel/accommodation, registration fee, examination fee, and other applicable fees at SRM Institute of Science and Technology?",
+    "answer": "The required currency for paying tuition, hostel/accommodation, registration fee, examination fee, and other applicable fees is US Dollars.",
+    "intent": "payment_currency"
+  },
+  {
+    "question": "How should the fees be paid at SRM Institute of Science and Technology?",
+    "answer": "The fees must be paid by electronic transfer only.",
+    "intent": "payment_method"
+  },
+  {
+    "question": "What is the deadline for paying the fees after receiving the provisional admission letter?",
+    "answer": "The fees must be paid within 10 days from the date of issue of the provisional admission letter.",
+    "intent": "payment_deadline"
+  },
+  {
+    "question": "Are bank charges included in the fees remitted to SRM Institute of Science and Technology?",
+    "answer": "No, the fees remitted must be exclusive of bank charges.",
+    "intent": "bank_charges"
+  },
+  {
+    "question": "Who is responsible if the provisional admission letter email is not delivered?",
+    "answer": "The university is not responsible for the non-delivery of the email for any reason whatsoever.",
+    "intent": "email_delivery"
+  },
+  {
+    "question": "Where can I find the bank details for electronic transfer?",
+    "answer": "The bank details for electronic transfer will be provided in the provisional admission letter.",
+    "intent": "bank_details"
+  },
+  {
+    "question": "What should I do immediately after making the wire transfer for admission?",
+    "answer": "Immediately after making the wire transfer, you should fill up all details in the “DETAILS OF THE ELECTRONIC WIRE TRANSFER” (EWT) form, scan it, and send it to ir.accounts@srmist.edu.in by email.",
+    "intent": "payment_intimation"
+  },
+  {
+    "question": "Is it mandatory to send the “DETAILS OF THE ELECTRONIC WIRE TRANSFER” (EWT) form after making the payment?",
+    "answer": "Yes, it is mandatory to fill up the EWT form, scan it, and send it to ir.accounts@srmist.edu.in by email.",
+    "intent": "ewt_form"
+  },
+  {
+    "question": "Why is it important to send the “DETAILS OF THE ELECTRONIC WIRE TRANSFER” (EWT) form?",
+    "answer": "It is very important to send the EWT form to effect proper and timely credit.",
+    "intent": "ewt_importance"
+  },
+  {
+    "question": "Where should I send the scanned “DETAILS OF THE ELECTRONIC WIRE TRANSFER” (EWT) form?",
+    "answer": "The scanned EWT form should be sent to ir.accounts@srmist.edu.in by email.",
+    "intent": "ewt_submission"
+  },
+  {
+    "question": "What fees need to be paid for the first year of admission at SRM Institute of Science and Technology?",
+    "answer": "The full annual tuition fees, registration fees, and examination fees for the first year need to be paid and credited into the SRMIST account.",
+    "intent": "fee_payment"
+  },
+  {
+    "question": "When is the letter of confirmed admission sent?",
+    "answer": "The letter of confirmed admission is sent by email once the full annual tuition fees, registration fees, and examination fees for the first year are received and credited into the SRMIST account, and on receipt of final mark sheets and all other mandatory documents.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "What is the basis for confirming admission at SRM Institute of Science and Technology?",
+    "answer": "Admission is confirmed on a “Merit-cum-First Come First serve” basis.",
+    "intent": "admission_criteria"
+  },
+  {
+    "question": "What happens if the full tuition fees are not paid within the stipulated date?",
+    "answer": "Failure to pay the full tuition fees will automatically deprive the applicant of the admission opportunity, and the university reserves the right to admit other eligible applicants without further notice.",
+    "intent": "fee_deadline"
+  },
+  {
+    "question": "Can SRM Institute of Science and Technology be held responsible for any lost opportunities or loss/damages arising from failure to pay fees?",
+    "answer": "No, SRM Institute of Science and Technology cannot be held responsible for any lost opportunities or loss/damages arising thereof.",
+    "intent": "liability"
+  },
+  {
+    "question": "What can the confirmed admission letter be used for by foreign students?",
+    "answer": "The confirmed admission letter may be used by foreign students to apply for student visas, ticketing, insurance, and others.",
+    "intent": "admission_letter"
+  },
+  {
+    "question": "What does the pre-enrolment process involve?",
+    "answer": "The document does not provide specific details about the pre-enrolment process.",
+    "intent": "pre_enrolment"
+  },
+  {
+    "question": "What is pre-enrolment at SRM Institute of Science and Technology?",
+    "answer": "Pre-enrolment is the process of verifying academic transcripts and obtaining declarations from parents/student upon arrival to the campus.",
+    "intent": "pre-enrollment_process"
+  },
+  {
+    "question": "How will the university communicate the procedure for pre-enrolment and commencement of classes?",
+    "answer": "The university will send a separate communication detailing the procedure for pre-enrolment, commencement of classes, and other necessary admission formalities.",
+    "intent": "communication_process"
+  },
+  {
+    "question": "Where can candidates find the actual date of commencement of first-year classes?",
+    "answer": "Candidates are advised to check the university website for the actual date of commencement of first-year classes.",
+    "intent": "commencement_date"
+  },
+  {
+    "question": "What is the purpose of the pre-enrolment process?",
+    "answer": "The purpose of pre-enrolment is to verify academic transcripts and obtain necessary declarations from parents/student.",
+    "intent": "pre-enrollment_purpose"
+  },
+  {
+    "question": "What is included in the admission formalities at SRM Institute of Science and Technology?",
+    "answer": "Admission formalities include verifying academic transcripts, obtaining declarations from parents/student, and other necessary procedures.",
+    "intent": "admission_formalities"
+  },
+  {
+    "question": "How does the university assist candidates with the admission process?",
+    "answer": "The university sends separate communications and updates its website with necessary information for completing admission formalities.",
+    "intent": "admission_assistance"
+  },
+  {
+    "question": "What is the role of the university website in the admission process?",
+    "answer": "The university website provides updates on the actual date of commencement of first-year classes and other necessary admission-related information.",
+    "intent": "university_website"
+  },
+  {
+    "question": "What documents are verified during the pre-enrolment process?",
+    "answer": "Academic transcripts are verified during the pre-enrolment process.",
+    "intent": "pre-enrollment_documents"
+  },
+  {
+    "question": "What declarations are obtained during pre-enrolment?",
+    "answer": "Declarations are obtained from parents/student during the pre-enrolment process.",
+    "intent": "pre-enrollment_declarations"
+  },
+  {
+    "question": "What is the significance of pre-enrolment for candidates?",
+    "answer": "Pre-enrolment is a mandatory step to verify academic credentials and complete admission formalities before starting classes.",
+    "intent": "pre-enrollment_significance"
+  },
+  {
+    "question": "How can candidates stay updated on admission-related information?",
+    "answer": "Candidates can stay updated by regularly checking the university website and looking out for communications from the university.",
+    "intent": "staying_updated"
+  },
+  {
+    "question": "What is the process for registration at SRM Institute of Science and Technology?",
+    "answer": "The registration process entails verifying academic transcripts and obtaining declarations from parents/student upon arrival to the campus.",
+    "intent": "registration_process"
+  },
+  {
+    "question": "What is the recommended time for students to reach SRM Institute of Science and Technology before classes start?",
+    "answer": "Students are advised to reach at least 2-3 days before the commencement of classes.",
+    "intent": "admission_timeline"
+  },
+  {
+    "question": "Where should students report to complete admission formalities at SRM Institute of Science and Technology?",
+    "answer": "Students should report to the Directorate of International Relations.",
+    "intent": "admission_reporting"
+  },
+  {
+    "question": "What documents need to be verified in original at the time of registration?",
+    "answer": "Degree or Pass certificate of the qualifying examination, grade/mark sheet of the qualifying examination, translated versions of all documents if they are not in English, copy of Passport with a valid student visa, equivalence certificate from AIU (if applicable), approval from INC for Nursing programs, NATA score card for B Arch Program, migration certificate (if applicable), and transfer certificate.",
+    "intent": "admission_documents"
+  },
+  {
+    "question": "What is the process for verifying a Passport with a student visa?",
+    "answer": "The original Passport with a valid student visa will be verified, and it will be returned after verification.",
+    "intent": "visa_verification"
+  },
+  {
+    "question": "Is an equivalence certificate from the Association of Indian Universities (AIU) required?",
+    "answer": "Yes, wherever applicable.",
+    "intent": "aiu_equivalence"
+  },
+  {
+    "question": "What is required for Nursing programs at SRM Institute of Science and Technology?",
+    "answer": "Approval from the Indian Nursing Council (INC) is required for Nursing programs.",
+    "intent": "nursing_programs"
+  },
+  {
+    "question": "What is required for B Arch programs at SRM Institute of Science and Technology?",
+    "answer": "A NATA score card is required for B Arch programs.",
+    "intent": "b_arch_requirements"
+  },
+  {
+    "question": "What additional fees may be required at the time of admission?",
+    "answer": "Additional fees may be required for first-year books, clinical or laboratory materials, transport, etc., and should be remitted as per norms.",
+    "intent": "additional_fees"
+  },
+  {
+    "question": "Are there any specific fees for PhD students?",
+    "answer": "Yes, a thesis fee is applicable for PhD students as per Directorate of Research norms.",
+    "intent": "phd_fees"
+  },
+  {
+    "question": "When is a student permitted to move into the allotted hostels?",
+    "answer": "Only after the admission formalities are completed.",
+    "intent": "hostel_allocation"
+  },
+  {
+    "question": "What is the process for remitting additional fees?",
+    "answer": "Additional fees should be remitted as per norms.",
+    "intent": "fee_remission"
+  },
+  {
+    "question": "Is a migration certificate required for admission?",
+    "answer": "Yes, if applicable.",
+    "intent": "migration_certificate"
+  },
+  {
+    "question": "What is the purpose of verifying documents at the time of registration?",
+    "answer": "To complete the admission formalities.",
+    "intent": "document_purpose"
+  },
+  {
+    "question": "Are translated versions of documents required if they are not in English?",
+    "answer": "Yes, translated versions of all documents are required if they are not in English.",
+    "intent": "document_translation"
+  },
+  {
+    "question": "What is the role of the Directorate of International Relations in the admission process?",
+    "answer": "The Directorate of International Relations is where students should report to complete admission formalities.",
+    "intent": "dir_international_relations"
+  },
+  {
+    "question": "Can students move into hostels before completing admission formalities?",
+    "answer": "No, students are only permitted to move into hostels after admission formalities are completed.",
+    "intent": "hostel_policy"
+  },
+  {
+    "question": "Is a transfer certificate required for admission?",
+    "answer": "Yes, if applicable.",
+    "intent": "transfer_certificate"
+  },
+  {
+    "question": "Does SRM IST accept cash transactions for its services?",
+    "answer": "No, SRM IST does not accept cash transactions for any of its services.",
+    "intent": "payment_methods"
+  },
+  {
+    "question": "What happens if someone uses cash transactions through non-official channels?",
+    "answer": "If someone uses cash transactions through non-official channels, they do so at their own risk, and SRM IST or its authorities are not responsible for any consequences.",
+    "intent": "payment_risk"
+  },
+  {
+    "question": "Is SRM IST responsible for consequences arising from cash transactions?",
+    "answer": "No, SRM IST or its authorities are not responsible for any consequences arising from cash transactions.",
+    "intent": "responsibility"
+  },
+  {
+    "question": "What should students/parents do to avoid risks associated with cash transactions?",
+    "answer": "Students/parents should avoid cash transactions and use only official channels for any payments.",
+    "intent": "payment_advice"
+  },
+  {
+    "question": "Why does SRM IST not accept cash transactions?",
+    "answer": "SRM IST does not accept cash transactions to ensure transparency and security in all its services.",
+    "intent": "payment_policy"
+  },
+  {
+    "question": "What is SRMIST-DDE?",
+    "answer": "SRMIST-DDE is a division of SRM Institute of Science and Technology, offering distance education programs.",
+    "intent": "About SRMIST-DDE"
+  },
+  {
+    "question": "What programs does SRMIST-DDE offer?",
+    "answer": "SRMIST-DDE offers Diploma, Undergraduate, and Postgraduate programs.",
+    "intent": "Programs Offered"
+  },
+  {
+    "question": "Is SRMIST-DDE a recognized institution?",
+    "answer": "Yes, SRMIST-DDE is a nationally recognized institution.",
+    "intent": "Recognition"
+  },
+  {
+    "question": "What is the ranking of SRM Institute of Science and Technology?",
+    "answer": "SRM Institute of Science and Technology is the top-ranked university in India.",
+    "intent": "University Ranking"
+  },
+  {
+    "question": "What kind of support does SRMIST-DDE provide to students?",
+    "answer": "SRMIST-DDE provides personalized support and career advice to students.",
+    "intent": "Student Support"
+  },
+  {
+    "question": "How does SRMIST-DDE help students with their careers?",
+    "answer": "SRMIST-DDE offers career advice and helps students set study goals throughout their studies.",
+    "intent": "Career Support"
+  },
+  {
+    "question": "What is the advantage of an accredited degree from SRMIST-DDE?",
+    "answer": "An accredited degree from SRMIST-DDE is a great advantage in the job market.",
+    "intent": "Degree Advantage"
+  },
+  {
+    "question": "What type of learning experience does SRMIST-DDE offer?",
+    "answer": "SRMIST-DDE offers a unique and vibrant learning experience with personalized support.",
+    "intent": "Learning Experience"
+  },
+  {
+    "question": "Is SRMIST-DDE involved in research activities?",
+    "answer": "Yes, SRMIST-DDE is connected with powerful research activities.",
+    "intent": "Research Activities"
+  },
+  {
+    "question": "What is the student-centric approach at SRMIST-DDE?",
+    "answer": "SRMIST-DDE provides consistent support for the progress of students.",
+    "intent": "Student-Centric Approach"
+  },
+  {
+    "question": "What highlights does SRMIST-DDE offer?",
+    "answer": "SRMIST-DDE highlights its personalized support, career advice, and high-quality distance education.",
+    "intent": "Highlights"
+  },
+  {
+    "question": "Who benefits from the admission policy of SRM Institute of Science and Technology?",
+    "answer": "The admission policy especially benefits working individuals who wish to pursue higher education alongside their careers.",
+    "intent": "benefits"
+  },
+  {
+    "question": "What are the salient features of SRMIST-DDE?",
+    "answer": "The salient features include providing access to academic opportunities for educated persons, offering lifelong learning resources, a technology-based delivery system, interactive learning environments, scientific evaluation methods, and inputs from industry experts.",
+    "intent": "features"
+  },
+  {
+    "question": "How does SRMIST-DDE ensure increased student engagement?",
+    "answer": "SRMIST-DDE uses a technology-based delivery system to ensure increased student engagement.",
+    "intent": "delivery_system"
+  },
+  {
+    "question": "What kind of learning environment does SRMIST-DDE create?",
+    "answer": "SRMIST-DDE creates an interactive learning environment through a learner-centric approach.",
+    "intent": "learning_environment"
+  },
+  {
+    "question": "How does SRMIST-DDE build legitimacy for its qualifications?",
+    "answer": "SRMIST-DDE uses a scientific and objective evaluation method to build legitimacy for its degrees, diplomas, and certificates.",
+    "intent": "evaluation_method"
+  },
+  {
+    "question": "What kind of inputs are considered in SRMIST-DDE programs?",
+    "answer": "SRMIST-DDE incorporates inputs from industry experts and corporate partners.",
+    "intent": "industry_inputs"
+  },
+  {
+    "question": "What techniques does SRMIST use to support learners?",
+    "answer": "SRMIST uses the finest techniques currently in use to support learners’ self-directed learning.",
+    "intent": "techniques_support"
+  },
+  {
+    "question": "What are the benefits of SRMIST's learning approach?",
+    "answer": "It reduces cost, saves time, and helps to be more productive.",
+    "intent": "benefits_learning"
+  },
+  {
+    "question": "Can students learn at their own pace at SRMIST?",
+    "answer": "Yes, students can learn at their own pace.",
+    "intent": "learning_pace"
+  },
+  {
+    "question": "What additional support does SRMIST-DDE provide?",
+    "answer": "SRMIST-DDE provides additional support by guiding students through NPTEL and MOOC for extensive learning.",
+    "intent": "additional_support"
+  },
+  {
+    "question": "How can I apply to SRMIST?",
+    "answer": "The mode of application is available through the SRMIST-DDE platform.",
+    "intent": "application_mode"
+  },
+  {
+    "question": "Where can candidates apply for admission to SRMIST DDE programmes?",
+    "answer": "The entire process of admission to SRMIST DDE programmes is carried out through online applications.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "What information is available on the SRMIST website for DDE programmes?",
+    "answer": "The website provides all the information related to any programme like the courses offered, credits, evaluation methodology, and fees.",
+    "intent": "programme_details"
+  },
+  {
+    "question": "Where can candidates find information about SRMIST DDE programmes?",
+    "answer": "Candidates can visit the official website [https://www.srmist.edu.in//](https://www.srmist.edu.in/) and will be guided to “Admission India” - “Directorate of Distance Education”.",
+    "intent": "website_info"
+  },
+  {
+    "question": "What steps are involved in the SRMIST DDE application process?",
+    "answer": "Candidates need to fill in the online application form with relevant details and upload essential documents such as marksheet, provisional certificate, and degree certificate.",
+    "intent": "application_steps"
+  },
+  {
+    "question": "What documents are required for the SRMIST DDE application?",
+    "answer": "Candidates need to upload essential documents such as marksheet, provisional certificate, and degree certificate.",
+    "intent": "required_documents"
+  },
+  {
+    "question": "What is the fee for completing the SRMIST DDE application?",
+    "answer": "Candidates have to remit Rs 500/- to complete the application procedure.",
+    "intent": "application_fee"
+  },
+  {
+    "question": "Is pre-admission counseling required for SRMIST DDE programmes?",
+    "answer": "Yes, SRMIST provides pre-admission counseling for candidates.",
+    "intent": "counseling_required"
+  },
+  {
+    "question": "Where can prospective distance learners find information about programs before applying or joining?",
+    "answer": "Information is available on the website in the form of textual content, FAQs, E-Brochures, videos, and detailed program project reports.",
+    "intent": "information_sources"
+  },
+  {
+    "question": "What are the accepted methods for fee payment for selected candidates?",
+    "answer": "Fee payment can be made by online transfer, bank draft, or pay order directly in favor of the directorate.",
+    "intent": "payment_methods"
+  },
+  {
+    "question": "How can learners access their fee receipts?",
+    "answer": "Learners can access their fee receipts through their user logins.",
+    "intent": "accessing_receipts"
+  },
+  {
+    "question": "Is there a capitation fee or donation required for admission in ODL or online mode?",
+    "answer": "No, there is no capitation fee or any donation required for obtaining admission.",
+    "intent": "admission_requirements"
+  },
+  {
+    "question": "Are payment details of learners uploaded by the directorate?",
+    "answer": "Yes, it is mandatory for the directorate to upload all payment details of the learner.",
+    "intent": "payment_details"
+  },
+  {
+    "question": "What happens after document verification for admission?",
+    "answer": "The Directorate of Distance Education will check the criteria and dispatch a Provisional Allotment Letter to your email.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "How will I receive the Provisional Allotment Letter?",
+    "answer": "It will be sent to your personal email address.",
+    "intent": "allotment_letter"
+  },
+  {
+    "question": "What should I do after receiving the Provisional Allotment Letter?",
+    "answer": "You need to make the tuition fee payment within the stipulated time.",
+    "intent": "payment_procedure"
+  },
+  {
+    "question": "How will I be informed about pending documents?",
+    "answer": "The support team will communicate with you if any documents are pending.",
+    "intent": "document_requirements"
+  },
+  {
+    "question": "What programs are offered by SRMIST Distance Education?",
+    "answer": "B.A., B.Com., B.C.A., and B.B.A. degrees are offered.",
+    "intent": "available_programs"
+  },
+  {
+    "question": "What are the eligibility criteria for B.A. admission?",
+    "answer": "Applicants must meet the UGC-prescribed criteria.",
+    "intent": "eligibility_criteria"
+  },
+  {
+    "question": "What qualifications are needed for admission?",
+    "answer": "Students must have passed the intermediate class from a recognized board.",
+    "intent": "qualification_requirements"
+  },
+  {
+    "question": "Can students from any stream apply for these programs?",
+    "answer": "Yes, students from any stream can apply.",
+    "intent": "stream_eligibility"
+  },
+  {
+    "question": "What is the process for admission to SRMIST distance programs?",
+    "answer": "After document verification, a Provisional Allotment Letter is emailed, and then tuition fees must be paid.",
+    "intent": "admission_process"
+  },
+  {
+    "question": "How long does it take to receive the Provisional Allotment Letter?",
+    "answer": "It is dispatched quickly after document verification.",
+    "intent": "allotment_letter"
+  },
+  {
+    "question": "What happens if I don't pay the tuition fees on time?",
+    "answer": "You must pay within the stipulated time; late payment may affect your enrollment.",
+    "intent": "payment_deadline"
+  },
+  {
+    "question": "Who should I contact if I have pending documents?",
+    "answer": "The support team will communicate with you regarding any pending documents.",
+    "intent": "support_contact"
+  },
+  {
+    "question": "Are there any specific boards required for eligibility?",
+    "answer": "You must have passed from any acknowledged board of education.",
+    "intent": "board_recognition"
+  },
+  {
+    "question": "Can I apply if I haven't graduated yet?",
+    "answer": "No, you must have passed the intermediate class.",
+    "intent": "current_students"
+  },
+  {
+    "question": "Are there any additional criteria beyond passing the intermediate?",
+    "answer": "You must meet the UGC criteria.",
+    "intent": "additional_criteria"
+  },
+  {
+    "question": "How do I know if my documents are complete?",
+    "answer": "The Directorate will verify and inform you of any pending documents.",
+    "intent": "document_status"
+  },
+  {
+    "question": "What if I don't receive the Provisional Allotment Letter?",
+    "answer": "It is dispatched quickly; check your email or contact support if you don't receive it.",
+    "intent": "allotment_issue"
+  },
+  {
+    "question": "Can international students apply for these programs?",
+    "answer": "The document doesn't specify, but recognition of the board is key.",
+    "intent": "international_eligibility"
+  },
+  {
+    "question": "What is the minimum duration required to complete a B.A. or B.Com degree at SRM Institute of Science and Technology?",
+    "answer": "The minimum duration required to complete a B.A. or B.Com degree is three years.",
+    "intent": "duration"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to B.A. or B.Com courses at SRM Institute of Science and Technology?",
+    "answer": "To become eligible for admission, the candidate must have passed the 10+2 qualifying exams from a recognized institution.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the minimum duration required to complete an M.A. or M.Com degree at SRM Institute of Science and Technology?",
+    "answer": "The minimum duration required to complete an M.A. or M.Com degree is two years.",
+    "intent": "duration"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to M.A. or M.Com courses at SRM Institute of Science and Technology?",
+    "answer": "The candidate must have passed the undergraduate course in the relevant stream from any recognized institution and meet the eligibility criteria prescribed by the UGC.",
+    "intent": "eligibility"
+  },
+  {
+    "question": "What is the minimum duration required to complete an M.C.A. or M.B.A. degree at SRM Institute of Science and Technology?",
+    "answer": "The minimum duration required to complete an M.C.A. or M.B.A. degree is two years.",
+    "intent": "duration"
+  },
+  {
+    "question": "What are the eligibility criteria for admission to M.C.A. or M.B.A. courses at SRM Institute of Science and Technology?",
+    "answer": "The candidate must have passed the undergraduate course in the relevant stream from any recognized institution.",
+    "intent": "eligibility"
+  }
+]
